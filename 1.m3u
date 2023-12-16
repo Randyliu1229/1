@@ -143,7 +143,7 @@ http://3889890682.iptv.netsxz.com:61800/tsfile/live/1004_1.m3u8
 http://3889890682.iptv.netsxz.com:61800/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://epg.112114.xyz/logo/天津体育.png" group-title="天津频道",天津体育
 http://3889890682.iptv.netsxz.com:61800/tsfile/live/1006_1.m3u8
-#EXTINF:-1 tvg-id="天津科教" tvg-name="天津科教" tvg-logo="https://epg.112114.xyz/logo/天津科教.png" group-title="天津频道",天津科教
+#EXTINF:-1 tvg-id="天津科教" tvg-name="天津教育" tvg-logo="https://epg.112114.xyz/logo/天津科教.png" group-title="天津频道",天津科教
 http://3889890682.iptv.netsxz.com:61800/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" tvg-logo="https://epg.112114.xyz/logo/天津新闻.png" group-title="天津频道",天津新闻 备用
 http://3191703954.iptv.netsxz.com:61800/tsfile/live/1002_1.m3u8
@@ -281,7 +281,7 @@ http://192.168.124.211:4022/udp/225.1.1.149:5002
 http://192.168.124.211:4022/udp/225.1.1.128:5002
 #EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://epg.112114.xyz/logo/天津体育.png" group-title="天津IPTV",天津体育HD
 http://192.168.124.211:4022/udp/225.1.1.122:5002
-#EXTINF:-1 tvg-id="天津科教" tvg-name="天津科教" tvg-logo="https://epg.112114.xyz/logo/天津科教.png" group-title="天津IPTV",天津科教HD
+#EXTINF:-1 tvg-id="天津科教" tvg-name="天津教育" tvg-logo="https://epg.112114.xyz/logo/天津科教.png" group-title="天津IPTV",天津科教HD
 http://192.168.124.211:4022/udp/225.1.1.129:5002
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="港澳频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8

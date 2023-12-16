@@ -113,7 +113,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2228825807_1324573507
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1668600311&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.112114.eu.org/logo/五星体育.png" group-title="卫视频道",五星体育
+#EXTINF:-1 tvg-name="上海五星体育" tvg-logo="https://epg.112114.eu.org/logo/五星体育.png" group-title="卫视频道",五星体育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://epg.112114.eu.org/logo/卡酷少儿.png" group-title="卫视频道",卡酷少儿
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001245/index.m3u8?love=freedom
@@ -225,7 +225,7 @@ http://192.168.124.211:4022/udp/225.1.1.113:5002
 http://192.168.124.211:4022/udp/225.1.1.154:5002
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视IPTV",江苏卫视HD
 http://192.168.124.211:4022/udp/225.1.1.126:5002
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视IPTV",东南卫视HD
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视IPTV",东南卫视HD
 http://192.168.124.211:4022/udp/225.1.2.235:5002
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视IPTV",重庆卫视HD
 http://192.168.124.211:4022/udp/225.1.1.155:5002
@@ -331,11 +331,11 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=lotustv
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="港澳频道",澳视澳门
 http://61.244.22.5/ch1/ch1.live/index.m3u8
-#EXTINF:-1 tvg-id="东森新闻" tvg-logo="https://epg.112114.xyz/logo/东森新闻.png" group-title="台湾频道",东森新闻
+#EXTINF:-1 tvg-id="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻.png" group-title="台湾频道",东森新闻
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-news
 #EXTINF:-1 tvg-id="东森综合" tvg-logo="https://epg.112114.xyz/logo/东森综合.png" group-title="台湾频道",东森综合
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-ettv
-#EXTINF:-1 tvg-id="东森财经新闻" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻.png" group-title="台湾频道",东森财经新闻
+#EXTINF:-1 tvg-id="东森财经新闻台" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻.png" group-title="台湾频道",东森财经新闻
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-finance
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" group-title="台湾频道",东森超视
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-supertv
@@ -349,13 +349,13 @@ http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ctv
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ctv-news
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="台湾频道",台视
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ttv
-#EXTINF:-1 tvg-id="台视新闻" tvg-logo="https://epg.112114.xyz/logo/台视新闻.png" group-title="台湾频道",台视新闻
+#EXTINF:-1 tvg-id="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻.png" group-title="台湾频道",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 tvg-id="台视新闻" tvg-logo="https://epg.112114.xyz/logo/台视新闻.png" group-title="台湾频道",台视新闻 HD
+#EXTINF:-1 tvg-id="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻.png" group-title="台湾频道",台视新闻 HD
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ttv-news
-#EXTINF:-1 tvg-id="民视台湾" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="台湾频道",民视台湾
+#EXTINF:-1 tvg-id="民视台湾台" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="台湾频道",民视台湾
 http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
-#EXTINF:-1 tvg-id="民视新闻" tvg-logo="https://epg.112114.xyz/logo/民视新闻.png" group-title="台湾频道",民视新闻
+#EXTINF:-1 tvg-id="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻.png" group-title="台湾频道",民视新闻
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="台湾频道",公视
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=pts

@@ -7,7 +7,7 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频道",CCTV-3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://epg.112114.eu.org/logo/CCTV4.png" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV-4
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-1555628407/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?icpid=3&RTS=1668594272&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV-5
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
@@ -153,7 +153,7 @@ http://3191703954.iptv.netsxz.com:61800/tsfile/live/1004_1.m3u8
 http://3191703954.iptv.netsxz.com:61800/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="高清频道",CCTV1-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="高清频道，体育频道",CCTV5-4K
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="高清频道",CCTV5-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="高清频道",CCTV16-4K
 http://148.135.93.213:81/bestv.php?id=cctv16hd4k/15000000
@@ -279,7 +279,7 @@ http://192.168.124.211:4022/udp/225.1.1.131:5002
 http://192.168.124.211:4022/udp/225.1.1.149:5002
 #EXTINF:-1 tvg-id="天津都市" tvg-name="天津都市" tvg-logo="https://epg.112114.xyz/logo/天津都市.png" group-title="天津IPTV",天津都市HD
 http://192.168.124.211:4022/udp/225.1.1.128:5002
-#EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://epg.112114.xyz/logo/天津体育.png" group-title="天津IPTV，体育频道",天津体育HD
+#EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://epg.112114.xyz/logo/天津体育.png" group-title="天津IPTV",天津体育HD
 http://192.168.124.211:4022/udp/225.1.1.122:5002
 #EXTINF:-1 tvg-id="天津科教" tvg-name="天津科教" tvg-logo="https://epg.112114.xyz/logo/天津科教.png" group-title="天津IPTV",天津科教HD
 http://192.168.124.211:4022/udp/225.1.1.129:5002

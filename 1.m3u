@@ -363,7 +363,7 @@ http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=pts
 http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://epg.112114.xyz/logo/三立新闻.png" group-title="台湾频道",三立新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 tvg-id="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="台湾频道",中天新闻
+#EXTINF:-1 tvg-id="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="台湾频道",中天新闻
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=cti-news
 #EXTINF:-1 tvg-id="中天娱乐" tvg-logo="https://epg.112114.xyz/logo/中天娛樂.png" group-title="台湾频道",中天娱乐
 http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
@@ -377,7 +377,7 @@ http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=1
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=cts
 #EXTINF:-1 tvg-id="华视新闻" tvg-logo="https://epg.112114.xyz/logo/华视新闻.png" group-title="台湾频道",华视新闻
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=cts-news
-#EXTINF:-1 tvg-id="靖天国际" tvg-logo="https://epg.112114.xyz/logo/靖天国际台.png" group-title="台湾频道",靖天国际台
+#EXTINF:-1 tvg-id="靖天国际" tvg-logo="https://epg.112114.xyz/logo/靖天国际.png" group-title="台湾频道",靖天国际台
 http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
 #EXTINF:-1 tvg-id="靖天卡通" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="台湾频道",靖天卡通
 http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c

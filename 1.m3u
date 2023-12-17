@@ -132,23 +132,37 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.
 #EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://epg.112114.eu.org/logo/QIUSUO4.png" group-title="卫视频道",求索生活
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" tvg-logo="https://epg.112114.xyz/logo/TIANJIN1.png" group-title="天津频道",天津新闻
-http://3889890682.iptv.netsxz.com:61800/tsfile/live/1002_1.m3u8
+http://www.51romzj.xyz:666/diyroms/dll/ysp/tjiptv.php?id=tjxw
 #EXTINF:-1 tvg-id="天津文艺" tvg-name="天津文艺" tvg-logo="https://epg.112114.xyz/logo/TIANJIN2.png" group-title="天津频道",天津文艺
-http://3889890682.iptv.netsxz.com:61800/tsfile/live/1003_1.m3u8
+http://www.51romzj.xyz:666/diyroms/dll/ysp/tjiptv.php?id=tjwy
 #EXTINF:-1 tvg-id="天津影视" tvg-name="天津影视" tvg-logo="https://epg.112114.xyz/logo/TIANJIN3.png" group-title="天津频道",天津影视
-http://3889890682.iptv.netsxz.com:61800/tsfile/live/1004_1.m3u8
+http://www.51romzj.xyz:666/diyroms/dll/ysp/tjiptv.php?id=tjys
 #EXTINF:-1 tvg-id="天津都市" tvg-name="天津都市" tvg-logo="https://epg.112114.xyz/logo/TIANJIN4.png" group-title="天津频道",天津都市
-http://3889890682.iptv.netsxz.com:61800/tsfile/live/1005_1.m3u8
+http://www.51romzj.xyz:666/diyroms/dll/ysp/tjiptv.php?id=tjds
 #EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://epg.112114.xyz/logo/TIANJIN5.png" group-title="天津频道",天津体育
-http://3889890682.iptv.netsxz.com:61800/tsfile/live/1006_1.m3u8
+http://www.51romzj.xyz:666/diyroms/dll/ysp/tjiptv.php?id=tjty
 #EXTINF:-1 tvg-id="天津科教" tvg-name="天津教育" tvg-logo="https://epg.112114.xyz/logo/TIANJIN6.png" group-title="天津频道",天津科教
-http://3889890682.iptv.netsxz.com:61800/tsfile/live/1007_1.m3u8
+http://www.51romzj.xyz:666/diyroms/dll/ysp/tjiptv.php?id=tjkej
+#EXTINF:-1 tvg-id="天津少儿" tvg-name="天津少儿" tvg-logo="https://epg.112114.xyz/logo/TIANJIN7.png" group-title="天津频道",天津少儿
+http://www.51romzj.xyz:666/diyroms/dll/ysp/tjiptv.php?id=tjse
+#EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" tvg-logo="https://epg.112114.xyz/logo/TIANJIN1.png" group-title="天津频道",天津新闻 备用
+http://3889890682.iptv.netsxz.com:61800/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" tvg-logo="https://epg.112114.xyz/logo/TIANJIN1.png" group-title="天津频道",天津新闻 备用
 http://3191703954.iptv.netsxz.com:61800/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-id="天津文艺" tvg-name="天津文艺" tvg-logo="https://epg.112114.xyz/logo/TIANJIN2.png" group-title="天津频道",天津文艺 备用
+http://3889890682.iptv.netsxz.com:61800/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-id="天津影视" tvg-name="天津影视" tvg-logo="https://epg.112114.xyz/logo/TIANJIN3.png" group-title="天津频道",天津影视 备用
+http://3889890682.iptv.netsxz.com:61800/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-id="天津影视" tvg-name="天津影视" tvg-logo="https://epg.112114.xyz/logo/TIANJIN3.png" group-title="天津频道",天津影视 备用
 http://3191703954.iptv.netsxz.com:61800/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-id="天津都市" tvg-name="天津都市" tvg-logo="https://epg.112114.xyz/logo/TIANJIN4.png" group-title="天津频道",天津都市 备用
+http://3889890682.iptv.netsxz.com:61800/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://epg.112114.xyz/logo/TIANJIN5.png" group-title="天津频道",天津体育 备用
+http://3889890682.iptv.netsxz.com:61800/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://epg.112114.xyz/logo/TIANJIN5.png" group-title="天津频道",天津体育 备用
 http://3191703954.iptv.netsxz.com:61800/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-id="天津科教" tvg-name="天津教育" tvg-logo="https://epg.112114.xyz/logo/TIANJIN6.png" group-title="天津频道",天津科教 备用
+http://3889890682.iptv.netsxz.com:61800/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="高清频道",CCTV1-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="高清频道",CCTV5-4K

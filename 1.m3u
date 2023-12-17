@@ -123,6 +123,8 @@ rtmp://livealone.iqilu.com/iqilu/typdhjOF03kn
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001245/index.m3u8?love=freedom
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视频道",哈哈炫动
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001232/index.m3u8?love=freedom
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视频道",金鹰卡通
+https://epg.pw/stream/321f73ad28440de1629cd54e028c9355b2cb709eb8b30b90e4d0f3d5b41b0c4e.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="卫视频道",CHC动作电影
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="卫视频道",CHC家庭影院
@@ -347,6 +349,8 @@ http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=feicui
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=pearl
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳频道",J2
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=j2
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳频道",J2 HD
+https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/TVB4.png" group-title="港澳频道",无线新闻
 http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=wuxianxinwen
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/TVB4.png" group-title="港澳频道",无线新闻HD
@@ -381,8 +385,10 @@ http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=RTHK35
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://epg.112114.xyz/logo/lotusmacau.png" group-title="港澳频道",澳门莲花
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=lotustv
-#EXTINF:-1 tvg-name="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/AOMEN1.png" group-title="港澳频道",澳视澳门
+#EXTINF:-1 tvg-name="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/AOSHI1.png" group-title="港澳频道",澳视澳门
 http://61.244.22.5/ch1/ch1.live/index.m3u8
+#EXTINF:-1 tvg-name="澳视葡文" tvg-logo="https://epg.112114.xyz/logo/AOSHI2.png" group-title="港澳频道",澳视葡文
+https://epg.pw/stream/655d3221e3ba843fa3d911fb37f58329b8f0d5a1127aa6936d97be4107910be9.m3u8
 #EXTINF:-1 tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾频道",东森新闻
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-news
 #EXTINF:-1 tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="台湾频道",东森综合
@@ -541,6 +547,8 @@ http://likea8bitboss.xyz:80/Amy1234/6350412987/761454
 http://likea8bitboss.xyz:80/Amy1234/6350412987/742645
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO FAMILY
 http://likea8bitboss.xyz:80/Amy1234/6350412987/742646
+#EXTINF:-1 tvg-name="russia today" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="欧美频道",Russia Today
+https://epg.pw/stream/4d7697b8989b06294a65c0812eb1d7e67d66c546b3c3a9267d34d5220f9c8777.m3u8
 #EXTINF:-1 tvg-id="RTDocumentaryRussian.ru" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="欧美频道",RT Documentary
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="亚洲频道",Arirang Korea
@@ -656,8 +664,10 @@ http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=elta-sport1
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=elta-sport2
 #EXTINF:-1 tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="体育频道",爱尔达体育-3
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=elta-sport3
-#EXTINF:-1 tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育频道",ELEVEN体育-1
+#EXTINF:-1 tvg-name="ELEVEN体育一台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS1.png" group-title="体育频道",ELEVEN体育-1
 http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+#EXTINF:-1 tvg-name="ELEVEN体育二台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS2.png" group-title="体育频道",ELEVEN体育-2
+https://epg.pw/stream/5d72f17fbafcb20f44d1e2a68d514058df12e0e56686b8f5d98bf78cf897d046.m3u8
 #EXTINF:-1 tvg-id="10761" tvg-name="J SPORTS 1" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165726980841_51.jpg" group-title="体育频道",J Sprots 1
 https://epg.pw/stream/c02d25b31667e5e5e63261258612e3818688ef65926d25dabc9f56f4e11e2b3b.m3u8
 #EXTINF:-1 tvg-id="10768" tvg-name="J SPORTS 2" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162826971601_87.jpg" group-title="体育频道",J Sprots 2
@@ -674,14 +684,26 @@ https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #EXTINF:-1 tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="人文频道",国家地理野生
 http://europe3.livetv.az/russia/nat_geo_wild_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="人文频道",Discovery
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",National Geography
+http://likea8bitboss.xyz:80/Amy1234/6350412987/363
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NatGeoWild.png" group-title="人文频道",Nat Geo Wild
+http://likea8bitboss.xyz:80/Amy1234/6350412987/362
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="人文频道",探索发现
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=discovery
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="人文频道",Discovery HD
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="人文频道",探索发现HD
 http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-#EXTINF:-1 tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="人文频道",Discovery Asia
+#EXTINF:-1 tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="人文频道",探索发现亚洲
 http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
-#EXTINF:-1 tvg-name="Discovery科学" tvg-logo="https://epg.112114.xyz/logo/DISCOVERYSCIENCE.png" group-title="人文频道",Discovery Science
+#EXTINF:-1 tvg-name="Discovery科学" tvg-logo="https://epg.112114.xyz/logo/DISCOVERYSCIENCE.png" group-title="人文频道",探索科学
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=discovery-sci
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="人文频道",Discovery
+http://likea8bitboss.xyz:80/Amy1234/6350412987/317
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DISCOVERYSCIENCE.png" group-title="人文频道",Discovery Science
+http://likea8bitboss.xyz:80/Amy1234/6350412987/649291
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HISTORY HD.png" group-title="人文频道",History
+http://likea8bitboss.xyz:80/Amy1234/6350412987/343
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/MTVASIA.png" group-title="人文频道",MTV
+http://likea8bitboss.xyz:80/Amy1234/6350412987/358
 #EXTINF:-1 tvg-name="bbc travel" tvg-logo="https://epg.pw/media/images/channel/2017/02/26/large/20170226212754000637_52.jpg" group-title="人文频道",BBC Travel XP
 https://epg.pw/stream/4b9815ad48078c318ef3db1d27be70006d552c019d932d44bbfdf0da1ac7940e.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NASA.png" group-title="人文频道",NASA TV

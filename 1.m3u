@@ -364,7 +364,6 @@ http://www.51romzj.fun/dll/diyroms/dll/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="无线星河" tvg-name="无线星河" tvg-logo="https://epg.112114.xyz/logo/TVB6.png" group-title="港澳频道",无线星河
 http://113.117.74.17:8081/hls/135/index.m3u8
 #EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",TVB华丽翡翠台
-#EXTINF:-1 group-title="🇭🇰 香港台",TVB华丽翡翠台
 http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=TVBhualifeicui
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/channelv.png" group-title="港澳频道",Channel V
 http://36.36.200.212:9901/tsfile/live/1010_1.m3u8?key=txiptv&url=tvzb.com

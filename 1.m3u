@@ -649,7 +649,7 @@ https://epg.pw/stream/ca89e46836f09f72a3b0fd65e262dfcbe9dc2e1c0deab05b4833046557
 https://epg.pw/stream/4d7697b8989b06294a65c0812eb1d7e67d66c546b3c3a9267d34d5220f9c8777.m3u8
 #EXTINF:-1 tvg-id="RTDocumentaryRussian.ru" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="欧美频道",RT Documentary
 https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DWDEUTSCH.png" group-title="欧美频道“,DW德国之声
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DWDEUTSCH.png" group-title="欧美频道",DW德国之声
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="亚洲频道",Arirang Korea
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8

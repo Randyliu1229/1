@@ -326,11 +326,11 @@ http://192.168.124.211:4022/udp/225.1.1.149:5002
 #EXTINF:-1 tvg-id="天津都市" tvg-name="天津都市" tvg-logo="https://epg.112114.xyz/logo/TIANJIN4.png" group-title="天津IPTV",天津都市HD
 http://192.168.124.211:4022/udp/225.1.1.128:5002
 #EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://epg.112114.xyz/logo/TIANJIN5.png" group-title="天津IPTV",天津体育HD
-http://192.168.124.211:4022/udp/225.1.1.132:5002
+http://192.168.124.211:4022/udp/225.1.1.122:5002
 #EXTINF:-1 tvg-id="天津科教" tvg-name="天津教育" tvg-logo="https://epg.112114.xyz/logo/TIANJIN6.png" group-title="天津IPTV",天津科教HD
 http://192.168.124.211:4022/udp/225.1.1.129:5002
 #EXTINF:-1 tvg-id="天津少儿" tvg-name="天津少儿" tvg-logo="https://epg.112114.xyz/logo/TIANJIN7.png" group-title="天津IPTV",天津少儿HD P
-http://192.168.124.211:4022/udp/225.1.1.126:5002
+http://192.168.124.211:4022/udp/225.1.1.125:5002
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳频道",凤凰卫视

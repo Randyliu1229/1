@@ -615,7 +615,7 @@ http://likea8bitboss.xyz:80/Amy1234/6350412987/761231
 http://likea8bitboss.xyz:80/Amy1234/6350412987/761234
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/uk/bbc/bbc_four.png" group-title="欧美频道",BBC FOUR
 http://likea8bitboss.xyz:80/Amy1234/6350412987/761229
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/uk/bbc/bbc_parliament.png" group-title="欧美频道",BBC Parliament P
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/uk/bbc/bbc_parliament.png" group-title="欧美频道",BBC Parliament
 http://likea8bitboss.xyz:80/Amy1234/6350412987/761232
 #EXTINF:-1 tvg-name="bbc drama" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613192924068930_27.png" group-title="欧美频道",BBC Drama
 https://epg.pw/stream/49ad9324651393a0225343e4ae5d1b18cfacbf25586b4486fc8fb456426af8db.m3u8
@@ -623,13 +623,13 @@ https://epg.pw/stream/49ad9324651393a0225343e4ae5d1b18cfacbf25586b4486fc8fb45642
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="欧美频道",HBO HD
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=hbo-hd
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO 1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO1
 http://likea8bitboss.xyz:80/Amy1234/6350412987/761453
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO 1 HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO1 HD
 https://epg.pw/stream/1f44d0b1ffa596bf68f50d6d18a92b2752f6cf9615bcd05c8cc607edef823521.ctv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO 2
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO2
 http://likea8bitboss.xyz:80/Amy1234/6350412987/761454
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO 2 HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO2 HD
 https://epg.pw/stream/b8659735da53c649267dec519db2cfdc0ba327f349f5012bceb6ae3369ca139f.ctv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO COMEDY
 http://likea8bitboss.xyz:80/Amy1234/6350412987/742645
@@ -712,9 +712,9 @@ http://likea8bitboss.xyz:80/Amy1234/6350412987/761350
 http://likea8bitboss.xyz:80/Amy1234/6350412987/761348
 #EXTINF:-1 tvg-name=“ESPN” tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="体育频道",ESPN
 http://likea8bitboss.xyz:80/Amy1234/6350412987/5930
-#EXTINF:-1 tvg-name=“ESPN2” tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="体育频道",ESPN 2
+#EXTINF:-1 tvg-name=“ESPN2” tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="体育频道",ESPN2
 http://likea8bitboss.xyz:80/Amy1234/6350412987/5931
-#EXTINF:-1 tvg-name=“ESPN3” tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="体育频道",ESPN 3
+#EXTINF:-1 tvg-name=“ESPN3” tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="体育频道",ESPN3
 http://likea8bitboss.xyz:80/Amy1234/6350412987/742621
 #EXTINF:-1 tvg-name=“ESPNU” tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="体育频道",ESPN U
 http://likea8bitboss.xyz:80/Amy1234/6350412987/5934
@@ -724,9 +724,9 @@ http://likea8bitboss.xyz:80/Amy1234/6350412987/5935
 http://likea8bitboss.xyz:80/Amy1234/6350412987/5937
 #EXTINF:-1 tvg-name=“ESPNNETWORK” tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="体育频道",ESPN SEC NETWORK
 http://likea8bitboss.xyz:80/Amy1234/6350412987/743074
-#EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="体育频道",EUROSPORT 1
+#EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="体育频道",EUROSPORT1
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
-#EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="体育频道",EUROSPORT 2
+#EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="体育频道",EUROSPORT2
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="体育频道",EUROSPORT1 HD
 http://likea8bitboss.xyz:80/Amy1234/6350412987/761335
@@ -734,17 +734,17 @@ http://likea8bitboss.xyz:80/Amy1234/6350412987/761335
 http://likea8bitboss.xyz:80/Amy1234/6350412987/761334
 #EXTINF:-1 tvg-id="FOXSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="体育频道",FOX Sport
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="体育频道",FOX SPORTS 1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="体育频道",FOX SPORTS1
 http://likea8bitboss.xyz:80/Amy1234/6350412987/743847
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="体育频道",FOX SPORTS 2
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="体育频道",FOX SPORTS2
 http://likea8bitboss.xyz:80/Amy1234/6350412987/743848
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="体育频道",FOX SOCCER PLUS
 http://likea8bitboss.xyz:80/Amy1234/6350412987/743846
-#EXTINF:-1 tvg-id="11144" tvg-name="BeIN Sports 1" tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524223919778843_75.png" group-title="体育频道",BeIN Sports 1
+#EXTINF:-1 tvg-id="11144" tvg-name="BeIN Sports 1" tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524223919778843_75.png" group-title="体育频道",BeIN Sports1
 https://epg.pw/stream/f075247115f9fd5c28e21226ead8b2e4e92b3ac45f34d146f2c30bf3eee8db96.m3u8
-#EXTINF:-1 tvg-id="4146" tvg-name="BeIN Sports 2" tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524224225388422_19.png" group-title="体育频道",BeIN Sports 2
+#EXTINF:-1 tvg-id="4146" tvg-name="BeIN Sports 2" tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524224225388422_19.png" group-title="体育频道",BeIN Sports2
 https://epg.pw/stream/073409ccfe1baca569fa72db270633db48476e456e007c7ad4d1cafca102c9f5.m3u8
-#EXTINF:-1 tvg-id="3118" tvg-name="BeIN Sports 3" tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524224541817352_82.png" group-title="体育频道",BeIN Sports 3
+#EXTINF:-1 tvg-id="3118" tvg-name="BeIN Sports 3" tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524224541817352_82.png" group-title="体育频道",BeIN Sports3
 https://epg.pw/stream/b950b582e929cdf2f012c4f96d8822c3fc31db5f94f14ce3de186a21cc22efce.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524223919778843_75.png" group-title="体育频道",BeIN Sports HD
 http://likea8bitboss.xyz:80/Amy1234/6350412987/743826
@@ -758,15 +758,15 @@ http://likea8bitboss.xyz:80/Amy1234/6350412987/649307
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=videoland-sport
 #EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育频道",纬来体育HD
 https://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1 tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="体育频道",爱尔达体育-1
+#EXTINF:-1 tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="体育频道",爱尔达体育1
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=elta-sport1
-#EXTINF:-1 tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="体育频道",爱尔达体育-2
+#EXTINF:-1 tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="体育频道",爱尔达体育2
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=elta-sport2
-#EXTINF:-1 tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="体育频道",爱尔达体育-3
+#EXTINF:-1 tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="体育频道",爱尔达体育3
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=elta-sport3
-#EXTINF:-1 tvg-name="ELEVEN体育一台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS1.png" group-title="体育频道",ELEVEN体育-1
+#EXTINF:-1 tvg-name="ELEVEN体育一台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS1.png" group-title="体育频道",ELEVEN体育1
 http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
-#EXTINF:-1 tvg-name="ELEVEN体育二台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS2.png" group-title="体育频道",ELEVEN体育-2
+#EXTINF:-1 tvg-name="ELEVEN体育二台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS2.png" group-title="体育频道",ELEVEN体育2
 https://epg.pw/stream/5d72f17fbafcb20f44d1e2a68d514058df12e0e56686b8f5d98bf78cf897d046.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" tvg-id="6174" tvg-name="博斯运动二台" group-title="体育频道",博斯运动2台
 http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
@@ -778,21 +778,21 @@ http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&c
 http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" tvg-id="6178" tvg-name="博斯高球2台" group-title="体育频道",博斯高球2台
 http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
-#EXTINF:-1 tvg-id="10761" tvg-name="J SPORTS 1" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165726980841_51.jpg" group-title="体育频道",J Sprots 1
+#EXTINF:-1 tvg-id="10761" tvg-name="J SPORTS 1" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165726980841_51.jpg" group-title="体育频道",J Sprots1
 https://epg.pw/stream/c02d25b31667e5e5e63261258612e3818688ef65926d25dabc9f56f4e11e2b3b.m3u8
-#EXTINF:-1 tvg-id="10768" tvg-name="J SPORTS 2" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162826971601_87.jpg" group-title="体育频道",J Sprots 2
+#EXTINF:-1 tvg-id="10768" tvg-name="J SPORTS 2" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162826971601_87.jpg" group-title="体育频道",J Sprots2
 https://epg.pw/stream/6e98b01b223383c282b8afd75a1ecbd7fca2b6ec1a1b6263762304d8571f0f90.m3u8
-#EXTINF:-1 tvg-id="10822" tvg-name="j sports 3" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162738908092_15.jpg" group-title="体育频道",J Sprots 3
+#EXTINF:-1 tvg-id="10822" tvg-name="j sports 3" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162738908092_15.jpg" group-title="体育频道",J Sprots3
 https://epg.pw/stream/6ac26d2e889a4dfe0b5f4a6807b556e21dbcb2deef764c4835a67de96253a617.m3u8
-#EXTINF:-1 tvg-id="10829" tvg-name="J SPORTS 4" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162616728241_88.jpg" group-title="体育频道",J Sprots 4
+#EXTINF:-1 tvg-id="10829" tvg-name="J SPORTS 4" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162616728241_88.jpg" group-title="体育频道",J Sprots4
 https://epg.pw/stream/3692c40f884349c5fbd21b64fa3bae93d9c12e94704637704360dcf809274ed3.m3u8
-#EXTINF:-1 tvg-name="BBCEarth" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png“ group-title="人文频道",BBC Earth
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png“ group-title="人文频道",BBC Earth
 http://likea8bitboss.xyz:80/Amy1234/6350412987/761361
-#EXTINF:-1 tvg-name="BBCLifesytle" tvg-logo="https://epg.112114.xyz/logo/BBCLIFESTYLE.png“ group-title="人文频道",BBC Lifesytle
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BBCLIFESTYLE.png“ group-title="人文频道",BBC Lifesytle
 http://198.16.100.90:8278/bbclifestyle_twn/playlist.m3u8?
 #EXTINF:-1 tvg-name="国家地理频道" tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理
 https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
-#EXTINF:-1 tvg-name="国家地理频道" tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理亚洲
+#EXTINF:-1 tvg-name="国家地理频道" tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理台湾
 http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 #EXTINF:-1 tvg-name="国家地理频道" tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理Arabic
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
@@ -800,9 +800,9 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t
 http://europe3.livetv.az/russia/nat_geo_wild_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="国家地理野生频道" tvg-logo="https://epg.112114.xyz/logo/NatGeoWild.png" group-title="人文频道",国家地理野生HD
 http://www.51romzj.shop:666/ytb.php?id=NatGeoWILD
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",National Geography
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理英文
 http://likea8bitboss.xyz:80/Amy1234/6350412987/363
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NatGeoWild.png" group-title="人文频道",Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NatGeoWild.png" group-title="人文频道",国家地理野生英文
 http://likea8bitboss.xyz:80/Amy1234/6350412987/362
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="人文频道",探索发现
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=discovery
@@ -810,11 +810,11 @@ http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=discovery
 http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 #EXTINF:-1 tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="人文频道",探索发现亚洲
 http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="人文频道",探索发现英文
+http://likea8bitboss.xyz:80/Amy1234/6350412987/317
 #EXTINF:-1 tvg-name="Discovery科学" tvg-logo="https://epg.112114.xyz/logo/DISCOVERYSCIENCE.png" group-title="人文频道",探索科学
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=discovery-sci
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="人文频道",Discovery
-http://likea8bitboss.xyz:80/Amy1234/6350412987/317
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DISCOVERYSCIENCE.png" group-title="人文频道",Discovery Science
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DISCOVERYSCIENCE.png" group-title="人文频道",探索科学英文
 http://likea8bitboss.xyz:80/Amy1234/6350412987/649291
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HISTORY HD.png" group-title="人文频道",History
 http://likea8bitboss.xyz:80/Amy1234/6350412987/343

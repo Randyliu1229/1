@@ -417,14 +417,14 @@ http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-finance
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-supertv
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="台湾频道",东森超视HD
 http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
-#EXTINF:-1 tvg-name="东森洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台湾频道",东森洋片
-http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
 #EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="台湾频道",东森戏剧
 http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
 #EXTINF:-1 tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾频道",东森电影
 http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 #EXTINF:-1 tvg-name="东森美洲" tvg-logo="https://epg.112114.xyz/logo/DONGSENAMERICA.png" group-title="台湾频道",东森美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台湾频道",东森洋片
+http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
 #EXTINF:-1 tvg-name="东森幼幼台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="台湾频道",东森YOYO
 https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/ZHONGSHI.png" group-title="台湾频道",中视
@@ -786,9 +786,9 @@ https://epg.pw/stream/6e98b01b223383c282b8afd75a1ecbd7fca2b6ec1a1b6263762304d857
 https://epg.pw/stream/6ac26d2e889a4dfe0b5f4a6807b556e21dbcb2deef764c4835a67de96253a617.m3u8
 #EXTINF:-1 tvg-id="10829" tvg-name="J SPORTS 4" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162616728241_88.jpg" group-title="体育频道",J Sprots 4
 https://epg.pw/stream/3692c40f884349c5fbd21b64fa3bae93d9c12e94704637704360dcf809274ed3.m3u8
-#EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png“ group-title="人文频道",BBC EARTH
+#EXTINF:-1 tvg-name="BBCEarth" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png“ group-title="人文频道",BBC Earth
 http://likea8bitboss.xyz:80/Amy1234/6350412987/761361
-#EXTINF:-1 tvg-id="6147" tvg-name="BBCLifesytle" tvg-logo="https://epg.112114.xyz/logo/BBCLIFESTYLE.png“ group-title="人文频道",BBC Lifesytle
+#EXTINF:-1 tvg-name="BBCLifesytle" tvg-logo="https://epg.112114.xyz/logo/BBCLIFESTYLE.png“ group-title="人文频道",BBC Lifesytle
 http://198.16.100.90:8278/bbclifestyle_twn/playlist.m3u8?
 #EXTINF:-1 tvg-name="国家地理频道" tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理
 https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8

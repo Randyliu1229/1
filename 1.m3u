@@ -347,6 +347,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",TVB翡翠台
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=feicui
+#EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",TVB翡翠台HD
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/TVB2.png" group-title="港澳频道",TVB明珠台
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=pearl
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳频道",J2
@@ -358,9 +360,9 @@ http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=wuxianxinwen
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/TVB4.png" group-title="港澳频道",无线新闻HD
 http://www.51romzj.fun/dll/diyroms/dll/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/TVB5.png" group-title="港澳频道",无线财经
-http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=wuxiancaijing
-#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/TVB5.png" group-title="港澳频道",无线财经HD
 http://www.51romzj.fun/dll/diyroms/dll/tvb.php?id=2&hq
+#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/TVB5.png" group-title="港澳频道",无线财经HD
+http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
 #EXTINF:-1 tvg-id="无线星河" tvg-name="无线星河" tvg-logo="https://epg.112114.xyz/logo/TVB6.png" group-title="港澳频道",无线星河
 http://113.117.74.17:8081/hls/135/index.m3u8
 #EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",TVB华丽翡翠台
@@ -393,6 +395,8 @@ http://www.51romzj.xyz:666/diyroms/dll/ysp/hk.php?id=HOYTV1080P
 http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" tvg-id="145" tvg-name="美亚高清电影台" group-title="港澳频道",美亚电影
 http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct=19211&tsum=f65f39620c24fee2e633c4727cc48727
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" tvg-id="145" tvg-name="美亚高清电影台" group-title="港澳频道",美亚电影HD
+http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337  
 #EXTINF:-1 tvg-name="耀才财经台" tvg-logo="https://epg.112114.xyz/logo/YAOCAICAIJING.png" group-title="港澳频道",耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://epg.112114.xyz/logo/lotusmacau.png" group-title="港澳频道",澳门莲花
@@ -411,6 +415,8 @@ http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-news
 #EXTINF:-1 tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="台湾频道",东森综合
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-ettv
+#EXTINF:-1 tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="台湾频道",东森综合HD
+http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
 #EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾频道",东森财经新闻
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-finance
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="台湾频道",东森超视
@@ -421,6 +427,8 @@ http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=192
 http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
 #EXTINF:-1 tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾频道",东森电影
 http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+#EXTINF:-1 tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾频道",东森电影HD
+http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 #EXTINF:-1 tvg-name="东森美洲" tvg-logo="https://epg.112114.xyz/logo/DONGSENAMERICA.png" group-title="台湾频道",东森美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台湾频道",东森洋片
@@ -455,6 +463,8 @@ http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=1
 http://www.51romzj.shop:666/ytb.php?id=gongshixw
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" tvg-id="6239" tvg-name="三立综合台" group-title="台湾频道",三立综合
 http://50.7.238.114:8278/sanlizhonghe/playlist.m3u8?ct=17874&tid=m3362167a08a014596868&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" tvg-id="6239" tvg-name="三立综合台" group-title="台湾频道",三立综合HD
+http://198.16.100.90:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
 #EXTINF:-1 tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="台湾频道",三立台湾
 http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 #EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾频道",三立新闻
@@ -473,12 +483,16 @@ http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=cti-news
 http://www.51romzj.shop:666/ytb.php?id=ztxw2
 #EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/CTIASIA.png" group-title="台湾频道",中天亚洲
 http://50.7.238.114:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
+#EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/CTIASIA.png" group-title="台湾频道",中天亚洲HD
+http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 #EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾频道",中天娱乐
 http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 #EXTINF:-1 tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="台湾频道",八大综合
 http://50.7.238.114:8278/badazhonghe/playlist.m3u8?ct=19225&tid=MC7C4692263546922635&tsum=ffdc7a6397b511103e0df0b92e678790
 #EXTINF:-1 tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="台湾频道",八大第一台
 http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+#EXTINF:-1 tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="台湾频道",八大第一台HD
+http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 #EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="台湾频道",八大戏剧
 http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
 #EXTINF:-1 tvg-name="华视" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾频道",华视
@@ -519,12 +533,20 @@ http://www.51romzj.shop:666/ytb.php?id=hyxwtwt
 http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=tianyingpindao12
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/TIANYINGJD.png" group-title="台湾频道",天映经典
 http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=tianyingjingdian12
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" tvg-id="7203" tvg-name="星卫娱乐" group-title="台湾",星卫娱乐
+http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
 #EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="台湾频道",龙祥时代
 http://198.16.100.90:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHXJ.png" tvg-id="7127" tvg-name="龙华戏剧" group-title="台湾频道",龙华戏剧
 http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHYP.png" tvg-id="7132" tvg-name="龙华经典" group-title="台湾频道",龙华经典
+http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHYP.png" tvg-id="7132" tvg-name="龙华偶像" group-title="台湾频道",龙华偶像
+http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHYP.png" tvg-id="7132" tvg-name="龙华洋片" group-title="台湾频道",龙华洋片
 http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHYP.png" tvg-id="7132" tvg-name="龙华洋片" group-title="台湾频道",龙华洋片HD
+http://198.16.100.90:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" tvg-id="7201" tvg-name="爱尔达影剧" group-title="台湾频道",爱尔达影剧
 http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyexiju.png" tvg-id="7222" tvg-name="EYE戏剧" group-title="台湾频道",EYETV戏剧
@@ -768,6 +790,8 @@ http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=elta-sport3
 http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 #EXTINF:-1 tvg-name="ELEVEN体育二台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS2.png" group-title="体育频道",ELEVEN体育2
 https://epg.pw/stream/5d72f17fbafcb20f44d1e2a68d514058df12e0e56686b8f5d98bf78cf897d046.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net.png" tvg-id="6174" tvg-name="博斯运动一台" group-title="体育频道",博斯运动1台
+http://198.16.100.90:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" tvg-id="6174" tvg-name="博斯运动二台" group-title="体育频道",博斯运动2台
 http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" tvg-id="6175" tvg-name="博斯网球台" group-title="体育频道",博斯网球台

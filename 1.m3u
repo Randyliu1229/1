@@ -836,9 +836,9 @@ http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f24136221
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=discovery-sci
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DISCOVERYSCIENCE.png" group-title="人文频道",探索科学英文
 http://likea8bitboss.xyz:80/Amy1234/6350412987/649291
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BBC_EARTH.png“ group-title="人文频道",BBC Earth
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="人文频道",BBC Earth
 http://likea8bitboss.xyz:80/Amy1234/6350412987/761361
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BBC_LIFESTYLE.png“ group-title="人文频道",BBC Lifesytle
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="人文频道",BBC Lifesytle
 http://198.16.100.90:8278/bbclifestyle_twn/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HISTORY HD.png" group-title="人文频道",History
 http://likea8bitboss.xyz:80/Amy1234/6350412987/343
@@ -1116,9 +1116,9 @@ http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2948
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2947
 #EXTINF:-1 tvg-id="bbc.america.east.us" tvg-name="US008:BBC America HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US008BBC-America.png" group-title="海外代理",BBC America HD
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3160
-#EXTINF:-1 tvg-name="MY147:BBC Earth HD" https://epg.112114.xyz/logo/BBC_EARTH.png group-title="海外代理",BBC Earth HD
+#EXTINF:-1 tvg-name="MY147:BBC Earth HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="海外代理",BBC Earth HD
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/71119
-#EXTINF:-1 tvg-name="MY148:BBC Lifestyle" https://epg.112114.xyz/logo/BBC_LIFESTYLE.png group-title="海外代理",BBC Lifestyle
+#EXTINF:-1 tvg-name="MY148:BBC Lifestyle" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="海外代理",BBC Lifestyle
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/71120
 #EXTINF:-1 tvg-id="comedy.us" tvg-name="US045:HBO Comedy" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="海外代理",HBO Comedy
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3123

@@ -1031,8 +1031,9 @@ https://www.goodiptv.club/douyu/9317739
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",老高与小茉
 https://www.goodiptv.club/douyu/236461
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="UK080:Sky Sports PremierLeague HD" tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="海外代理",Sky Sports PremierLeague HD
-#EXTINF:-1 tvg-id="sky.sports.football.gb" tvg-name="UK087:Sky Sports Football HD" tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="海外代理",Sky Sports Football HD
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2877
+#EXTINF:-1 tvg-id="sky.sports.football.gb" tvg-name="UK087:Sky Sports Football HD" tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="海外代理",Sky Sports Football HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2870
 #EXTINF:-1 tvg-id="sky.sports.news.gb" tvg-name="UK082:Sky Sports News HD" tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="海外代理",Sky Sports News HD
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2875
 #EXTINF:-1 tvg-id="sky.sports.arena.gb" tvg-name="UK055:Sky Sports Arena HD" tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="海外代理",Sky Sports Arena HD

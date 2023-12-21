@@ -200,137 +200,137 @@ http://www.51romzj.xyz:666/diyroms/dll/ysp/jt.php?id=bjjskj8K
 #EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://epg.112114.xyz/logo/LOVENATURE.png" group-title="高清频道",Love Nature 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视IPTV",CCTV-1HD
-http://192.168.124.211:4022/udp/225.1.1.120:5002
+http://192.168.1.211:4022/udp/225.1.1.120:5002
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视IPTV",CCTV-2HD
-http://192.168.124.211:4022/udp/225.1.1.133:5002
+http://192.168.1.211:4022/udp/225.1.1.133:5002
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视IPTV",CCTV-3HD
-http://192.168.124.211:4022/udp/225.1.1.158:5002
+http://192.168.1.211:4022/udp/225.1.1.158:5002
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视IPTV",CCTV-4HD
-http://192.168.124.211:4022/udp/225.1.1.150:5002
+http://192.168.1.211:4022/udp/225.1.1.150:5002
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视IPTV",CCTV-5HD
-http://192.168.124.211:4022/udp/225.1.1.160:5002
+http://192.168.1.211:4022/udp/225.1.1.160:5002
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视IPTV",CCTV-5+HD
-http://192.168.124.211:4022/udp/225.1.1.121:5002
+http://192.168.1.211:4022/udp/225.1.1.121:5002
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视IPTV",CCTV-6HD
-http://192.168.124.211:4022/udp/225.1.1.195:5002
+http://192.168.1.211:4022/udp/225.1.1.195:5002
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视IPTV",CCTV-7HD
-http://192.168.124.211:4022/udp/225.1.1.138:5002
+http://192.168.1.211:4022/udp/225.1.1.138:5002
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视IPTV",CCTV-8HD
-http://192.168.124.211:4022/udp/225.1.1.196:5002
+http://192.168.1.211:4022/udp/225.1.1.196:5002
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视IPTV",CCTV-9HD
-http://192.168.124.211:4022/udp/225.1.1.119:5002
+http://192.168.1.211:4022/udp/225.1.1.119:5002
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视IPTV",CCTV-10HD
-http://192.168.124.211:4022/udp/225.1.1.140:5002
+http://192.168.1.211:4022/udp/225.1.1.140:5002
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视IPTV",CCTV 11HD
-http://192.168.124.211:4022/udp/225.1.2.192:5002
+http://192.168.1.211:4022/udp/225.1.2.192:5002
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视IPTV",CCTV-12HD
-http://192.168.124.211:4022/udp/225.1.1.142:5002
+http://192.168.1.211:4022/udp/225.1.1.142:5002
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视IPTV",CCTV-13HD
-http://192.168.124.211:4022/udp/225.1.2.193:5002
+http://192.168.1.211:4022/udp/225.1.2.193:5002
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视IPTV",CCTV-14HD
-http://192.168.124.211:4022/udp/225.1.1.144:5002
+http://192.168.1.211:4022/udp/225.1.1.144:5002
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视IPTV",CCTV-15HD
-http://192.168.124.211:4022/udp/225.1.2.194:5002
+http://192.168.1.211:4022/udp/225.1.2.194:5002
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视IPTV",CCTV-17HD
-http://192.168.124.211:4022/udp/225.1.2.52:5002
+http://192.168.1.211:4022/udp/225.1.2.52:5002
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视IPTV",央视风云足球HD
-http://192.168.124.211:4022/udp/225.1.2.168:5002
+http://192.168.1.211:4022/udp/225.1.2.168:5002
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视IPTV",央视风云音乐HD
-http://192.168.124.211:4022/udp/225.1.2.176:5002
+http://192.168.1.211:4022/udp/225.1.2.176:5002
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视IPTV",央视风云剧场HD
-http://192.168.124.211:4022/udp/225.1.2.174:5002
+http://192.168.1.211:4022/udp/225.1.2.174:5002
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视IPTV",央视怀旧剧场HD
-http://192.168.124.211:4022/udp/225.1.2.173:5002
+http://192.168.1.211:4022/udp/225.1.2.173:5002
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视IPTV",央视女性时尚HD
-http://192.168.124.211:4022/udp/225.1.2.172:5002
+http://192.168.1.211:4022/udp/225.1.2.172:5002
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视IPTV",央视世界地理HD
-http://192.168.124.211:4022/udp/225.1.2.171:5002
+http://192.168.1.211:4022/udp/225.1.2.171:5002
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视IPTV",央视台球HD
-http://192.168.124.211:4022/udp/225.1.2.170:5002
+http://192.168.1.211:4022/udp/225.1.2.170:5002
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视IPTV",天津卫视HD
-http://192.168.124.211:4022/udp/225.1.1.111:5002
+http://192.168.1.211:4022/udp/225.1.1.111:5002
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视IPTV",湖南卫视HD
-http://192.168.124.211:4022/udp/225.1.1.114:5002
+http://192.168.1.211:4022/udp/225.1.1.114:5002
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视IPTV",浙江卫视HD
-http://192.168.124.211:4022/udp/225.1.1.112:5002
+http://192.168.1.211:4022/udp/225.1.1.112:5002
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视IPTV",东方卫视HD
-http://192.168.124.211:4022/udp/225.1.2.31:5002
+http://192.168.1.211:4022/udp/225.1.2.31:5002
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视IPTV",北京卫视HD
-http://192.168.124.211:4022/udp/225.1.1.113:5002
+http://192.168.1.211:4022/udp/225.1.1.113:5002
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视IPTV",辽宁卫视HD
-http://192.168.124.211:4022/udp/225.1.1.154:5002
+http://192.168.1.211:4022/udp/225.1.1.154:5002
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视IPTV",江苏卫视HD
-http://192.168.124.211:4022/udp/225.1.1.126:5002
+http://192.168.1.211:4022/udp/225.1.1.126:5002
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视IPTV",东南卫视HD
-http://192.168.124.211:4022/udp/225.1.2.235:5002
+http://192.168.1.211:4022/udp/225.1.2.235:5002
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视IPTV",重庆卫视HD
-http://192.168.124.211:4022/udp/225.1.1.155:5002
+http://192.168.1.211:4022/udp/225.1.1.155:5002
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视IPTV",甘肃卫视HD
-http://192.168.124.211:4022/udp/225.1.1.30:5002
+http://192.168.1.211:4022/udp/225.1.1.30:5002
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视IPTV",贵州卫视HD
-http://192.168.124.211:4022/udp/225.1.2.28:5002
+http://192.168.1.211:4022/udp/225.1.2.28:5002
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视IPTV",四川卫视HD
-http://192.168.124.211:4022/udp/225.1.1.123:5002
+http://192.168.1.211:4022/udp/225.1.1.123:5002
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视IPTV",山东卫视HD
-http://192.168.124.211:4022/udp/225.1.1.148:5002
+http://192.168.1.211:4022/udp/225.1.1.148:5002
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视IPTV",湖北卫视HD
-http://192.168.124.211:4022/udp/225.1.1.147:5002
+http://192.168.1.211:4022/udp/225.1.1.147:5002
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视IPTV",黑龙江卫视HD
-http://192.168.124.211:4022/udp/225.1.1.115:5002
+http://192.168.1.211:4022/udp/225.1.1.115:5002
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视IPTV",广东卫视HD
-http://192.168.124.211:4022/udp/225.1.1.116:5002
+http://192.168.1.211:4022/udp/225.1.1.116:5002
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视IPTV",深圳卫视HD
-http://192.168.124.211:4022/udp/225.1.1.117:5002
+http://192.168.1.211:4022/udp/225.1.1.117:5002
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视IPTV",安徽卫视HD
-http://192.168.124.211:4022/udp/225.1.1.127:5002
+http://192.168.1.211:4022/udp/225.1.1.127:5002
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视IPTV",河北卫视HD
-http://192.168.124.211:4022/udp/225.1.2.27:5002
+http://192.168.1.211:4022/udp/225.1.2.27:5002
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视IPTV",河南卫视HD
-http://192.168.124.211:4022/udp/225.1.2.61:5002
+http://192.168.1.211:4022/udp/225.1.2.61:5002
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视IPTV",吉林卫视HD
-http://192.168.124.211:4022/udp/225.1.2.26:5002
+http://192.168.1.211:4022/udp/225.1.2.26:5002
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视IPTV",海南卫视HD
-http://192.168.124.211:4022/udp/225.1.2.82:5002
+http://192.168.1.211:4022/udp/225.1.2.82:5002
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视IPTV",内蒙古卫视HD
-http://192.168.124.211:4022/udp/225.1.1.32:5002
+http://192.168.1.211:4022/udp/225.1.1.32:5002
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视IPTV",广西卫视HD
-http://192.168.124.211:4022/udp/225.1.2.81:5002
+http://192.168.1.211:4022/udp/225.1.2.81:5002
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视IPTV",江西卫视HD
-http://192.168.124.211:4022/udp/225.1.2.29:5002
+http://192.168.1.211:4022/udp/225.1.2.29:5002
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视IPTV",金鹰纪实HD
-http://192.168.124.211:4022/udp/225.1.1.124:5002
+http://192.168.1.211:4022/udp/225.1.1.124:5002
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="卫视IPTV",快乐垂钓HD
-http://192.168.124.211:4022/udp/225.1.2.18:5002
+http://192.168.1.211:4022/udp/225.1.2.18:5002
 #EXTINF:-1 tvg-id="6585" tvg-name="茶" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="卫视IPTV",茶频道HD
-http://192.168.124.211:4022/udp/225.1.2.19:5002
+http://192.168.1.211:4022/udp/225.1.2.19:5002
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="卫视IPTV",文物宝库HD
-http://192.168.124.211:4022/udp/225.1.2.105:5002
+http://192.168.1.211:4022/udp/225.1.2.105:5002
 #EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="卫视IPTV",武术世界HD
-http://192.168.124.211:4022/udp/225.1.2.129:5002
+http://192.168.1.211:4022/udp/225.1.2.129:5002
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视IPTV",纪实人文HD
-http://192.168.124.211:4022/udp/225.1.2.25:5002
+http://192.168.1.211:4022/udp/225.1.2.25:5002
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="卫视IPTV",全纪实HD
-http://192.168.124.211:4022/udp/225.1.1.145:5002
+http://192.168.1.211:4022/udp/225.1.1.145:5002
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="卫视IPTV",CHC动作电影HD
-http://192.168.124.211:4022/udp/225.1.1.215:5002
+http://192.168.1.211:4022/udp/225.1.1.215:5002
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="卫视IPTV",CHC高清电影HD
-http://192.168.124.211:4022/udp/225.1.1.214:5002
+http://192.168.1.211:4022/udp/225.1.1.214:5002
 #EXTINF:-1 tvg-id="4K超清影视" tvg-name="4K超清影视" tvg-logo="https://epg.112114.xyz/logo/4KHD.png" group-title="卫视IPTV",4K超清影视
-http://192.168.124.211:4022/udp/225.1.1.156:5002
+http://192.168.1.211:4022/udp/225.1.1.156:5002
 #EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" tvg-logo="https://epg.112114.xyz/logo/TIANJIN1.png" group-title="天津IPTV",天津新闻HD
-http://192.168.124.211:4022/udp/225.1.1.130:5002
+http://192.168.1.211:4022/udp/225.1.1.130:5002
 #EXTINF:-1 tvg-id="天津文艺" tvg-name="天津文艺" tvg-logo="https://epg.112114.xyz/logo/TIANJIN2.png" group-title="天津IPTV",天津文艺HD
-http://192.168.124.211:4022/udp/225.1.1.131:5002
+http://192.168.1.211:4022/udp/225.1.1.131:5002
 #EXTINF:-1 tvg-id="天津影视" tvg-name="天津影视" tvg-logo="https://epg.112114.xyz/logo/TIANJIN3.png" group-title="天津IPTV",天津影视HD
-http://192.168.124.211:4022/udp/225.1.1.149:5002
+http://192.168.1.211:4022/udp/225.1.1.149:5002
 #EXTINF:-1 tvg-id="天津都市" tvg-name="天津都市" tvg-logo="https://epg.112114.xyz/logo/TIANJIN4.png" group-title="天津IPTV",天津都市HD
-http://192.168.124.211:4022/udp/225.1.1.128:5002
+http://192.168.1.211:4022/udp/225.1.1.128:5002
 #EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://epg.112114.xyz/logo/TIANJIN5.png" group-title="天津IPTV",天津体育HD
-http://192.168.124.211:4022/udp/225.1.1.122:5002
+http://192.168.1.211:4022/udp/225.1.1.122:5002
 #EXTINF:-1 tvg-id="天津科教" tvg-name="天津教育" tvg-logo="https://epg.112114.xyz/logo/TIANJIN6.png" group-title="天津IPTV",天津科教HD
-http://192.168.124.211:4022/udp/225.1.1.129:5002
+http://192.168.1.211:4022/udp/225.1.1.129:5002
 #EXTINF:-1 tvg-id="天津少儿" tvg-name="天津少儿" tvg-logo="https://epg.112114.xyz/logo/TIANJIN7.png" group-title="天津IPTV",天津少儿HD P
-http://192.168.124.211:4022/udp/225.1.1.125:5002
+http://192.168.1.211:4022/udp/225.1.1.125:5002
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="香港卫视文旅" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳频道",香港卫视文旅
@@ -347,6 +347,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",TVB翡翠台
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=feicui
+#EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",TVB翡翠台HD
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/TVB2.png" group-title="港澳频道",TVB明珠台
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=pearl
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳频道",J2
@@ -358,9 +360,9 @@ http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=wuxianxinwen
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/TVB4.png" group-title="港澳频道",无线新闻HD
 http://www.51romzj.fun/dll/diyroms/dll/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/TVB5.png" group-title="港澳频道",无线财经
-http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=wuxiancaijing
-#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/TVB5.png" group-title="港澳频道",无线财经HD
 http://www.51romzj.fun/dll/diyroms/dll/tvb.php?id=2&hq
+#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/TVB5.png" group-title="港澳频道",无线财经HD
+http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
 #EXTINF:-1 tvg-id="无线星河" tvg-name="无线星河" tvg-logo="https://epg.112114.xyz/logo/TVB6.png" group-title="港澳频道",无线星河
 http://113.117.74.17:8081/hls/135/index.m3u8
 #EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",TVB华丽翡翠台
@@ -393,6 +395,8 @@ http://www.51romzj.xyz:666/diyroms/dll/ysp/hk.php?id=HOYTV1080P
 http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" tvg-id="145" tvg-name="美亚高清电影台" group-title="港澳频道",美亚电影
 http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct=19211&tsum=f65f39620c24fee2e633c4727cc48727
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" tvg-id="145" tvg-name="美亚高清电影台" group-title="港澳频道",美亚电影HD
+http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337  
 #EXTINF:-1 tvg-name="耀才财经台" tvg-logo="https://epg.112114.xyz/logo/YAOCAICAIJING.png" group-title="港澳频道",耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://epg.112114.xyz/logo/lotusmacau.png" group-title="港澳频道",澳门莲花
@@ -411,6 +415,8 @@ http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-news
 #EXTINF:-1 tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="台湾频道",东森综合
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-ettv
+#EXTINF:-1 tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="台湾频道",东森综合HD
+http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
 #EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾频道",东森财经新闻
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-finance
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="台湾频道",东森超视
@@ -421,6 +427,8 @@ http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=192
 http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
 #EXTINF:-1 tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾频道",东森电影
 http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+#EXTINF:-1 tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾频道",东森电影HD
+http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 #EXTINF:-1 tvg-name="东森美洲" tvg-logo="https://epg.112114.xyz/logo/DONGSENAMERICA.png" group-title="台湾频道",东森美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台湾频道",东森洋片
@@ -455,6 +463,8 @@ http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=1
 http://www.51romzj.shop:666/ytb.php?id=gongshixw
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" tvg-id="6239" tvg-name="三立综合台" group-title="台湾频道",三立综合
 http://50.7.238.114:8278/sanlizhonghe/playlist.m3u8?ct=17874&tid=m3362167a08a014596868&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" tvg-id="6239" tvg-name="三立综合台" group-title="台湾频道",三立综合HD
+http://198.16.100.90:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
 #EXTINF:-1 tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="台湾频道",三立台湾
 http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 #EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾频道",三立新闻
@@ -473,12 +483,16 @@ http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=cti-news
 http://www.51romzj.shop:666/ytb.php?id=ztxw2
 #EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/CTIASIA.png" group-title="台湾频道",中天亚洲
 http://50.7.238.114:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
+#EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/CTIASIA.png" group-title="台湾频道",中天亚洲HD
+http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 #EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾频道",中天娱乐
 http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 #EXTINF:-1 tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="台湾频道",八大综合
 http://50.7.238.114:8278/badazhonghe/playlist.m3u8?ct=19225&tid=MC7C4692263546922635&tsum=ffdc7a6397b511103e0df0b92e678790
 #EXTINF:-1 tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="台湾频道",八大第一台
 http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+#EXTINF:-1 tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="台湾频道",八大第一台HD
+http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 #EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="台湾频道",八大戏剧
 http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
 #EXTINF:-1 tvg-name="华视" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾频道",华视
@@ -519,12 +533,20 @@ http://www.51romzj.shop:666/ytb.php?id=hyxwtwt
 http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=tianyingpindao12
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/TIANYINGJD.png" group-title="台湾频道",天映经典
 http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=tianyingjingdian12
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" tvg-id="7203" tvg-name="星卫娱乐" group-title="台湾频道",星卫娱乐
+http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
 #EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="台湾频道",龙祥时代
 http://198.16.100.90:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHXJ.png" tvg-id="7127" tvg-name="龙华戏剧" group-title="台湾频道",龙华戏剧
 http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHYP.png" tvg-id="7132" tvg-name="龙华经典" group-title="台湾频道",龙华经典
+http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHYP.png" tvg-id="7132" tvg-name="龙华偶像" group-title="台湾频道",龙华偶像
+http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHYP.png" tvg-id="7132" tvg-name="龙华洋片" group-title="台湾频道",龙华洋片
 http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHYP.png" tvg-id="7132" tvg-name="龙华洋片" group-title="台湾频道",龙华洋片HD
+http://198.16.100.90:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" tvg-id="7201" tvg-name="爱尔达影剧" group-title="台湾频道",爱尔达影剧
 http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyexiju.png" tvg-id="7222" tvg-name="EYE戏剧" group-title="台湾频道",EYETV戏剧
@@ -617,7 +639,7 @@ http://likea8bitboss.xyz:80/Amy1234/6350412987/761234
 http://likea8bitboss.xyz:80/Amy1234/6350412987/761229
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/uk/bbc/bbc_parliament.png" group-title="欧美频道",BBC Parliament
 http://likea8bitboss.xyz:80/Amy1234/6350412987/761232
-#EXTINF:-1 tvg-name="bbc drama" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613192924068930_27.png" group-title="欧美频道",BBC Drama
+#EXTINF:-1 tvg-name="bbc drama" tvg-logo="https://epg.112114.xyz/logo/uk/bbc/bbc_parliament.png" group-title="欧美频道",BBC Drama
 https://epg.pw/stream/49ad9324651393a0225343e4ae5d1b18cfacbf25586b4486fc8fb456426af8db.m3u8
 #EXTINF:-1 tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="欧美频道",FOX HD
 https://stream01.vnet.am/Fox/mono.m3u8
@@ -637,10 +659,10 @@ http://likea8bitboss.xyz:80/Amy1234/6350412987/742645
 http://likea8bitboss.xyz:80/Amy1234/6350412987/742646
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO FAMILY HD
 https://epg.pw/stream/2c7a16e88b105605a30398a655ab5d1c322671647fd9b63efbaec7aa68c1c26f.ctv
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO SIGNAUTURE
+https://epg.pw/stream/2c342fc784c1adf5c99b8111272b371cda8247236f0610c3a4f783cad848d286.ctv
 #EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://epg.pw/media/images/channel/2022/10/17/large/20221017223448453393_14.jpg" group-title="欧美频道",HBO XTREME
 https://epg.pw/stream/e215c1e64765b9c7ab6997a384614cff227ca4ef72a79d0b12d2a3a28df2d740.ctv
-#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://epg.pw/media/images/channel/2019/01/22/large/20190122001759661697_75.png" group-title="欧美频道",HBO SIGNAUTURE
-https://epg.pw/stream/2c342fc784c1adf5c99b8111272b371cda8247236f0610c3a4f783cad848d286.ctv
 #EXTINF:-1 tvg-id="11825" tvg-name="hbo hits" tvg-logo="https://epg.pw/media/images/channel/2020/01/17/large/20200117003327879035_26.jpg" group-title="欧美频道",HBO HITS
 https://epg.pw/stream/427e03dd99563179c24b5d7b2323de6ab3ca3b65b8b941e90c4f0e4edd54612a.ctv
 #EXTINF:-1 tvg-name="hbo plus" tvg-logo="https://epg.pw/media/images/channel/2023/02/12/large/20230212215529490602_27.png" group-title="欧美频道",HBO PLUS
@@ -768,6 +790,8 @@ http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=elta-sport3
 http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 #EXTINF:-1 tvg-name="ELEVEN体育二台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS2.png" group-title="体育频道",ELEVEN体育2
 https://epg.pw/stream/5d72f17fbafcb20f44d1e2a68d514058df12e0e56686b8f5d98bf78cf897d046.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net.png" tvg-id="6174" tvg-name="博斯运动一台" group-title="体育频道",博斯运动1台
+http://198.16.100.90:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" tvg-id="6174" tvg-name="博斯运动二台" group-title="体育频道",博斯运动2台
 http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" tvg-id="6175" tvg-name="博斯网球台" group-title="体育频道",博斯网球台
@@ -786,36 +810,36 @@ https://epg.pw/stream/6e98b01b223383c282b8afd75a1ecbd7fca2b6ec1a1b6263762304d857
 https://epg.pw/stream/6ac26d2e889a4dfe0b5f4a6807b556e21dbcb2deef764c4835a67de96253a617.m3u8
 #EXTINF:-1 tvg-id="10829" tvg-name="J SPORTS 4" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162616728241_88.jpg" group-title="体育频道",J Sprots4
 https://epg.pw/stream/3692c40f884349c5fbd21b64fa3bae93d9c12e94704637704360dcf809274ed3.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png“ group-title="人文频道",BBC Earth
-http://likea8bitboss.xyz:80/Amy1234/6350412987/761361
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BBCLIFESTYLE.png“ group-title="人文频道",BBC Lifesytle
-http://198.16.100.90:8278/bbclifestyle_twn/playlist.m3u8?
 #EXTINF:-1 tvg-name="国家地理频道" tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理
 https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
 #EXTINF:-1 tvg-name="国家地理频道" tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理台湾
 http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 #EXTINF:-1 tvg-name="国家地理频道" tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理Arabic
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理英文
+http://likea8bitboss.xyz:80/Amy1234/6350412987/363
 #EXTINF:-1 tvg-name="国家地理野生频道" tvg-logo="https://epg.112114.xyz/logo/NatGeoWild.png" group-title="人文频道",国家地理野生
 http://europe3.livetv.az/russia/nat_geo_wild_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="国家地理野生频道" tvg-logo="https://epg.112114.xyz/logo/NatGeoWild.png" group-title="人文频道",国家地理野生HD
 http://www.51romzj.shop:666/ytb.php?id=NatGeoWILD
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理英文
-http://likea8bitboss.xyz:80/Amy1234/6350412987/363
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NatGeoWild.png" group-title="人文频道",国家地理野生英文
 http://likea8bitboss.xyz:80/Amy1234/6350412987/362
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="人文频道",探索发现
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=discovery
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="人文频道",探索发现HD
 http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-#EXTINF:-1 tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="人文频道",探索发现亚洲
-http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="人文频道",探索发现英文
 http://likea8bitboss.xyz:80/Amy1234/6350412987/317
+#EXTINF:-1 tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="人文频道",探索发现亚洲
+http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 #EXTINF:-1 tvg-name="Discovery科学" tvg-logo="https://epg.112114.xyz/logo/DISCOVERYSCIENCE.png" group-title="人文频道",探索科学
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=discovery-sci
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DISCOVERYSCIENCE.png" group-title="人文频道",探索科学英文
 http://likea8bitboss.xyz:80/Amy1234/6350412987/649291
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="人文频道",BBC Earth
+http://likea8bitboss.xyz:80/Amy1234/6350412987/761361
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="人文频道",BBC Lifesytle
+http://198.16.100.90:8278/bbclifestyle_twn/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HISTORY HD.png" group-title="人文频道",History
 http://likea8bitboss.xyz:80/Amy1234/6350412987/343
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/MTVASIA.png" group-title="人文频道",MTV
@@ -1006,3 +1030,175 @@ https://myvercel-iota.vercel.app/yy/39123221
 https://www.goodiptv.club/douyu/9317739
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",老高与小茉
 https://www.goodiptv.club/douyu/236461
+#EXTINF:-1 tvg-id="sky.sports.football.gb" tvg-name="UK087:Sky Sports Football HD" tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="海外代理",Sky Sports Football HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2870
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK080:Sky Sports PremierLeague HD" tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="海外代理",Sky Sports PremierLeague HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2877
+#EXTINF:-1 tvg-id="sky.sports.news.gb" tvg-name="UK082:Sky Sports News HD" tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="海外代理",Sky Sports News HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2875
+#EXTINF:-1 tvg-id="sky.sports.arena.gb" tvg-name="UK055:Sky Sports Arena HD" tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="海外代理",Sky Sports Arena HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2902
+#EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK076:Sky Sports MainEvent HD" tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="海外代理",Sky Sports MainEvent HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2881
+#EXTINF:-1 tvg-id="sky.sports.f1.gb" tvg-name="UK081:Sky Sports F1 HD" tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="海外代理",Sky Sports F1 HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2876
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK291:Sky Sports NFL" tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="海外代理",Sky Sports NFL
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28768
+#EXTINF:-1 tvg-id="sky.sports.racing.gb" tvg-name="UK318:Sky Sports Racing FHD" tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="海外代理",Sky Sports Racing FHD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28741
+#EXTINF:-1 tvg-name="UK211:SuperSport Premier League FHD (Match Time)" tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="海外代理",SuperSport Premier League FHD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28848
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US032:ESPN-HD" tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="海外代理",ESPN-HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3136
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US031:ESPN-2" tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="海外代理",ESPN-2
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3137
+#EXTINF:-1 tvg-id="espnd.us" tvg-name="US895:ESPN +" tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="海外代理",ESPN +
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/60006
+#EXTINF:-1 tvg-id="espn.news.us" tvg-name="US033:ESPN-News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US033ESPN-News.png" group-title="海外代理",ESPN-News
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3135
+#EXTINF:-1 tvg-id="espn.u.us" tvg-name="US034:ESPN-U" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US034ESPN-U.png" group-title="海外代理",ESPN-U
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3134
+#EXTINF:-1 tvg-name="UK197:PREMIER SPORTS 1" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTSPREMIERLEAGUETV.png" group-title="海外代理",PREMIER SPORTS 1
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28862
+#EXTINF:-1 tvg-id="bbc.parliament.gb" tvg-name="UK198:PREMIER SPORTS 2" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTSPREMIERLEAGUETV.png" group-title="海外代理",PREMIER SPORTS 2
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28861
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK251:BEIN SPORTS 1 " tvg-logo="https://epg.112114.xyz/logo/BEINSPORTS.png" group-title="海外代理",BEIN SPORTS1
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28808
+#EXTINF:-1 tvg-name="UK252:BEIN SPORTS 2 " tvg-logo="https://epg.112114.xyz/logo/BEINSPORTS.png" group-title="海外代理",BEIN SPORTS2
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28807
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK254:BEIN SPORTS 4 " tvg-logo="https://epg.112114.xyz/logo/BEINSPORTS.png" group-title="海外代理",BEIN SPORTS4
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28805
+#EXTINF:-1 tvg-id="heart.gb" tvg-name="UK257:BEIN SPORTS 7 " tvg-logo="https://epg.112114.xyz/logo/BEINSPORTS.png" group-title="海外代理",BEIN SPORTS7
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28802
+#EXTINF:-1 tvg-id="eurosport.1.gb" tvg-name="UK040:Euro Sport 1 HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="海外代理",Euro Sport 1 HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2917
+#EXTINF:-1 tvg-id="eurosport.2.gb" tvg-name="UK041:Euro Sport 2 HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="海外代理",Euro Sport 2 HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2916
+#EXTINF:-1 tvg-id="eleven.sports.us" tvg-name="US155:Eleven_Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US155Eleven_Sports.png" group-title="海外代理",Eleven_Sports
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/30035
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="US038:FOX-Sports1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US038FOX-Sports1.png" group-title="海外代理",FOX Sports1
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3130
+#EXTINF:-1 tvg-id="fox.sports.2.us" tvg-name="US039:FOX-Sports2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US039FOX-Sports2.png" group-title="海外代理",FOX-Sports2
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3129
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US121:Fox Sports Prime Ticket" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US121Fox_Sports_1.png" group-title="海外代理",Fox Sports Prime Ticket
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/30069
+#EXTINF:-1 tvg-id="nba.usa.us" tvg-name="US060:NBA-TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US060NBA-TV.png" group-title="海外代理",NBA TV
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3108
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US085:WWE-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US085WWE-Network.png" group-title="海外代理",WWE Network
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3083
+#EXTINF:-1 tvg-name="US084:UFC Network" tvg-logo="https://epg.112114.xyz/logo/FIGHTSPORTS.png" group-title="海外代理",UFC Network
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3084
+#EXTINF:-1 tvg-id="bt.sport.box.office.gb" tvg-name="UK227:UFC fight night Pass" tvg-logo="https://epg.112114.xyz/logo/FIGHTSPORTS.png" group-title="海外代理",UFC Fight Night Pass
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28832
+#EXTINF:-1 tvg-id="mlb.network.us" tvg-name="US056:MLB-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US056MLB-Network.png" group-title="海外代理",MLB Network
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3112
+#EXTINF:-1 tvg-id="nfl.network.us" tvg-name="US064:NFL-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US064NFL-Network.png" group-title="海外代理",NFL Network
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3104
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US021:CNN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US021CNN-HD.png" group-title="海外代理",CNN HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3147#EXTINF:-1 tvg-name="US017:CBS-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS-HD.png" group-title="海外代理",CBS-HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3151
+#EXTINF:-1 tvg-id="fox.news.us" tvg-name="US037:FOX-News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US037FOX-News.png" group-title="海外代理",FOX News
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3131
+#EXTINF:-1 tvg-id="fox.hd.english.bein" tvg-name="US036:FOX-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png" group-title="海外代理",FOX HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3132
+#EXTINF:-1 tvg-id="sky.news.gb" tvg-name="UK071:Sky News HD" tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="海外代理",Sky News HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2886
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="US789:Boomerang HD" tvg-logo="https://epg.112114.xyz/logo/BOOMERANG.png" group-title="海外代理",Boomerang HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/64364
+#EXTINF:-1 tvg-id="bbc.lifestyle.se" tvg-name="UK190:BBC WORLD NEWS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="海外代理",BBC WORLD NEWS
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28869
+#EXTINF:-1 tvg-id="bbc.1.gb" tvg-name="UK007:BBC 1 HD" tvg-logo="https://epg.112114.xyz/logo/uk/bbc/bbc_one.png" group-title="海外代理",BBC1 HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2950
+#EXTINF:-1 tvg-id="bbc.2.gb" tvg-name="UK008:BBC 2 HD" tvg-logo="https://epg.112114.xyz/logo/uk/bbc/bbc_two.png" group-title="海外代理",BBC2 HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2949
+#EXTINF:-1 tvg-id="bbc.three.gb" tvg-name="UK009:BBC 3" tvg-logo="https://epg.112114.xyz/logo/uk/bbc/bbc_four.png" group-title="海外代理",BBC3 HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2948
+#EXTINF:-1 tvg-id="bbc.four.gb" tvg-name="UK010:BBC 4 HD" tvg-logo="https://epg.112114.xyz/logo/uk/bbc/bbc_four.png" group-title="海外代理",BBC4 HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2947
+#EXTINF:-1 tvg-id="bbc.america.east.us" tvg-name="US008:BBC America HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US008BBC-America.png" group-title="海外代理",BBC America HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3160
+#EXTINF:-1 tvg-name="MY147:BBC Earth HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="海外代理",BBC Earth HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/71119
+#EXTINF:-1 tvg-name="MY148:BBC Lifestyle" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="海外代理",BBC Lifestyle
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/71120
+#EXTINF:-1 tvg-id="comedy.us" tvg-name="US045:HBO Comedy" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="海外代理",HBO Comedy
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3123
+#EXTINF:-1 tvg-id="hbo.signature.eastern.us" tvg-name="US047:HBO Signature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="海外代理",HBO Signature
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3121
+#EXTINF:-1 tvg-id="hbo.zone.east.us" tvg-name="US048:HBO Zone" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="海外代理",HBO Zone
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3120
+#EXTINF:-1 tvg-id="hbo.2.eastern.us" tvg-name="US055:HBO 2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="海外代理",HBO 2
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3113
+#EXTINF:-1 tvg-id="hbo.eastern.us" tvg-name="US046:HBO East" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="海外代理",HBO East
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3122
+#EXTINF:-1 tvg-id="drama.gb" tvg-logo="https://epg.112114.xyz/logo/SONY.png" group-title="海外代理",SONY CHANNEL
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28825
+#EXTINF:-1 tvg-id="discovery.on.demand.us" tvg-name="US025:Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US025Discovery-HD.png" group-title="海外代理",Discovery HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3143
+#EXTINF:-1 tvg-id="science.us" tvg-name="US068:Discovery Science HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US068Science.png" group-title="海外代理",Discovery Science HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3100
+#EXTINF:-1 tvg-name="US080:Discovery Velocity HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US080Velocity-HD.png" group-title="海外代理",Discovery Velocity HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3088
+#EXTINF:-1 tvg-id="discovery.turbo.gb" tvg-name="UK176:Discovery Turbo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US025Discovery-HD.png" group-title="海外代理",Discovery Turbo
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28883
+#EXTINF:-1 tvg-id="discovery.history.gb" tvg-name="UK115:Discovery History" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US025Discovery-HD.png" group-title="海外代理",Discovery History
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28944
+#EXTINF:-1 tvg-id="discovery.family.us" tvg-name="US767:Discovery Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US025Discovery-HD.png" group-title="海外代理",Discovery Family
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/64342
+#EXTINF:-1 tvg-id="discovery.life.us" tvg-name="US768:Discovery Life HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US025Discovery-HD.png" group-title="海外代理",Discovery Life HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/64343
+#EXTINF:-1 tvg-id="national.geographic.eastern.us" tvg-name="US059:NAT GEO HD" tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="海外代理",NAT GEO HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3109
+#EXTINF:-1 tvg-id="national.geographic.wild.us" tvg-name="US130:NAT GEO WILD HD" tvg-logo="https://epg.112114.xyz/logo/NatGeoWild.png" group-title="海外代理",NAT GEO WILD HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/30060
+#EXTINF:-1 tvg-id="rishtey.gb" tvg-name="UK289:SKY NATURE " tvg-logo="https://epg.112114.xyz/logo/SKYTV.png" group-title="海外代理",SKY NATURE
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28770
+#EXTINF:-1 tvg-id="rok.gb" tvg-name="UK290:SKY DOCUMENTARIES " tvg-logo="https://epg.112114.xyz/logo/SKYTV.png" group-title="海外代理",SKY DOCUMENTARIES
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28769
+#EXTINF:-1 tvg-id="love.nature.4k.gb" tvg-name="UK266:Love Nature" tvg-logo="https://epg.112114.xyz/logo/LOVENATURE.png" group-title="海外代理",Love Nature
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28793
+#EXTINF:-1 tvg-id="disney.eastern.us" tvg-name="US026:Disney Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US026Disney-Channel.png" group-title="海外代理",Disney Channel HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3142
+#EXTINF:-1 tvg-id="disney.junior.usa.east.us" tvg-name="US027:Disney JR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US027Disney-JR.png" group-title="海外代理",Disney JR HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3141
+#EXTINF:-1 tvg-id="disney.xd.usa.eastern.us" tvg-name="US028:Disney XD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US028Disney-XD.png" group-title="海外代理",Disney XD HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3140
+#EXTINF:-1 tvg-id="nickelodeon.usa.east.us" tvg-name="US141:Nickelodeon HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="海外代理",Nickelodeon HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/30049
+#EXTINF:-1 tvg-id="nicktoons.east.us" tvg-name="US065:Nicktoons HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US065Nicktoons.png" group-title="海外代理",Nicktoons HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3103
+#EXTINF:-1 tvg-id="nick.jr.us" tvg-name="US823:Nick Jr" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="海外代理",Nick Jr
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/31572
+#EXTINF:-1 tvg-id="cartoon.network.usa.eastern.us" tvg-name="US016:Cartoon Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US016CARTOON-NETWORK.png" group-title="海外代理",Cartoon Network HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3152
+#EXTINF:-1 tvg-id="mtv.usa.eastern.us" tvg-name="US058:MTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US058MTV.png" group-title="海外代理",MTV HD
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3110
+#EXTINF:-1 tvg-id="travel.east.us" tvg-name="US077:Travel channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US077Travel-channel.png" group-title="海外代理",Travel channel
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3091
+#EXTINF:-1 tvg-id="the.cooking.us" tvg-name="US617:Cooking Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US617News4(WRC-TV).png" group-title="海外代理",Cooking Channel
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播代理",MR BEAN ANIMATED
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/60910
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播代理",DRAGON BALL Z
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/60924
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播代理",DISNEY MOVIES
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/60928
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播代理",DISNEY SONGS
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/60927
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播代理",DREAMWORKS ANIMATION
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/60923
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播代理",MARVEL AVENGERS ASSEMBLE
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/60912
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播代理",PEPPA PIG
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/60906
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播代理",POKEMON
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/60902
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播代理",THE PINK PANTHER
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/60882
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播代理",TOM AND JERRY
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/60878
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播代理",JIM CARREY
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/60852
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播代理",MR BEAN
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/60052
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播代理",SIMPSONS
+http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/30265

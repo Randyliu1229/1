@@ -810,10 +810,6 @@ https://epg.pw/stream/6e98b01b223383c282b8afd75a1ecbd7fca2b6ec1a1b6263762304d857
 https://epg.pw/stream/6ac26d2e889a4dfe0b5f4a6807b556e21dbcb2deef764c4835a67de96253a617.m3u8
 #EXTINF:-1 tvg-id="10829" tvg-name="J SPORTS 4" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162616728241_88.jpg" group-title="体育频道",J Sprots4
 https://epg.pw/stream/3692c40f884349c5fbd21b64fa3bae93d9c12e94704637704360dcf809274ed3.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png“ group-title="人文频道",BBC Earth
-http://likea8bitboss.xyz:80/Amy1234/6350412987/761361
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BBCLIFESTYLE.png“ group-title="人文频道",BBC Lifesytle
-http://198.16.100.90:8278/bbclifestyle_twn/playlist.m3u8?
 #EXTINF:-1 tvg-name="国家地理频道" tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理
 https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
 #EXTINF:-1 tvg-name="国家地理频道" tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理台湾
@@ -840,6 +836,10 @@ http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f24136221
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=discovery-sci
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DISCOVERYSCIENCE.png" group-title="人文频道",探索科学英文
 http://likea8bitboss.xyz:80/Amy1234/6350412987/649291
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BBC_EARTH.png“ group-title="人文频道",BBC Earth
+http://likea8bitboss.xyz:80/Amy1234/6350412987/761361
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BBC_LIFESTYLE.png“ group-title="人文频道",BBC Lifesytle
+http://198.16.100.90:8278/bbclifestyle_twn/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HISTORY HD.png" group-title="人文频道",History
 http://likea8bitboss.xyz:80/Amy1234/6350412987/343
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/MTVASIA.png" group-title="人文频道",MTV
@@ -1085,9 +1085,9 @@ http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/30069
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3108
 #EXTINF:-1 tvg-id="wwe.us" tvg-name="US085:WWE-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US085WWE-Network.png" group-title="海外代理",WWE Network
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3083
-#EXTINF:-1 tvg-name="US084:UFC Network" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FIGHTSPORTS.png" group-title="海外代理",UFC Network
+#EXTINF:-1 tvg-name="US084:UFC Network" tvg-logo="https://epg.112114.xyz/logo/FIGHTSPORTS.png" group-title="海外代理",UFC Network
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3084
-#EXTINF:-1 tvg-id="bt.sport.box.office.gb" tvg-name="UK227:UFC fight night Pass" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FIGHTSPORTS.png" group-title="海外代理",UFC Fight Night Pass
+#EXTINF:-1 tvg-id="bt.sport.box.office.gb" tvg-name="UK227:UFC fight night Pass" tvg-logo="https://epg.112114.xyz/logo/FIGHTSPORTS.png" group-title="海外代理",UFC Fight Night Pass
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28832
 #EXTINF:-1 tvg-id="mlb.network.us" tvg-name="US056:MLB-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US056MLB-Network.png" group-title="海外代理",MLB Network
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3112
@@ -1108,7 +1108,7 @@ http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/64364
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28869
 #EXTINF:-1 tvg-id="bbc.1.gb" tvg-name="UK007:BBC 1 HD" tvg-logo="https://epg.112114.xyz/logo/uk/bbc/bbc_one.png" group-title="海外代理",BBC1 HD
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2950
-#EXTINF:-1 tvg-id="bbc.2.gb" tvg-name="UK008:BBC 2 HD" tvg-logo="ttps://epg.112114.xyz/logo/uk/bbc/bbc_two.png" group-title="海外代理",BBC2 HD
+#EXTINF:-1 tvg-id="bbc.2.gb" tvg-name="UK008:BBC 2 HD" tvg-logo="https://epg.112114.xyz/logo/uk/bbc/bbc_two.png" group-title="海外代理",BBC2 HD
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2949
 #EXTINF:-1 tvg-id="bbc.three.gb" tvg-name="UK009:BBC 3" tvg-logo="https://epg.112114.xyz/logo/uk/bbc/bbc_four.png" group-title="海外代理",BBC3 HD
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2948
@@ -1116,9 +1116,9 @@ http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2948
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2947
 #EXTINF:-1 tvg-id="bbc.america.east.us" tvg-name="US008:BBC America HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US008BBC-America.png" group-title="海外代理",BBC America HD
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3160
-#EXTINF:-1 tvg-name="MY147:BBC Earth HD" https://epg.112114.xyz/logo/BBCEARTH.png group-title="海外代理",BBC Earth HD
+#EXTINF:-1 tvg-name="MY147:BBC Earth HD" https://epg.112114.xyz/logo/BBC_EARTH.png group-title="海外代理",BBC Earth HD
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/71119
-#EXTINF:-1 tvg-name="MY148:BBC Lifestyle" https://epg.112114.xyz/logo/BBCLIFESTYLE.png group-title="海外代理",BBC Lifestyle
+#EXTINF:-1 tvg-name="MY148:BBC Lifestyle" https://epg.112114.xyz/logo/BBC_LIFESTYLE.png group-title="海外代理",BBC Lifestyle
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/71120
 #EXTINF:-1 tvg-id="comedy.us" tvg-name="US045:HBO Comedy" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="海外代理",HBO Comedy
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3123
@@ -1130,10 +1130,6 @@ http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3120
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3113
 #EXTINF:-1 tvg-id="hbo.eastern.us" tvg-name="US046:HBO East" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="海外代理",HBO East
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/3122
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK216:PARAMOUNT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK216BTSportExtra2.png" group-title="海外代理",PARAMOUNT
-http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28843
-#EXTINF:-1 tvg-id="discovery.home.health.gb" tvg-name="UK230:UNIVERSAL CHANNEL " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK230DiscoveryHH.png" group-title="海外代理",UNIVERSAL CHANNEL
-http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28829
 #EXTINF:-1 tvg-id="drama.gb" tvg-logo="https://epg.112114.xyz/logo/SONY.png" group-title="海外代理",SONY CHANNEL
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/28825
 #EXTINF:-1 tvg-id="discovery.on.demand.us" tvg-name="US025:Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US025Discovery-HD.png" group-title="海外代理",Discovery HD

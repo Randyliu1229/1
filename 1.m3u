@@ -362,7 +362,7 @@ http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳频道",ViuTV
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=viutv
 #EXTINF:-1 tvg-name="VIUTVSIX" tvg-logo="https://epg.112114.xyz/logo/viutv6.png" group-title="港澳频道",VIUTV6
-http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=viutv6
+http://50.7.238.114:8278/viusix_twn/playlist.m3u8?
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" group-title="港澳频道",RTHK31
 http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="港澳频道",RTHK32
@@ -397,6 +397,8 @@ http://61.244.22.5/ch5/info_ch5.live/index.m3u8
 http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 #EXTINF:-1 tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾频道",东森新闻
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-news
+#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾频道",东森新闻HD
+http://198.16.100.90:8278/ettvnews/playlist.m3u8?
 #EXTINF:-1 tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="台湾频道",东森综合
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-ettv
 #EXTINF:-1 tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="台湾频道",东森综合HD
@@ -421,6 +423,8 @@ http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=
 https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/ZHONGSHI.png" group-title="台湾频道",中视
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ctv
+#EXTINF:-1 tvg-name="中视经典" tvg-name="中视经典" tvg-logo="https://epg.112114.xyz/logo/ZHONGSHI.png" group-title="台湾频道",中视经典
+http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/zhongshinew.png" group-title="台湾频道",中视新闻
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ctv-news
 #EXTINF:-1 tvg-name="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/TAISHI.png" group-title="台湾频道",台视
@@ -465,14 +469,18 @@ http://www.51romzj.shop:666/ytb.php?id=slhw
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=cti-news
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/zhongtiannew.png" group-title="台湾频道",中天新闻HD
 http://www.51romzj.shop:666/ytb.php?id=ztxw2
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" tvg-id="6054" tvg-name="中天综合台" group-title="台湾频道",中天综合
+http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 #EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/CTIASIA.png" group-title="台湾频道",中天亚洲
 http://50.7.238.114:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 #EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/CTIASIA.png" group-title="台湾频道",中天亚洲HD
 http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 #EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾频道",中天娱乐
 http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+#EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾频道",中天娱乐HD
+http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 #EXTINF:-1 tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="台湾频道",八大综合
-http://50.7.238.114:8278/badazhonghe/playlist.m3u8?ct=19225&tid=MC7C4692263546922635&tsum=ffdc7a6397b511103e0df0b92e678790
+http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
 #EXTINF:-1 tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="台湾频道",八大第一台
 http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 #EXTINF:-1 tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="台湾频道",八大第一台HD
@@ -653,6 +661,8 @@ https://epg.pw/stream/ca89e46836f09f72a3b0fd65e262dfcbe9dc2e1c0deab05b4833046557
 https://epg.pw/stream/4d7697b8989b06294a65c0812eb1d7e67d66c546b3c3a9267d34d5220f9c8777.m3u8
 #EXTINF:-1 tvg-id="RTDocumentaryRussian.ru" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="欧美频道",RT Documentary
 https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-id="俄罗斯中文" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="欧美频道",俄罗斯中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DWDEUTSCH.png" group-title="欧美频道",DW德国之声
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="亚洲频道",Arirang Korea
@@ -778,7 +788,7 @@ http://198.16.100.90:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&
 http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" tvg-id="6175" tvg-name="博斯网球台" group-title="体育频道",博斯网球台
 http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" tvg-id="6179" tvg-name="博斯魅力网" group-title="体育频道",博斯魅力网
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" tvg-id="6179" tvg-name="博斯魅力网" group-title="体育频道",博斯魅力
 http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png" tvg-id="6177" tvg-name="博斯高球1台" group-title="体育频道",博斯高球1台
 http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
@@ -799,7 +809,7 @@ http://likea8bitboss.xyz:80/Amy1234/6350412987/362
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="人文频道",探索发现
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=discovery
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="人文频道",探索发现HD
-http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="人文频道",探索发现英文
 http://likea8bitboss.xyz:80/Amy1234/6350412987/317
 #EXTINF:-1 tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="人文频道",探索发现亚洲
@@ -861,12 +871,18 @@ http://epg.112114.xyz/douyu/7050342
 http://epg.112114.xyz/douyu/8458270
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",全职猎人
 http://epg.112114.xyz/douyu/6610883
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",中华小当家
+https://epg.112114.eu.org/huya/11342413
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",哆啦A梦
 http://epg.112114.xyz/douyu/9445279
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",猫和老鼠
+https://epg.112114.eu.org/huya/11352879
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",小品轮播1
 http://mmitv.top/pltv/yy.php?id=1354931503
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",小品轮播2
 http://mmitv.top/pltv/yy.php?id=1354936198
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",小品轮播3
+http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 #EXTINF:-1 tvg-id="sky.sports.football.gb" tvg-name="UK087:Sky Sports Football HD" tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="海外代理",Sky Sports Football HD
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2870
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="UK080:Sky Sports PremierLeague HD" tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="海外代理",Sky Sports PremierLeague HD

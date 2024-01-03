@@ -157,24 +157,6 @@ http://www.51romzj.xyz:666/diyroms/dll/ysp/tjiptv.php?id=tjty
 http://www.51romzj.xyz:666/diyroms/dll/ysp/tjiptv.php?id=tjkej
 #EXTINF:-1 tvg-id="天津少儿" tvg-name="天津少儿" tvg-logo="https://epg.112114.xyz/logo/TIANJIN7.png" group-title="天津频道",天津少儿 P
 http://www.51romzj.xyz:666/diyroms/dll/ysp/tjiptv.php?id=tjse
-#EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" tvg-logo="https://epg.112114.xyz/logo/TIANJIN1.png" group-title="天津频道",天津新闻 备用
-http://3889890682.iptv.netsxz.com:61800/tsfile/live/1002_1.m3u8
-#EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" tvg-logo="https://epg.112114.xyz/logo/TIANJIN1.png" group-title="天津频道",天津新闻 备用
-http://3191703954.iptv.netsxz.com:61800/tsfile/live/1002_1.m3u8
-#EXTINF:-1 tvg-id="天津文艺" tvg-name="天津文艺" tvg-logo="https://epg.112114.xyz/logo/TIANJIN2.png" group-title="天津频道",天津文艺 备用
-http://3889890682.iptv.netsxz.com:61800/tsfile/live/1003_1.m3u8
-#EXTINF:-1 tvg-id="天津影视" tvg-name="天津影视" tvg-logo="https://epg.112114.xyz/logo/TIANJIN3.png" group-title="天津频道",天津影视 备用
-http://3889890682.iptv.netsxz.com:61800/tsfile/live/1004_1.m3u8
-#EXTINF:-1 tvg-id="天津影视" tvg-name="天津影视" tvg-logo="https://epg.112114.xyz/logo/TIANJIN3.png" group-title="天津频道",天津影视 备用
-http://3191703954.iptv.netsxz.com:61800/tsfile/live/1004_1.m3u8
-#EXTINF:-1 tvg-id="天津都市" tvg-name="天津都市" tvg-logo="https://epg.112114.xyz/logo/TIANJIN4.png" group-title="天津频道",天津都市 备用
-http://3889890682.iptv.netsxz.com:61800/tsfile/live/1005_1.m3u8
-#EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://epg.112114.xyz/logo/TIANJIN5.png" group-title="天津频道",天津体育 备用
-http://3889890682.iptv.netsxz.com:61800/tsfile/live/1006_1.m3u8
-#EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://epg.112114.xyz/logo/TIANJIN5.png" group-title="天津频道",天津体育 备用
-http://3191703954.iptv.netsxz.com:61800/tsfile/live/1003_1.m3u8
-#EXTINF:-1 tvg-id="天津科教" tvg-name="天津教育" tvg-logo="https://epg.112114.xyz/logo/TIANJIN6.png" group-title="天津频道",天津科教 备用
-http://3889890682.iptv.netsxz.com:61800/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="高清频道",CCTV1-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="高清频道",CCTV3-4K
@@ -186,13 +168,15 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212285
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="高清频道",CCTV8-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="高清频道",CCTV16-4K
-http://148.135.93.213:81/bestv.php?id=cctv16hd4k/15000000
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="高清频道",CCTV-4K
-http://148.135.93.213:81/bestv.php?id=cctv4k/15000000
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/8K.png" group-title="高清频道",CCTV-8K
-http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/Chunxiang4K.png" group-title="高清频道",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-id="4K修复" tvg-name="4K修复" tvg-logo="https://epg.112114.xyz/logo/Chunxiang4K.png" group-title="高清频道",4K修复
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-id="香港8K" tvg-name="香港8K" tvg-logo="https://epg.112114.xyz/logo/8KHD.png" group-title="高清频道",香港8K
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://epg.112114.xyz/logo/BRTV_DOCUMENTARY_8K.png" group-title="高清频道",北京纪实科教8K
@@ -345,6 +329,8 @@ http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=phtv-info
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳频道",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳频道",凤凰香港HD
+http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",TVB翡翠台
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=feicui
 #EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",TVB翡翠台HD
@@ -369,8 +355,6 @@ http://113.117.74.17:8081/hls/135/index.m3u8
 http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=TVBhualifeicui
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/channelv.png" group-title="港澳频道",Channel V
 http://36.36.200.212:9901/tsfile/live/1010_1.m3u8?key=txiptv&url=tvzb.com
-#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/xingkong.png" group-title="港澳频道",星空卫视
-http://218.202.220.2:5000/nn_live.ts?id=STARTV
 #EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/AOYA.png" group-title="港澳频道",澳亚卫视
 http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=aoyaweishi
 #EXTINF:-1 tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/youxianxinwen.png" group-title="港澳频道",有线新闻台
@@ -513,8 +497,6 @@ http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=tvbs-huanle
 http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
 #EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/jtkt.png" group-title="台湾频道",靖天卡通
 http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
-#EXTINF:-1 tvg-name="卫视中文台" tvg-logo="https://epg.112114.xyz/logo/WSZW.png" group-title="台湾频道",卫视中文
-http://50.7.238.114:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c
 #EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://epg.112114.xyz/logo/NOWNEW.png" group-title="台湾频道",NOW新闻台
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=now-news
 #EXTINF:-1 tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台湾频道",壹电视新闻台
@@ -533,16 +515,16 @@ http://www.51romzj.shop:666/ytb.php?id=hyxwtwt
 http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=tianyingpindao12
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/TIANYINGJD.png" group-title="台湾频道",天映经典
 http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=tianyingjingdian12
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" tvg-id="7203" tvg-name="星卫娱乐" group-title="台湾频道",星卫娱乐
-http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
 #EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="台湾频道",龙祥时代
 http://198.16.100.90:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHXJ.png" tvg-id="7127" tvg-name="龙华戏剧" group-title="台湾频道",龙华戏剧
 http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHYP.png" tvg-id="7132" tvg-name="龙华经典" group-title="台湾频道",龙华经典
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHJD.png" tvg-id="7132" tvg-name="龙华经典" group-title="台湾频道",龙华经典
 http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHYP.png" tvg-id="7132" tvg-name="龙华偶像" group-title="台湾频道",龙华偶像
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHOX.png" tvg-id="7132" tvg-name="龙华偶像" group-title="台湾频道",龙华偶像
 http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHDY.png tvg-id="7203" tvg-name="龙华电影" group-title="台湾频道",龙华电影
+http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHYP.png" tvg-id="7132" tvg-name="龙华洋片" group-title="台湾频道",龙华洋片
 http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHYP.png" tvg-id="7132" tvg-name="龙华洋片" group-title="台湾频道",龙华洋片HD
@@ -810,19 +792,9 @@ https://epg.pw/stream/6e98b01b223383c282b8afd75a1ecbd7fca2b6ec1a1b6263762304d857
 https://epg.pw/stream/6ac26d2e889a4dfe0b5f4a6807b556e21dbcb2deef764c4835a67de96253a617.m3u8
 #EXTINF:-1 tvg-id="10829" tvg-name="J SPORTS 4" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162616728241_88.jpg" group-title="体育频道",J Sprots4
 https://epg.pw/stream/3692c40f884349c5fbd21b64fa3bae93d9c12e94704637704360dcf809274ed3.m3u8
-#EXTINF:-1 tvg-name="国家地理频道" tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理
-https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
-#EXTINF:-1 tvg-name="国家地理频道" tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理台湾
-http://50.7.238.114:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
-#EXTINF:-1 tvg-name="国家地理频道" tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理Arabic
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理英文
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理
 http://likea8bitboss.xyz:80/Amy1234/6350412987/363
-#EXTINF:-1 tvg-name="国家地理野生频道" tvg-logo="https://epg.112114.xyz/logo/NatGeoWild.png" group-title="人文频道",国家地理野生
-http://europe3.livetv.az/russia/nat_geo_wild_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="国家地理野生频道" tvg-logo="https://epg.112114.xyz/logo/NatGeoWild.png" group-title="人文频道",国家地理野生HD
-http://www.51romzj.shop:666/ytb.php?id=NatGeoWILD
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NatGeoWild.png" group-title="人文频道",国家地理野生英文
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NatGeoWild.png" group-title="人文频道",国家地理野生
 http://likea8bitboss.xyz:80/Amy1234/6350412987/362
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="人文频道",探索发现
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=discovery
@@ -881,89 +853,6 @@ http://198.16.100.90:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&
 http://epg.112114.xyz/douyu/6140589
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",霍格沃茨影片
 http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",林正英电影
-https://myvercel-iota.vercel.app/yy/1382841203
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",憨豆先生
-https://myvercel-iota.vercel.app/yy/1354930189
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",憨豆先生2
-https://myvercel-iota.vercel.app/yy/1354936239
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",宰相刘罗锅
-http://mmitv.top/pltv/yy.php?id=1382745191&uid=2786225719
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",宰相刘罗锅2
-https://myvercel-iota.vercel.app/yy/1353892468
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",铁齿铜牙纪晓岚
-http://mmitv.top/pltv/yy.php?id=1352227227
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",康熙王朝
-https://myvercel-iota.vercel.app/yy/1382736818
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",新白娘子传奇
-https://myvercel-iota.vercel.app/yy/1508902755
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",少年包青天
-https://myvercel-iota.vercel.app/yy/1356043677
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",仙剑奇侠传
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",上海滩
-https://myvercel-iota.vercel.app/yy/1382745184
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",狂飙
-https://myvercel-iota.vercel.app/yy/1382754187
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",天道
-https://myvercel-iota.vercel.app/yy/1382735574
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",编辑部的故事
-https://myvercel-iota.vercel.app/yy/1354936120
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",我爱我家
-https://myvercel-iota.vercel.app/yy/1356212303
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",我爱我家2
-https://myvercel-iota.vercel.app/yy/1382851580
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",我爱我家3
-https://myvercel-iota.vercel.app/yy/1382735557
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",东北一家人
-https://myvercel-iota.vercel.app/yy/1355273385
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",武林外传
-https://myvercel-iota.vercel.app/yy/21092633
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",武林外传2
-https://myvercel-iota.vercel.app/yy/1355652820
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",武林外传3
-https://myvercel-iota.vercel.app/yy/1454629602
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",鹊刀门传奇
-https://myvercel-iota.vercel.app/yy/1355344777
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",三国演义
-https://myvercel-iota.vercel.app/yy/1508901692
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",三国演义2
-https://myvercel-iota.vercel.app/yy/1354936241
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",新三国
-https://myvercel-iota.vercel.app/yy/29216766
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",新三国2
-https://myvercel-iota.vercel.app/yy/28298966
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",新三国3
-https://myvercel-iota.vercel.app/yy/26744898
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",新三国4
-https://myvercel-iota.vercel.app/yy/1382851415
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",易中天品三国
-https://myvercel-iota.vercel.app/yy/1354931498
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",西游记
-http://mmitv.top/pltv/yy.php?id=1353392400
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",西游记后传
-https://myvercel-iota.vercel.app/yy/1353392400
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",笑傲江湖
-https://myvercel-iota.vercel.app/yy/1354282410
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",TVB天龙八部
-https://myvercel-iota.vercel.app/yy/1382749944
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",TVB笑傲江湖
-http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23865142
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",TVB笑傲江湖2
-https://myvercel-iota.vercel.app/yy/1354936128
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",TVB神雕侠侣
-http://mmitv.top/pltv/yy.php?id=1351762426
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",TVB倚天屠龙记
-http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23734246
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",TVB鹿鼎记
-https://myvercel-iota.vercel.app/yy/28265277
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",TVB封神榜
-http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23749096
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",TVB西游记
-http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23728660
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",TVB金装四大才子
-https://myvercel-iota.vercel.app/yy/1354926600
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",灌篮高手
-https://myvercel-iota.vercel.app/yy/1382735626
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",名侦探柯南
 http://epg.112114.xyz/douyu/6484910
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",名侦探柯南2
@@ -974,62 +863,10 @@ http://epg.112114.xyz/douyu/8458270
 http://epg.112114.xyz/douyu/6610883
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",哆啦A梦
 http://epg.112114.xyz/douyu/9445279
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",8090热血回忆
-https://myvercel-iota.vercel.app/yy/1356243352
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",赵本山小品
-http://mmitv.top/pltv/yy.php?id=32160832&uid=2361867875
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",赵本山小品2
-https://myvercel-iota.vercel.app/yy/1454553780
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",赵本山小品3
-https://myvercel-iota.vercel.app/yy/1382683959
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",赵本山小品4
-https://myvercel-iota.vercel.app/yy/1382618077
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",宋小宝小品
-https://myvercel-iota.vercel.app/yy/1354931577
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",小沈阳小品
-https://myvercel-iota.vercel.app/yy/1382749941
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",开心麻花小品
-https://www.goodiptv.club/douyu/10153463
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",贾玲小品
-https://www.goodiptv.club/douyu/10419541
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",欢乐集结号
-https://myvercel-iota.vercel.app/yy/1382741642
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",欢乐集结号2
-https://myvercel-iota.vercel.app/yy/1382736889
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",欢乐集结号3
-https://www.goodiptv.club/douyu/9067836
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",笑声传奇
-https://myvercel-iota.vercel.app/yy/1382736880
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",春晚小品
-https://myvercel-iota.vercel.app/yy/1355555484
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",春晚小品2
-https://myvercel-iota.vercel.app/yy/1394000564
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",春晚小品3
-https://myvercel-iota.vercel.app/yy/1382773716
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",小品轮播1
 http://mmitv.top/pltv/yy.php?id=1354931503
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",小品轮播2
 http://mmitv.top/pltv/yy.php?id=1354936198
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",今晚80后脱口秀
-https://myvercel-iota.vercel.app/yy/1382745098
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",金星脱口秀
-https://myvercel-iota.vercel.app/yy/1382735552
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",金星脱口秀2
-https://myvercel-iota.vercel.app/yy/1354932407
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",动物世界
-https://myvercel-iota.vercel.app/yy/1382749889
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",探秘中华美食
-https://myvercel-iota.vercel.app/yy/1354930954
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",荒野求生贝爷
-https://www.goodiptv.club/huya/24766781
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",荒野求生德爷
-https://myvercel-iota.vercel.app/yy/36949900
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",荒野求生合集
-https://myvercel-iota.vercel.app/yy/39123221
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",自说自话的总裁
-https://www.goodiptv.club/douyu/9317739
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",老高与小茉
-https://www.goodiptv.club/douyu/236461
 #EXTINF:-1 tvg-id="sky.sports.football.gb" tvg-name="UK087:Sky Sports Football HD" tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="海外代理",Sky Sports Football HD
 http://mku0414.oknirvana.club:8880/DAALM1923/C3ggHrsmbK/2870
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="UK080:Sky Sports PremierLeague HD" tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="海外代理",Sky Sports PremierLeague HD

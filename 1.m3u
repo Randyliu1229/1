@@ -413,7 +413,7 @@ http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-news
 #EXTINF:-1 tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾频道",东森新闻HD
 http://198.16.100.90:8278/ettvnews/playlist.m3u8?
-#EXTINF:-1 tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="台湾频道",东森综合
+#EXTINF:-1 tvg-id="105255" tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="台湾频道",东森综合
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-ettv
 #EXTINF:-1 tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="台湾频道",东森综合HD
 http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d

@@ -331,30 +331,40 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳频道",凤凰香港HD
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8
-#EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",TVB翡翠台
-http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=feicui
-#EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",TVB翡翠台HD
+#EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",翡翠台
+https://ktpremium.com:443/MohdRahizan/3107296/492383
+#EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",翡翠台HD
 http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/TVB2.png" group-title="港澳频道",TVB明珠台
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/TVB2.png" group-title="港澳频道",明珠台
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=pearl
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/TVB2.png" group-title="港澳频道",明珠台HD
+https://ktpremium.com:443/MohdRahizan/3107296/492386
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳频道",J2
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=j2
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳频道",J2 HD
-https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
+https://ktpremium.com:443/MohdRahizan/3107296/910934
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/TVB4.png" group-title="港澳频道",无线新闻
 http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=wuxianxinwen
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/TVB4.png" group-title="港澳频道",无线新闻HD
-http://www.51romzj.fun/dll/diyroms/dll/tvb.php?id=0&hq
+https://ktpremium.com:443/MohdRahizan/3107296/492389
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/TVB5.png" group-title="港澳频道",无线财经
-http://www.51romzj.fun/dll/diyroms/dll/tvb.php?id=2&hq
+https://ktpremium.com:443/MohdRahizan/3107296/492390
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/TVB5.png" group-title="港澳频道",无线财经HD
 http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
 #EXTINF:-1 tvg-id="无线星河" tvg-name="无线星河" tvg-logo="https://epg.112114.xyz/logo/TVB6.png" group-title="港澳频道",无线星河
 http://113.117.74.17:8081/hls/135/index.m3u8
-#EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",TVB华丽翡翠台
-http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=TVBhualifeicui
+#EXTINF:-1 tvg-id="无线星河" tvg-name="无线星河" tvg-logo="https://epg.112114.xyz/logo/TVB6.png" group-title="港澳频道",无线星河HD
+https://ktpremium.com:443/MohdRahizan/3107296/912848
+#EXTINF:-1 tvg-id="无线经典" tvg-name="无线经典" tvg-logo="https://epg.112114.xyz/logo/TVBCLASSIC.png" group-title="港澳频道",无线经典
+http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png
+#EXTINF:-1 tvg-id="无线娱乐新闻" tvg-name="无线娱乐新闻" tvg-logo="https://epg.112114.xyz/logo/TVBENTERTAINMENTNEWS.png" group-title="港澳频道",无线娱乐新闻
+https://ktpremium.com:443/MohdRahizan/3107296/918425
+#EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",华丽翡翠台
+https://ktpremium.com:443/MohdRahizan/3107296/25972
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/channelv.png" group-title="港澳频道",Channel V
 http://36.36.200.212:9901/tsfile/live/1010_1.m3u8?key=txiptv&url=tvzb.com
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/xingkong.png" group-title="港澳频道",星空卫视
+https://ktpremium.com:443/MohdRahizan/3107296/73875
 #EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/AOYA.png" group-title="港澳频道",澳亚卫视
 http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=aoyaweishi
 #EXTINF:-1 tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/youxianxinwen.png" group-title="港澳频道",有线新闻台
@@ -375,10 +385,14 @@ https://epg.pw/stream/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d11
 http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=RTHK35
 #EXTINF:-1 tvg-id="HOYTV" tvg-name="HOYTV" tvg-logo="https://epg.112114.xyz/logo/HOYTV.png" group-title="港澳频道",HOYTV
 http://www.51romzj.xyz:666/diyroms/dll/ysp/hk.php?id=HOYTV1080P
+#EXTINF:-1 tvg-id="HOYTV" tvg-name="HOYTV" tvg-logo="https://epg.112114.xyz/logo/HOYTV.png" group-title="港澳频道",HOYTV HD
+https://ktpremium.com:443/MohdRahizan/3107296/492391
+#EXTINF:-1 tvg-name="HOYTV资讯台" tvg-logo="https://epg.112114.xyz/logo/HOYTV.png" group-title="港澳频道",HOYTV资讯台
+https://ktpremium.com:443/MohdRahizan/3107296/492403
 #EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="港澳频道",CINEMAX
 http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" tvg-id="145" tvg-name="美亚高清电影台" group-title="港澳频道",美亚电影
-http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct=19211&tsum=f65f39620c24fee2e633c4727cc48727
+https://ktpremium.com:443/MohdRahizan/3107296/930001
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" tvg-id="145" tvg-name="美亚高清电影台" group-title="港澳频道",美亚电影HD
 http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337  
 #EXTINF:-1 tvg-name="耀才财经台" tvg-logo="https://epg.112114.xyz/logo/YAOCAICAIJING.png" group-title="港澳频道",耀才财经台
@@ -472,7 +486,7 @@ http://www.51romzj.shop:666/ytb.php?id=ztxw2
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" tvg-id="6054" tvg-name="中天综合台" group-title="台湾频道",中天综合
 http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 #EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/CTIASIA.png" group-title="台湾频道",中天亚洲
-http://50.7.238.114:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
+https://ktpremium.com:443/MohdRahizan/3107296/25987
 #EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/CTIASIA.png" group-title="台湾频道",中天亚洲HD
 http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 #EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾频道",中天娱乐
@@ -496,15 +510,21 @@ http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=cts-news
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台湾频道",TVBS HD
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=tvbs-hd
 #EXTINF:-1 tvg-name="TVB亞洲劇" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾频道",TVBS亚洲
-https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8
+https://ktpremium.com:443/MohdRahizan/3107296/25986
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBSNEWS.png" group-title="台湾频道",TVBS新闻台
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=tvbs-news
 #EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBSJOY.png" group-title="台湾频道",TVBS欢乐台
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=tvbs-huanle
 #EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://epg.112114.xyz/logo/jtgj.png" group-title="台湾频道",靖天国际台
 http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
+#EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://epg.112114.xyz/logo/jtgj.png" group-title="台湾频道",靖天国际台HD
+https://ktpremium.com:443/MohdRahizan/3107296/515025
 #EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/jtkt.png" group-title="台湾频道",靖天卡通
 http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
+#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/jtkt.png" group-title="台湾频道",靖天卡通HD
+https://ktpremium.com:443/MohdRahizan/3107296/900862
+#EXTINF:-1 tvg-name="靖洋戏剧台" tvg-logo="https://epg.112114.xyz/logo/JYXJ.png" group-title="台湾频道",靖洋戏剧
+https://ktpremium.com:443/MohdRahizan/3107296/900861
 #EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://epg.112114.xyz/logo/NOWNEW.png" group-title="台湾频道",NOW新闻台
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=now-news
 #EXTINF:-1 tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台湾频道",壹电视新闻台
@@ -520,9 +540,9 @@ http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=global-news
 #EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾频道",寰宇新闻台湾
 http://www.51romzj.shop:666/ytb.php?id=hyxwtwt
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://epg.112114.xyz/logo/TIANYING.png" group-title="台湾频道",天映频道
-http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=tianyingpindao12
+https://ktpremium.com:443/MohdRahizan/3107296/25981
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/TIANYINGJD.png" group-title="台湾频道",天映经典
-http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=tianyingjingdian12
+https://ktpremium.com:443/MohdRahizan/3107296/25982
 #EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="台湾频道",龙祥时代
 http://198.16.100.90:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHXJ.png" tvg-id="7127" tvg-name="龙华戏剧" group-title="台湾频道",龙华戏剧
@@ -553,8 +573,16 @@ http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=1787
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="台湾频道",人间卫视
 https://epg.pw/stream/925df6e71c4dd75f935dbe02200a19e3893eea0a125da4d28447546e7a8bd092.m3u8
+#EXTINF:-1 tvg-name="纬来综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="台湾频道",纬来综合
+https://ktpremium.com:443/MohdRahizan/3107296/870549
+#EXTINF:-1 tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="台湾频道",纬来电影
+https://ktpremium.com:443/MohdRahizan/3107296/515159
+#EXTINF:-1 tvg-name="纬来戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="台湾频道",纬来戏剧
+https://ktpremium.com:443/MohdRahizan/3107296/900848
+#EXTINF:-1 tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="台湾频道",纬来育乐
+https://ktpremium.com:443/MohdRahizan/3107296/877044
 #EXTINF:-1 tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台湾频道",纬来日本
-http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=videoland-japan
+https://ktpremium.com:443/MohdRahizan/3107296/870550
 #EXTINF:-1 tvg-id="6033" tvg-name="GoodTV"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png" group-title="台湾频道",GoodTV好消息
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1 tvg-name="GoodTV"tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png" group-title="台湾频道",GoodTV好医生
@@ -710,8 +738,44 @@ https://epg.pw/stream/ef54ab9bb6cc2b57d918c7caec5a0d7b24b2dba3461290b5261ea5dc82
 https://epg.pw/stream/69b6059df684d476175d9b22f64f24a657551af73b178372dcb7b55c5608b19d.m3u8
 #EXTINF:-1 tvg-id="10711" tvg-name="東映チャンネル" tvg-logo="https://epg.pw/media/images/channel/2021/10/26/large/20211026185045950061_64.png" group-title="亚洲频道",東映チャンネル
 https://epg.pw/stream/7b4039e1f687287a452111af31a166e48ef2e0c99d639b1cf7b7070b8250d01f.m3u8
-#EXTINF:-1 tvg-id="11834" tvg-name="Channel 8" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="亚洲频道",Channel 8
-https://epg.pw/stream/507862c89e501165ec14f821c4dcd5e1b4e0c74e08fa5f6adcdd90e629a3d589.m3u8
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://epg.112114.xyz/logo/sg/channel-5.png" group-title="亚洲频道",Channel 5
+https://ktpremium.com:443/MohdRahizan/3107296/25833
+#EXTINF:-1 tvg-id="11834" tvg-name="Channel 8" tvg-logo="https://epg.112114.xyz/logo/sg/channel-8.png" group-title="亚洲频道",Channel 8
+https://ktpremium.com:443/MohdRahizan/3107296/25834
+#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://epg.112114.xyz/logo/sg/channel-u.png" group-title="亚洲频道",Channel U
+https://ktpremium.com:443/MohdRahizan/3107296/25835
+#EXTINF:-1 tvg-name="Suria" tvg-logo="https://epg.112114.xyz/logo/sg/suria.png" group-title="亚洲频道",Suria
+https://ktpremium.com:443/MohdRahizan/3107296/25844
+#EXTINF:-1 tvg-name="Vasantham" tvg-logo="https://epg.112114.xyz/logo/sg/asantham.png" group-title="亚洲频道",Vasantham
+https://ktpremium.com:443/MohdRahizan/3107296/25848
+#EXTINF:-1 tvg-name="SPORTS: HK NOW PREMIER SPORTS 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="体育频道",NOW PREMIER SPORTS 1 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444700
+#EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="体育频道",NOW SPORTS 2 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444706
+#EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="体育频道",NOW SPORTS 3 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444705
+#EXTINF:-1 tvg-name="4K: NOW SPORTS ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?ver=9156" group-title="体育频道",NOW SPORTS  UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484471
+#EXTINF:-1 tvg-name="4K: SG HUBPREMIER 2 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1900.jpg?30855" group-title="体育频道",SG HUBPREMIER UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484466
+#EXTINF:-1 tvg-id="beINSports4K.qa" tvg-name="4K: beIN ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13490.png?ver=65901" group-title="体育频道",BeIN UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/483975
+#EXTINF:-1 tvg-id="VSportUltraHD.no" tvg-name="4K: V SPORT ULTRA ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12976.jpg?20070" group-title="体育频道",V SPORT ULTRA UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/483974
+#EXTINF:-1 tvg-id="ElevenSports1NL.be" tvg-name="4K: ELEVEN SPORTS 1 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11211.png?9223" group-title="体育频道",ELEVEN SPORTS 1 UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/483973
+#EXTINF:-1 tvg-name="4K: YES SPORT 5 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12426.png?39125" group-title="体育频道",YES SPORT 5 UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/483972
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="4K: CANAL+ ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3173.jpg?75309" group-title="体育频道",CANAL+ UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484473
+#EXTINF:-1 tvg-name="4K: CANAL+ EVENEMENT ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3173.jpg?75309" group-title="体育频道",CANAL+ EVENEMENT UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484475
+#EXTINF:-1 tvg-name="4K: CANAL+ LDC ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3173.jpg?75309" group-title="体育频道",CANAL+ LDC UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484474
+#EXTINF:-1 tvg-name="4K: SKY SPORT BUNDESLIGA ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6417.jpg?40776" group-title="体育频道",SKY SPORT BUNDESLIGA UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/486169
+#EXTINF:-1 tvg-name="4K: SKY SPORT ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6421.jpg?90126" group-title="体育频道",SKY SPORT UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/486168
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="体育频道",Sky Sports Football
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="体育频道",Sky Sports Football HD
@@ -765,9 +829,9 @@ http://likea8bitboss.xyz:80/Amy1234/6350412987/743826
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524223919778843_75.png" group-title="体育频道",BeIN Sports Xtra
 http://likea8bitboss.xyz:80/Amy1234/6350412987/743833
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NBA.png" group-title="体育频道",NBA TV
-http://likea8bitboss.xyz:80/Amy1234/6350412987/344574
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/607602
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/WWENETWORK.png" group-title="体育频道",WWE NETWORK
-http://likea8bitboss.xyz:80/Amy1234/6350412987/649307
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659253
 #EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育频道",纬来体育
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=videoland-sport
 #EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育频道",纬来体育HD
@@ -803,33 +867,35 @@ https://epg.pw/stream/6ac26d2e889a4dfe0b5f4a6807b556e21dbcb2deef764c4835a67de962
 #EXTINF:-1 tvg-id="10829" tvg-name="J SPORTS 4" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162616728241_88.jpg" group-title="体育频道",J Sprots4
 https://epg.pw/stream/3692c40f884349c5fbd21b64fa3bae93d9c12e94704637704360dcf809274ed3.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理
-http://likea8bitboss.xyz:80/Amy1234/6350412987/363
+https://ktpremium.com:443/MohdRahizan/3107296/870687
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NatGeoWild.png" group-title="人文频道",国家地理野生
 http://likea8bitboss.xyz:80/Amy1234/6350412987/362
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="人文频道",探索发现
-http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=discovery
+https://ktpremium.com:443/MohdRahizan/3107296/870683
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="人文频道",探索发现HD
 http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="人文频道",探索发现英文
 http://likea8bitboss.xyz:80/Amy1234/6350412987/317
 #EXTINF:-1 tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="人文频道",探索发现亚洲
 http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+#EXTINF:-1 tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="人文频道",探索发现亚洲HD
+https://ktpremium.com:443/MohdRahizan/3107296/698399
 #EXTINF:-1 tvg-name="Discovery科学" tvg-logo="https://epg.112114.xyz/logo/DISCOVERYSCIENCE.png" group-title="人文频道",探索科学
-http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=discovery-sci
+https://ktpremium.com:443/MohdRahizan/3107296/698400
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DISCOVERYSCIENCE.png" group-title="人文频道",探索科学英文
 http://likea8bitboss.xyz:80/Amy1234/6350412987/649291
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="人文频道",BBC Earth
 http://likea8bitboss.xyz:80/Amy1234/6350412987/761361
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="人文频道",BBC Lifesytle
-http://198.16.100.90:8278/bbclifestyle_twn/playlist.m3u8?
+https://ktpremium.com:443/MohdRahizan/3107296/870684
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HISTORY HD.png" group-title="人文频道",History
 http://likea8bitboss.xyz:80/Amy1234/6350412987/343
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/MTVASIA.png" group-title="人文频道",MTV
 http://likea8bitboss.xyz:80/Amy1234/6350412987/358
-#EXTINF:-1 tvg-name="bbc travel" tvg-logo="https://epg.pw/media/images/channel/2017/02/26/large/20170226212754000637_52.jpg" group-title="人文频道",BBC Travel XP
-https://epg.pw/stream/4b9815ad48078c318ef3db1d27be70006d552c019d932d44bbfdf0da1ac7940e.m3u8
+#EXTINF:-1 tvg-name="bbc travel" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9841.png?46830" group-title="人文频道",Travel XP
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484453
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NASA.png" group-title="人文频道",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484459
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NASA.png" group-title="人文频道",NASA TV2
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="人文频道",DISNEY
@@ -848,7 +914,7 @@ http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=asia-travel
 #EXTINF:-1 tvg-name="EYE旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="人文频道",EYETV旅游
 http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
 #EXTINF:-1 tvg-name="动物星球" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="人文频道",动物星球
-http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=animal-planet
+https://ktpremium.com:443/MohdRahizan/3107296/870689
 #EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="人文频道",动物星球 HD
 http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 #EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="人文频道",Animal Planet
@@ -863,6 +929,16 @@ http://198.16.100.90:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&
 http://epg.112114.xyz/douyu/6140589
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",霍格沃茨影片
 http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",TVB西游记
+http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23728660
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",TVB西游记续
+http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23735126
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",TVB封神榜
+http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23749096
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",TVB笑傲江湖
+http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23865142
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",TVB倚天屠龙记
+http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23734246
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",名侦探柯南
 http://epg.112114.xyz/douyu/6484910
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",名侦探柯南2

@@ -318,9 +318,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/32212
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳频道",凤凰香港HD
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",翡翠台
-https://ktpremium.com:443/MohdRahizan/3107296/492383
-#EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",翡翠台HD
 http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+#EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",翡翠台HD
+https://ktpremium.com:443/MohdRahizan/3107296/492383
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/TVB2.png" group-title="港澳频道",明珠台
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=pearl
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/TVB2.png" group-title="港澳频道",明珠台HD
@@ -334,15 +334,17 @@ http://www.51romzj.xyz:666/diyroms/dll/ysp/yes.php?id=wuxianxinwen
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/TVB4.png" group-title="港澳频道",无线新闻HD
 https://ktpremium.com:443/MohdRahizan/3107296/492389
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/TVB5.png" group-title="港澳频道",无线财经
-https://ktpremium.com:443/MohdRahizan/3107296/492390
-#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/TVB5.png" group-title="港澳频道",无线财经HD
 http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
+#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/TVB5.png" group-title="港澳频道",无线财经HD
+https://ktpremium.com:443/MohdRahizan/3107296/492390
 #EXTINF:-1 tvg-id="无线星河" tvg-name="无线星河" tvg-logo="https://epg.112114.xyz/logo/TVB6.png" group-title="港澳频道",无线星河
 http://113.117.74.17:8081/hls/135/index.m3u8
 #EXTINF:-1 tvg-id="无线星河" tvg-name="无线星河" tvg-logo="https://epg.112114.xyz/logo/TVB6.png" group-title="港澳频道",无线星河HD
-https://ktpremium.com:443/MohdRahizan/3107296/912848
+https://ktpremium.com:443/MohdRahizan/3107296/492384
 #EXTINF:-1 tvg-id="无线经典" tvg-name="无线经典" tvg-logo="https://epg.112114.xyz/logo/TVBCLASSIC.png" group-title="港澳频道",无线经典
 http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png
+#EXTINF:-1 tvg-id="无线经典" tvg-name="无线经典" tvg-logo="https://epg.112114.xyz/logo/TVBCLASSIC.png" group-title="港澳频道",无线经典HD
+https://ktpremium.com:443/MohdRahizan/3107296/945569
 #EXTINF:-1 tvg-id="无线娱乐新闻" tvg-name="无线娱乐新闻" tvg-logo="https://epg.112114.xyz/logo/TVBENTERTAINMENTNEWS.png" group-title="港澳频道",无线娱乐新闻
 https://ktpremium.com:443/MohdRahizan/3107296/918425
 #EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",华丽翡翠台
@@ -378,11 +380,13 @@ https://ktpremium.com:443/MohdRahizan/3107296/492403
 #EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="港澳频道",CINEMAX
 http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" tvg-id="145" tvg-name="美亚高清电影台" group-title="港澳频道",美亚电影
-https://ktpremium.com:443/MohdRahizan/3107296/930001
+http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" tvg-id="145" tvg-name="美亚高清电影台" group-title="港澳频道",美亚电影HD
-http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337  
+https://ktpremium.com:443/MohdRahizan/3107296/870561  
 #EXTINF:-1 tvg-name="耀才财经台" tvg-logo="https://epg.112114.xyz/logo/YAOCAICAIJING.png" group-title="港澳频道",耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-name="耀才财经台" tvg-logo="https://epg.112114.xyz/logo/YAOCAICAIJING.png" group-title="港澳频道",耀才财经台 HD
+https://ktpremium.com:443/MohdRahizan/3107296/492416
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://epg.112114.xyz/logo/lotusmacau.png" group-title="港澳频道",澳门莲花
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=lotustv
 #EXTINF:-1 tvg-name="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/AOSHI1.png" group-title="港澳频道",澳视澳门
@@ -397,132 +401,184 @@ http://61.244.22.5/ch5/info_ch5.live/index.m3u8
 http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 #EXTINF:-1 tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾频道",东森新闻
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-news
-#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾频道",东森新闻HD
-http://198.16.100.90:8278/ettvnews/playlist.m3u8?
-#EXTINF:-1 tvg-id="105255" tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="台湾频道",东森卫视
+#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾频道",东森新闻 HD
+https://ktpremium.com:443/MohdRahizan/3107296/870544
+#EXTINF:-1 tvg-id="105255" tvg-name="东森卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EbcAsiaWeishi.png" group-title="台湾频道",东森亚洲卫视
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/623326
-#EXTINF:-1 tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="台湾频道",东森综合HD
+#EXTINF:-1 tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="台湾频道",东森综合
 http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
+#EXTINF:-1 tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="台湾频道",东森综合 HD
+https://ktpremium.com:443/MohdRahizan/3107296/870545
 #EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾频道",东森财经新闻
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-finance
+#EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾频道",东森财经新闻 HD
+https://ktpremium.com:443/MohdRahizan/3107296/515196
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="台湾频道",东森超视
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ebc-supertv
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="台湾频道",东森超视HD
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="台湾频道",东森超视 HD
 http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
 #EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="台湾频道",东森戏剧
 http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
+#EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="台湾频道",东森戏剧 HD
+https://ktpremium.com:443/MohdRahizan/3107296/684837
 #EXTINF:-1 tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾频道",东森电影
 http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
-#EXTINF:-1 tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾频道",东森电影HD
-http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+#EXTINF:-1 tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾频道",东森电影 HD
+https://ktpremium.com:443/MohdRahizan/3107296/870557
 #EXTINF:-1 tvg-name="东森美洲" tvg-logo="https://epg.112114.xyz/logo/DONGSENAMERICA.png" group-title="台湾频道",东森美洲
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/623325
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台湾频道",东森洋片
 http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台湾频道",东森洋片 HD
+https://ktpremium.com:443/MohdRahizan/3107296/870558
 #EXTINF:-1 tvg-name="东森幼幼台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="台湾频道",东森YOYO
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/623317
 #EXTINF:-1 tvg-name="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/ZHONGSHI.png" group-title="台湾频道",中视
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ctv
+#EXTINF:-1 tvg-name="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/ZHONGSHI.png" group-title="台湾频道",中视 HD
+https://ktpremium.com:443/MohdRahizan/3107296/515019
 #EXTINF:-1 tvg-name="中视经典" tvg-name="中视经典" tvg-logo="https://epg.112114.xyz/logo/ZHONGSHI.png" group-title="台湾频道",中视经典
 http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/zhongshinew.png" group-title="台湾频道",中视新闻
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ctv-news
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/zhongshinew.png" group-title="台湾频道",中视新闻 HD
+https://ktpremium.com:443/MohdRahizan/3107296/515206
 #EXTINF:-1 tvg-name="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/TAISHI.png" group-title="台湾频道",台视
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ttv
+#EXTINF:-1 tvg-name="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/TAISHI.png" group-title="台湾频道",台视 HD
+https://ktpremium.com:443/MohdRahizan/3107296/515021
 #EXTINF:-1 tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/TAISHINEW.png" group-title="台湾频道",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/TAISHINEW.png" group-title="台湾频道",台视新闻 HD
-http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=ttv-news
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/MINSHI1.png" group-title="台湾频道",民视HD
+https://ktpremium.com:443/MohdRahizan/3107296/515200
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/MINSHI1.png" group-title="台湾频道",民视
 http://50.7.238.114:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/MINSHI1.png" group-title="台湾频道",民视 HD
+https://ktpremium.com:443/MohdRahizan/3107296/515015
 #EXTINF:-1 tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="台湾频道",民视台湾
 http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="台湾频道",民视台湾 HD
+https://ktpremium.com:443/MohdRahizan/3107296/918589
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台湾频道",民视新闻
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台湾频道",民视新闻HD
-http://www.51romzj.shop:666/ytb.php?id=minsxinw
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台湾频道",民视新闻 HD
+https://ktpremium.com:443/MohdRahizan/3107296/515191
 #EXTINF:-1 tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="台湾频道",民视第一
 http://50.7.238.114:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
+#EXTINF:-1 tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="台湾频道",民视第一 HD
+https://ktpremium.com:443/MohdRahizan/3107296/918588
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" tvg-id="7145" tvg-name="民视综艺台" group-title="台湾",民视综艺
+https://ktpremium.com:443/MohdRahizan/3107296/918590
 #EXTINF:-1 tvg-name="公视" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="台湾频道",公视
-http://www.51romzj.shop:666/ytb.php?id=gongshizb
-#EXTINF:-1 tvg-name="公视" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="台湾频道",公视HD
 http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
+#EXTINF:-1 tvg-name="公视" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="台湾频道",公视 HD
+https://ktpremium.com:443/MohdRahizan/3107296/515023
 #EXTINF:-1 tvg-name="公视新闻" tvg-name="公视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="台湾频道",公视新闻
 http://www.51romzj.shop:666/ytb.php?id=gongshixw
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" tvg-id="6239" tvg-name="三立综合台" group-title="台湾频道",三立综合
 http://50.7.238.114:8278/sanlizhonghe/playlist.m3u8?ct=17874&tid=m3362167a08a014596868&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" tvg-id="6239" tvg-name="三立综合台" group-title="台湾频道",三立综合HD
-http://198.16.100.90:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" tvg-id="6239" tvg-name="三立综合台" group-title="台湾频道",三立综合 HD
+https://ktpremium.com:443/MohdRahizan/3107296/877054
 #EXTINF:-1 tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="台湾频道",三立台湾
 http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+#EXTINF:-1 tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="台湾频道",三立台湾 HD
+https://ktpremium.com:443/MohdRahizan/3107296/877052
 #EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾频道",三立新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾频道",三立News+
+#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾频道",三立新闻 HD
+https://ktpremium.com:443/MohdRahizan/3107296/515185
+#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾频道",三立NEWS+
 http://www.51romzj.shop:666/ytb.php?id=slnews
-#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾频道",三立iNews
+#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾频道",三立iNEWS
 http://www.51romzj.shop:666/ytb.php?id=sliNEWS
+#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾频道",三立iNEWS HD
+https://ktpremium.com:443/MohdRahizan/3107296/515184
 #EXTINF:-1 tvg-name="三立戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/setxiju.png" group-title="台湾频道",三立戏剧
 http://50.7.238.114:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
+#EXTINF:-1 tvg-name="三立戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/setxiju.png" group-title="台湾频道",三立戏剧 HD
+https://ktpremium.com:443/MohdRahizan/3107296/918593
 #EXTINF:-1 tvg-name="三立海外" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾频道",三立海外
 http://www.51romzj.shop:666/ytb.php?id=slhw
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/zhongtiannew.png" group-title="台湾频道",中天新闻
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=cti-news
-#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/zhongtiannew.png" group-title="台湾频道",中天新闻HD
-http://www.51romzj.shop:666/ytb.php?id=ztxw2
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/zhongtiannew.png" group-title="台湾频道",中天新闻 HD
+https://ktpremium.com:443/MohdRahizan/3107296/870539
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" tvg-id="6054" tvg-name="中天综合台" group-title="台湾频道",中天综合
 http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" tvg-id="6054" tvg-name="中天综合台" group-title="台湾频道",中天综合 HD
+https://ktpremium.com:443/MohdRahizan/3107296/877045
 #EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/CTIASIA.png" group-title="台湾频道",中天亚洲
-https://ktpremium.com:443/MohdRahizan/3107296/25987
-#EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/CTIASIA.png" group-title="台湾频道",中天亚洲HD
 http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
+#EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/CTIASIA.png" group-title="台湾频道",中天亚洲 HD
+https://ktpremium.com:443/MohdRahizan/3107296/877046
 #EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾频道",中天娱乐
 http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
-#EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾频道",中天娱乐HD
+#EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾频道",中天娱乐 HD
 http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
 #EXTINF:-1 tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="台湾频道",八大综合
 http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+#EXTINF:-1 tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="台湾频道",八大综合 HD
+https://ktpremium.com:443/MohdRahizan/3107296/877049
 #EXTINF:-1 tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="台湾频道",八大第一台
 http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
-#EXTINF:-1 tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="台湾频道",八大第一台HD
-http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+#EXTINF:-1 tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="台湾频道",八大第一台 HD
+https://ktpremium.com:443/MohdRahizan/3107296/877048
 #EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="台湾频道",八大戏剧
 http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
+#EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="台湾频道",八大戏剧 HD
+https://ktpremium.com:443/MohdRahizan/3107296/515028
 #EXTINF:-1 tvg-name="华视" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾频道",华视
-http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=cts
-#EXTINF:-1 tvg-name="华视" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾频道",华视HD
 http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
+#EXTINF:-1 tvg-name="华视" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾频道",华视 HD
+https://ktpremium.com:443/MohdRahizan/3107296/515017
 #EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://epg.112114.xyz/logo/huashinew.png" group-title="台湾频道",华视新闻
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=cts-news
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台湾频道",TVBS HD
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台湾频道",TVBS
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=tvbs-hd
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台湾频道",TVBS HD
+https://ktpremium.com:443/MohdRahizan/3107296/870537
 #EXTINF:-1 tvg-name="TVB亞洲劇" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾频道",TVBS亚洲
 https://ktpremium.com:443/MohdRahizan/3107296/25986
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBSNEWS.png" group-title="台湾频道",TVBS新闻台
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=tvbs-news
+#EXTINF:-1 tag-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBSNEWS.png" group-title="台湾频道",TVBS新闻台 HD
+https://ktpremium.com:443/MohdRahizan/3107296/870536
 #EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBSJOY.png" group-title="台湾频道",TVBS欢乐台
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=tvbs-huanle
+#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBSJOY.png" group-title="台湾频道",TVBS欢乐台 HD
+https://ktpremium.com:443/MohdRahizan/3107296/877043
+#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBSJC.png" group-title="台湾频道",TVBS精彩台
+https://ktpremium.com:443/MohdRahizan/3107296/515128
 #EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://epg.112114.xyz/logo/jtgj.png" group-title="台湾频道",靖天国际台
 http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
-#EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://epg.112114.xyz/logo/jtgj.png" group-title="台湾频道",靖天国际台HD
+#EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://epg.112114.xyz/logo/jtgj.png" group-title="台湾频道",靖天国际台 HD
 https://ktpremium.com:443/MohdRahizan/3107296/515025
 #EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/jtkt.png" group-title="台湾频道",靖天卡通
 http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
-#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/jtkt.png" group-title="台湾频道",靖天卡通HD
-https://ktpremium.com:443/MohdRahizan/3107296/900862
+#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/jtkt.png" group-title="台湾频道",靖天卡通 HD
+https://ktpremium.com:443/MohdRahizan/3107296/515122
 #EXTINF:-1 tvg-name="靖洋戏剧台" tvg-logo="https://epg.112114.xyz/logo/JYXJ.png" group-title="台湾频道",靖洋戏剧
 https://ktpremium.com:443/MohdRahizan/3107296/900861
 #EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://epg.112114.xyz/logo/NOWNEW.png" group-title="台湾频道",NOW新闻台
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=now-news
 #EXTINF:-1 tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台湾频道",壹电视新闻台
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=nexttv
+#EXTINF:-1 tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台湾频道",壹电视新闻台 HD
+https://ktpremium.com:443/MohdRahizan/3107296/903164
 #EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://epg.112114.xyz/logo/JINGNEWS.png" group-title="台湾频道",镜新闻
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=mnews
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" tvg-id="6076" tvg-name="非凡新闻台" group-title="台湾频道",非凡新闻
 http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" tvg-id="6076" tvg-name="非凡新闻台" group-title="台湾频道",非凡新闻 HD
+https://ktpremium.com:443/MohdRahizan/3107296/515205
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ERANEWS.png" tvg-id="6068" tvg-name="年代新闻台" group-title="台湾频道",年代新闻
 http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ERANEWS.png" tvg-id="6068" tvg-name="年代新闻台" group-title="台湾频道",年代新闻 HD
+https://ktpremium.com:443/MohdRahizan/3107296/877060
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾频道",寰宇新闻
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=global-news
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾频道",寰宇新闻 HD
+https://ktpremium.com:443/MohdRahizan/3107296/857803
 #EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾频道",寰宇新闻台湾
 http://www.51romzj.shop:666/ytb.php?id=hyxwtwt
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://epg.112114.xyz/logo/TIANYING.png" group-title="台湾频道",天映频道
@@ -531,34 +587,60 @@ https://ktpremium.com:443/MohdRahizan/3107296/25981
 https://ktpremium.com:443/MohdRahizan/3107296/25982
 #EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="台湾频道",龙祥时代
 http://198.16.100.90:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" tvg-id="6082" tvg-name="LSTime电影台" group-title="台湾频道",龙祥电影
+https://ktpremium.com:443/MohdRahizan/3107296/694086
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHXJ.png" tvg-id="7127" tvg-name="龙华戏剧" group-title="台湾频道",龙华戏剧
 http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHXJ.png" tvg-id="7127" tvg-name="龙华戏剧" group-title="台湾频道",龙华戏剧 HD
+https://ktpremium.com:443/MohdRahizan/3107296/515083
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHJD.png" tvg-id="7132" tvg-name="龙华经典" group-title="台湾频道",龙华经典
 http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHOX.png" tvg-id="7132" tvg-name="龙华偶像" group-title="台湾频道",龙华偶像
 http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHOX.png" tvg-id="7132" tvg-name="龙华偶像" group-title="台湾频道",龙华偶像 HD
+https://ktpremium.com:443/MohdRahizan/3107296/515091
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHDY.png" tvg-id="7203" tvg-name="龙华电影" group-title="台湾频道",龙华电影
 http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHDY.png" tvg-id="7203" tvg-name="龙华电影" group-title="台湾频道",龙华电影 HD
+https://ktpremium.com:443/MohdRahizan/3107296/918602
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHYP.png" tvg-id="7132" tvg-name="龙华洋片" group-title="台湾频道",龙华洋片
 http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHYP.png" tvg-id="7132" tvg-name="龙华洋片" group-title="台湾频道",龙华洋片HD
-http://198.16.100.90:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
+https://ktpremium.com:443/MohdRahizan/3107296/515085
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHJD.png" tvg-id="7139" tvg-name="龙华经典" group-title="台湾频道",龙华卡通
+https://ktpremium.com:443/MohdRahizan/3107296/918606
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" tvg-id="7201" tvg-name="爱尔达影剧" group-title="台湾频道",爱尔达影剧
 http://50.7.238.114:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" tvg-id="7201" tvg-name="爱尔达影剧" group-title="台湾频道",爱尔达影剧 HD
+https://ktpremium.com:443/MohdRahizan/3107296/918585
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="爱尔达娱乐台" group-title="台湾频道",爱尔达娱乐
+https://ktpremium.com:443/MohdRahizan/3107296/900865
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyexiju.png" tvg-id="7222" tvg-name="EYE戏剧" group-title="台湾频道",EYETV戏剧
 http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyexiju.png" tvg-id="7222" tvg-name="EYE戏剧" group-title="台湾频道",EYETV戏剧 HD
+https://ktpremium.com:443/MohdRahizan/3107296/918600
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" tvg-id="6089" tvg-name="CINEMAX" group-title="台湾频道",CINEMAX
+https://ktpremium.com:443/MohdRahizan/3107296/515076
 #EXTINF:-1 tvg-id="673" tvg-name="CN卡通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="台湾频道",CN卡通频道
 http://50.7.238.114:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" tvg-id="6042" tvg-name="MOMO亲子台" group-title="台湾频道",MOMO亲子
+https://ktpremium.com:443/MohdRahizan/3107296/515120
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" tvg-id="708" tvg-name="BabyTV" group-title="台湾",Baby TV
+https://ktpremium.com:443/MohdRahizan/3107296/694339
 #EXTINF:-1 tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="台湾频道",大爱一台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-name="大爱二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="台湾频道",大爱二台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="台湾频道",AXN 台湾
+#EXTINF:-1 tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="台湾频道",AXN
 http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
+#EXTINF:-1 tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="台湾频道",AXN HD
+https://ktpremium.com:443/MohdRahizan/3107296/515075
 #EXTINF:-1 tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="台湾频道",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="台湾频道",人间卫视
 https://epg.pw/stream/925df6e71c4dd75f935dbe02200a19e3893eea0a125da4d28447546e7a8bd092.m3u8
+#EXTINF:-1 tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="台湾频道",人间卫视
+https://ktpremium.com:443/MohdRahizan/3107296/900860
 #EXTINF:-1 tvg-name="纬来综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="台湾频道",纬来综合
 https://ktpremium.com:443/MohdRahizan/3107296/870549
 #EXTINF:-1 tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="台湾频道",纬来电影
@@ -1081,10 +1163,16 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444699
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444698
 #EXTINF:-1 tvg-name="SPORTS: HUB SPORTS 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11571.jpg?94789" group-title="亚洲体育",HUB SPORTS 3 HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444697
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-name="SPO: Dubai Sport 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/576.png?76986" group-title="亚洲体育",Dubai Sport 1
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/3109
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-name="SPO: Dubai Sport 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/576.png?76986" group-title="亚洲体育",Dubai Sport 2
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/4187
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-name="SPO: Dubai Sport 3" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/576.png?76986" group-title="亚洲体育",Dubai Sport 3
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/8263
 #EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="亚洲体育",纬来体育
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=videoland-sport
 #EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="亚洲体育",纬来体育HD
-https://cloud.yumixiu768.com/tmp/123.m3u8
+https://ktpremium.com:443/MohdRahizan/3107296/879250
 #EXTINF:-1 tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="亚洲体育",爱尔达体育1
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=elta-sport1
 #EXTINF:-1 tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="亚洲体育",爱尔达体育2
@@ -1093,8 +1181,12 @@ http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=elta-sport2
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=elta-sport3
 #EXTINF:-1 tvg-name="ELEVEN体育一台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS1.png" group-title="亚洲体育",ELEVEN体育1
 http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+#EXTINF:-1 tvg-name="ELEVEN体育一台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS1.png" group-title="亚洲体育",ELEVEN体育1 HD
+https://ktpremium.com:443/MohdRahizan/3107296/910889
 #EXTINF:-1 tvg-name="ELEVEN体育二台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS2.png" group-title="亚洲体育",ELEVEN体育2
 https://epg.pw/stream/5d72f17fbafcb20f44d1e2a68d514058df12e0e56686b8f5d98bf78cf897d046.m3u8
+#EXTINF:-1 tvg-name="ELEVEN体育二台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS2.png" group-title="亚洲体育",ELEVEN体育2 HD
+https://ktpremium.com:443/MohdRahizan/3107296/910890
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net.png" tvg-id="6174" tvg-name="博斯运动一台" group-title="亚洲体育",博斯运动1台
 http://198.16.100.90:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" tvg-id="6174" tvg-name="博斯运动二台" group-title="亚洲体育",博斯运动2台
@@ -1107,6 +1199,8 @@ http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&c
 http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" tvg-id="6178" tvg-name="博斯高球2台" group-title="亚洲体育",博斯高球2台
 http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_unlimited.png" tvg-id="6176" tvg-name="博斯无限台" group-title="亚洲体育",博斯无限
+https://ktpremium.com:443/MohdRahizan/3107296/889396
 #EXTINF:-1 tvg-id="10761" tvg-name="J SPORTS 1" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165726980841_51.jpg" group-title="亚洲体育",J Sprots1
 https://epg.pw/stream/c02d25b31667e5e5e63261258612e3818688ef65926d25dabc9f56f4e11e2b3b.m3u8
 #EXTINF:-1 tvg-id="10768" tvg-name="J SPORTS 2" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162826971601_87.jpg" group-title="亚洲体育",J Sprots2
@@ -1123,6 +1217,8 @@ https://ktpremium.com:443/MohdRahizan/3107296/870684
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325775
 #EXTINF:-1 tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="人文频道",DISCOVERY ASIA
 http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+#EXTINF:-1 tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="人文频道",DISCOVERY ASIA HD
+https://ktpremium.com:443/MohdRahizan/3107296/698399
 #EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="US: DISCOVERY FAMILY HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6308.jpg?18025" group-title="人文频道",DISCOVERY FAMILY HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325776
 #EXTINF:-1 tvg-id="DiscoveryLife.us" tvg-name="US: DISCOVERY LIFE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/618.jpg?12232" group-title="人文频道",DISCOVERY LIFE HD
@@ -1161,21 +1257,20 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484464
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=asia-travel
 #EXTINF:-1 tvg-name="EYE旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="人文频道",EYETV旅游
 http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
-#EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="人文频道",动物星球 HD
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="人文频道",动物星球
 http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-#EXTINF:-1 tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="人文频道",美食星球HD
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="人文频道",动物星球 HD
+https://ktpremium.com:443/MohdRahizan/3107296/870689
+#EXTINF:-1 tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="人文频道",美食星球
 http://198.16.100.90:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
-#EXTINF:-1 tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="儿童频道",DISNEY
-http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=disney
-#EXTINF:-1 tvg-name="Disney" tvg-logo="https://epg.112114.xyz/logo/DISNEY.png" group-title="儿童频道",DISNEY HD 
-http://likea8bitboss.xyz:80/Amy1234/6350412987/321
-#EXTINF:-1 tvg-name="DisneyJR" tvg-logo="https://epg.112114.xyz/logo/DISNEYJR.png" group-title="儿童频道",DISNEY JR
-http://likea8bitboss.xyz:80/Amy1234/6350412987/322
-#EXTINF:-1 tvg-name="DisneyXD" tvg-logo="https://epg.112114.xyz/logo/DISNEY" group-title="儿童频道",DISNEY XD
+#EXTINF:-1 tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="人文频道",美食星球 HD
+https://ktpremium.com:443/MohdRahizan/3107296/515100
 #EXTINF:-1 tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="儿童频道",小尼克频道
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=nick-jr
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="儿童频道",尼克儿童频道
 https://epg.pw/stream/3f9e0cbf40dd4828d593f974c80730357e4fdc12f11b239ef6f6542e21e781a4.m3u8
+#EXTINF:-1 tvg-id="673" tvg-name="CN卡通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="儿童频道",CN卡通频道
+http://50.7.238.114:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="US: CARTOON NETWORK HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/633.png?51995" group-title="儿童频道",CARTOON NETWORK HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/7236
 #EXTINF:-1 tvg-name="US: DISNEY CHANNEL HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/628.jpg?71294" group-title="儿童频道",DISNEY CHANNEL HD

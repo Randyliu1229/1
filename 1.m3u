@@ -831,10 +831,6 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439650
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439649
 #EXTINF:-1 tvg-name="RU: ANIMAL PLANET HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/animalplanethdrussian.png" group-title="俄国频道",ANIMAL PLANET HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439480
-#EXTINF:-1 tvg-name="RU: ANIMAL FAMILY HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/ANIMAL-KINGDOM.png" group-title="俄国频道",ANIMAL FAMILY HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439479
-#EXTINF:-1 tvg-id="ZooTV.ru" tvg-name="RU: ZOOPARK" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/ZOOPARK.png" group-title="俄国频道",ZOOPARK
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/43938Ω
 #EXTINF:-1 tvg-id="DiscoveryChannel.ru" tvg-name="RU: DISCOVERY CHANNEL HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/discoverychannelhd.png" group-title="俄国频道",DISCOVERY CHANNEL HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439470
 #EXTINF:-1 tvg-id="DiscoveryScience.ru" tvg-name="RU: DISCOVERY SCIENCE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/discoverysciencehd.png" group-title="俄国频道",DISCOVERY SCIENCE HD
@@ -1065,9 +1061,9 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325048
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325059
 #EXTINF:-1 tvg-id="WWE.us" tvg-name="US: WWE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8088.jpg?91127" group-title="国际体育",WWE HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324992
-#EXTINF:-1 tvg-name="SPORTS: HK NOW PREMIER SPORTS 1 HD" tag-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="亚洲体育",HK NOW PREMIER SPORTS 1 HD
+#EXTINF:-1 tvg-name="SPORTS: HK NOW PREMIER SPORTS 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="亚洲体育",HK NOW PREMIER SPORTS 1 HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444700
-#EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="亚洲体育": HK NOW SPORTS 2 HD
+#EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="亚洲体育",HK NOW SPORTS 2 HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444706
 #EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="亚洲体育",HK NOW SPORTS 3 HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444705

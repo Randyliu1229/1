@@ -143,20 +143,6 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://epg.112114.eu.org/logo/QIUSUO4.png" group-title="卫视频道",求索生活
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="天津新闻" tvg-name="天津新闻" tvg-logo="https://epg.112114.xyz/logo/TIANJIN1.png" group-title="天津频道",天津新闻
-http://www.51romzj.xyz:666/diyroms/dll/ysp/tjiptv.php?id=tjxw
-#EXTINF:-1 tvg-id="天津文艺" tvg-name="天津文艺" tvg-logo="https://epg.112114.xyz/logo/TIANJIN2.png" group-title="天津频道",天津文艺
-http://www.51romzj.xyz:666/diyroms/dll/ysp/tjiptv.php?id=tjwy
-#EXTINF:-1 tvg-id="天津影视" tvg-name="天津影视" tvg-logo="https://epg.112114.xyz/logo/TIANJIN3.png" group-title="天津频道",天津影视
-http://www.51romzj.xyz:666/diyroms/dll/ysp/tjiptv.php?id=tjys
-#EXTINF:-1 tvg-id="天津都市" tvg-name="天津都市" tvg-logo="https://epg.112114.xyz/logo/TIANJIN4.png" group-title="天津频道",天津都市
-http://www.51romzj.xyz:666/diyroms/dll/ysp/tjiptv.php?id=tjds
-#EXTINF:-1 tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://epg.112114.xyz/logo/TIANJIN5.png" group-title="天津频道",天津体育
-http://www.51romzj.xyz:666/diyroms/dll/ysp/tjiptv.php?id=tjty
-#EXTINF:-1 tvg-id="天津科教" tvg-name="天津教育" tvg-logo="https://epg.112114.xyz/logo/TIANJIN6.png" group-title="天津频道",天津科教
-http://www.51romzj.xyz:666/diyroms/dll/ysp/tjiptv.php?id=tjkej
-#EXTINF:-1 tvg-id="天津少儿" tvg-name="天津少儿" tvg-logo="https://epg.112114.xyz/logo/TIANJIN7.png" group-title="天津频道",天津少儿 P
-http://www.51romzj.xyz:666/diyroms/dll/ysp/tjiptv.php?id=tjse
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="高清频道",CCTV1-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="高清频道",CCTV3-4K
@@ -593,104 +579,6 @@ https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
 #EXTINF:-1 tvg-id="7151" tvg-name="FashionOne" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fashionone.png" group-title="台湾频道",Fashion TV
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="国际新闻",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="国际新闻",CNN HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324928
-#EXTINF:-1 tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="国际新闻",CNN 4K
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324963
-#EXTINF:-1 tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="国际新闻",CNN MAX HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621803
-#EXTINF:-1 tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="国际新闻",BBC WORLD NEWS
-http://103.199.161.254/Content/bbcworld/Live/Channel%28BBCworld%29/index.m3u8
-#EXTINF:-1 tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="国际新闻",BBC WORLD NEWS HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325846
-#EXTINF:-1 tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="国际新闻",NHK WORLD JAPAN
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="国际新闻",NHK WORLD JAPAN HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/628432
-#EXTINF:-1 tvg-name="KBSWORLD" tvg-logo="https://epg.112114.xyz/logo/KBS World.png" group-title="国际新闻",KBS WORLD
-https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-name="KBSWORLD" tvg-logo="https://epg.112114.xyz/logo/KBS World.png" group-title="国际新闻",KBS WORLD HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/440528
-#EXTINF:-1 tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="国际新闻",ABC NEWS
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
-#EXTINF:-1 tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="国际新闻",ABC NEWS HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324915
-#EXTINF:-1 tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="国际新闻",BLOOMBERG
-https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="国际新闻",BLOOMBERG HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162145
-#EXTINF:-1 tvg-name="CBSNEWS" tvg-logo="https://epg.112114.xyz/logo/CBSN.png" group-title="国际新闻",CBS NEWS
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-name="CBSNEWS" tvg-logo="https://epg.112114.xyz/logo/CBSN.png" group-title="国际新闻",CBS NEWS HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324930
-#EXTINF:-1 tvg-name="CHANNELNEWSASIA" tvg-logo="https://epg.112114.xyz/logo/CNA-NEWS.png" group-title="国际新闻",CNA NEWS
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" group-title="国际新闻",EURONEWS HD
-https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" group-title="国际新闻",EURONEWS HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/436117
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FOXNEWS.png" group-title="国际新闻",FOX News
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FOXNEWS.png" group-title="国际新闻",FOX News HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324923
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FOXNEWS.png" group-title="国际新闻",FOX News UHD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/429593
-#EXTINF:-1 tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="国际新闻",FRANCE24
-https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
-#EXTINF:-1 tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="国际新闻",FRANCE24 HD
-https://epg.pw/stream/17974cddcc3998fb78a274c78843a41844e9582c9eabac27c7a930eba1453427.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="国际新闻",SKY NEWS
-http://likea8bitboss.xyz:80/Amy1234/6350412987/761301
-#EXTINF:-1 tvg-name="Aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="国际新闻",Al JAZEERA
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="Aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="国际新闻",Al JAZEERA HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325829
-#EXTINF:-1 tvg-name"Aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="国际新闻",Al JAZEERA ARABIC
-http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
-#EXTINF:-1 tvg-name="CCTV4AME" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" group-title="国际新闻",CCTV AMERICA
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 tvg-name="russia today" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="欧美频道",RT NEWS
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325903
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/uk/bbc/bbc_news.png" group-title="欧美频道",BBC NEWS
-http://likea8bitboss.xyz:80/Amy1234/6350412987/761230
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/uk/bbc/bbc_one.png"group-title="欧美频道",BBC ONE
-http://likea8bitboss.xyz:80/Amy1234/6350412987/761231
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/uk/bbc/bbc_two.png" group-title="欧美频道",BBC TWO
-http://likea8bitboss.xyz:80/Amy1234/6350412987/761234
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/uk/bbc/bbc_four.png" group-title="欧美频道",BBC FOUR
-http://likea8bitboss.xyz:80/Amy1234/6350412987/761229
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/uk/bbc/bbc_parliament.png" group-title="欧美频道",BBC Parliament
-http://likea8bitboss.xyz:80/Amy1234/6350412987/761232
-#EXTINF:-1 tvg-name="bbc drama" tvg-logo="https://epg.112114.xyz/logo/uk/bbc/bbc_parliament.png" group-title="欧美频道",BBC Drama
-https://epg.pw/stream/49ad9324651393a0225343e4ae5d1b18cfacbf25586b4486fc8fb456426af8db.m3u8
-#EXTINF:-1 tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="欧美频道",FOX HD
-https://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1 tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="欧美频道",HBO HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325973
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO 2 HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325976
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO FAMILY HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325974
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO COMEDY HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325975
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO WEST HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325990
-#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO SIGNAUTURE HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325972
-#EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO ZONE HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325971
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO LATINO HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/436156
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="欧美频道",HBO LATINO 2 HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/436157
-#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="欧美频道",RT Documentary
-https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 tvg-id="俄罗斯中文" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="欧美频道",俄罗斯中文
-http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DWDEUTSCH.png" group-title="欧美频道",DW德国之声
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="日韩频道",Arirang Korea
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="日韩频道",Arirang Korea HD
@@ -779,7 +667,19 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659292
 #EXTINF:-1 tvg-name="MY: AXN HD [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/axnhd.png" group-title="新马频道",AXN HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659285
 #EXTINF:-1 tvg-name="MY: CGTN [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/cgtn.png" group-title="新马频道",CGTN
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659283
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/65928
+#EXTINF:-1 tvg-name="MY: iQIYI HD [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-IQIYI.png" group-title="新马频道",iQIYI HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659267
+#EXTINF:-1 tvg-name="MY: CTI ASIA [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/CTI-ASIA.jpg" group-title="新马频道",CTI ASIA
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659279
+#EXTINF:-1 tvg-name="MY: TVB JADE [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/TVB-JADE.jpeg" group-title="新马频道",TVB JADE
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659256
+#EXTINF:-1 tvg-name="MY: TVB E-NEWS [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/TVB-E-NEWS.jpeg" group-title="新马频道",TVB E-NEWS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659257
+#EXTINF:-1 tvg-name="TVB CLASSIC [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/TVB-CLASSIC.jpeg" group-title="新马频道",TVB CLASSIC
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659266
+#EXTINF:-1 tvg-name="MY: CELESTIAL CLASSIC MOVIES [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/CELESTIAL-CLASSIC-MOVIES.png" group-title="新马频道",CELESTIAL CLASSIC MOVIES
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659252
 #EXTINF:-1 tvg-name="MY: CRIME INVESTIGATION HD [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/crimeinvest.png" group-title="新马频道",CRIME INVESTIGATION HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659282
 #EXTINF:-1 tvg-name="MY: HISTORY HD [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/historyhd.png" group-title="新马频道",HISTORY HD
@@ -791,7 +691,7 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659277#EXTINF:-1 tvg-name=
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659251
 #EXTINF:-1 tvg-name="MY: DISCOVERY SCI HD [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscihd.png" group-title="新马频道",DISCOVERY SCI HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659278
-#EXTINF:-1 tvg-name="新马频道" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethd.png" group-title="MA| MALAYSIA",ANIMAL PLANET HD
+#EXTINF:-1 tvg-name="新马频道" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethd.png" group-title="新马频道",ANIMAL PLANET HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659289
 #EXTINF:-1 tvg-name="MY: NICKELODEON [H]" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeonhd.png" group-title="新马频道",NICKELODEON
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659321
@@ -803,16 +703,6 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659274
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659312
 #EXTINF:-1 tvg-name="MY: HITS MOVIES [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/HITS-MOVIES.jpeg" group-title="新马频道",HITS MOVIES
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659268
-#EXTINF:-1 tvg-name="MY: iQIYI HD [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-IQIYI.png" group-title="新马频道",iQIYI HD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659267
-#EXTINF:-1 tvg-name="MY: CTI ASIA [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/CTI-ASIA.jpg" group-title="新马频道",CTI ASIA
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659279
-#EXTINF:-1 tvg-name="MY: TVB E-NEWS [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/TVB-E-NEWS.jpeg" group-title="新马频道",TVB E-NEWS
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659257
-#EXTINF:-1 tvg-name="MY: TVB JADE [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/TVB-JADE.jpeg" group-title="MA| MALAYSIA",TVB JADE
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659256
-#EXTINF:-1 tvg-name="TVB CLASSIC [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/TVB-CLASSIC.jpeg" group-title="新马频道",TVB CLASSIC
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659266
 #EXTINF:-1 tvg-name="MY: Oh!K HD [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-OH!K.jpg" group-title="新马频道",Oh!K HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659263
 #EXTINF:-1 tvg-name="MY: ONE HD [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/onehd.png" group-title="新马频道",ONE HD
@@ -823,189 +713,497 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659259
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659258
 #EXTINF:-1 tvg-name="MY: WWE NETWORK [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/wwenetwork.png" group-title="新马频道",WWE NETWORK
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659253
-#EXTINF:-1 tvg-name="MY: CELESTIAL CLASSIC MOVIES [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/CELESTIAL-CLASSIC-MOVIES.png" group-title="MA| MALAYSIA",CELESTIAL CLASSIC MOVIES
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659252
 #EXTINF:-1 tvg-name="MY: FOOD NETWORK HD [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/foodnetwork.png" group-title="新马频道",FOOD NETWORK HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659250
 #EXTINF:-1 tvg-name="MY: ASIAN FOOD CHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/asianfoodchannel.png" group-title="新马频道",ASIAN FOOD CHANNEL
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659249
-#EXTINF:-1 tvg-name="SPORTS: HK NOW PREMIER SPORTS 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="体育频道",NOW PREMIER SPORTS 1 HD
+#EXTINF:-1 tvg-name="US: ABC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12183.jpg?18714" group-title="美国频道",ABC HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325773
+#EXTINF:-1 tvg-name="US: ABC NEWS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13621.png?ver=501" group-title="美国频道",ABC NEWS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/430328
+#EXTINF:-1 tvg-name="US: ABC NEWS LIVE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13621.png?ver=501" group-title="美国频道",ABC NEWS LIVE HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/430295
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="US: AMC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6164.png?84800" group-title="美国频道",AMC HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325778
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="US: AMC PLUS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1114.png?6385" group-title="美国频道",AMC PLUS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325934
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="US: BBC AMERICA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/192.png?52355" group-title="美国频道",BBC AMERICA HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325827
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="US: CBS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13622.png?18808" group-title="美国频道",CBS HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324931
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="US: CNBC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/404.png?58424" group-title="美国频道",CNBC HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324929
+#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="US: CNBC WORLD HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/755.png?48211" group-title="美国频道",CNBC WORLD HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324948
+#EXTINF:-1 tvg-name="US: FOX HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3263.png?4746" group-title="美国频道",FOX HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324947
+#EXTINF:-1 tvg-name="US: FOX BUSINESS NETWORK HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/750.jpg?ver=56209" group-title="美国频道",FOX BUSINESS NETWORK HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/429595
+#EXTINF:-1 tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="美国频道",HBO HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325973
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="美国频道",HBO 2 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325976
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="美国频道",HBO FAMILY HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325974
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="美国频道",HBO COMEDY HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325975
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="美国频道",HBO WEST HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325990
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="美国频道",HBO SIGNAUTURE HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325972
+#EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="美国频道",HBO ZONE HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325971
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="美国频道",HBO LATINO HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/436156
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="美国频道",HBO LATINO 2 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/436157
+#EXTINF:-1 tvg-name="US: MGM HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8527.png?46535" group-title="美国频道",MGM HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325886
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="US: PARAMOUNT HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/766.png?7092" group-title="美国频道",PARAMOUNT HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325806
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK: BBC NEWS HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/364.png?20760" group-title="英国频道",BBC NEWS HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162142
+#EXTINF:-1 tvg-id="BBCOneOxford.uk" tvg-name="UK: BBC ONE LONDON 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11987.jpg?90172" group-title="英国频道",BBC ONE LONDON UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/497001
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK: BBC 1 HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12016.jpg?38263" group-title="英国频道",BBC 1 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162096
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK: BBC 2 HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12017.jpg?20708" group-title="英国频道",BBC 2 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162098
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: BBC 3 / CBBC HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12033.jpg?67015" group-title="英国频道",BBC 3 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162100
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="UK: BBC 4 / CBEEBIES HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12018.jpg?74474" group-title="英国频道",BBC 4 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162102
+#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-name="UK: BBC ALBA ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12039.jpg?31265" group-title="英国频道",BBC ALBA
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162175
+#EXTINF:-1 tvg-name="UK: BBC Brit HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/728.png?ver=74237" group-title="英国频道",BBC BRIT HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/414041
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: BBC Earth HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3982.png?33746" group-title="英国频道",BBC EARTH HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/414042
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="UK: BBC PARLAMENT ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12068.jpg?6004" group-title="英国频道",BBC PARLAMENT
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/622075
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK: CHANNEL 4 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12107.jpg?7219" group-title="英国频道",CHANNEL 4 UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162113
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK: CHANNEL 5 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12126.jpg?14506" group-title="英国频道",CHANNEL 5 UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162114
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK: SKY NEWS HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3124.jpg?91022" group-title="英国频道",SKY NEWS HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162155
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="UK: GB NEWS 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13251.jpg?ver=18254" group-title="英国频道",GB NEWS UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/272243
+#EXTINF:-1 tvg-id="AriseNews.uk" tvg-name="UK: ARISE NEWS ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8189.jpg?59478" group-title="英国频道",ARISE NEWS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/483651
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK: BLOOMBERG EU ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11569.jpg?14373" group-title="英国频道",BLOOMBERG EU
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162146
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: RT UK HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8546.png?40890" group-title="英国频道",UK: RT UK
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162154
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: RT AMERICA HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/427.png?94255" group-title="英国频道",UK: RT AMERICA
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162151
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: UNIVERSAL 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2339.jpg?37675" group-title="英国频道",UNIVERSAL UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162263
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: PARAMOUNT HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/766.png?53355" group-title="英国频道",PARAMOUNT HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162274
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK: COMEDY CENTRAL ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/749.png?81881" group-title="英国频道",COMEDY CENTRAL
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162277
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK: COMEDY CENT XTRA+1 ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/749.png?81881" group-title="英国频道",COMEDY CENT XTRA+1
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162278
+#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="UK: SKY DOCUMENTARIES 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?45779" group-title="英国频道",SKY DOCUMENTARIES UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162382
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: CRIME INVESTIGATION 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7953.jpg?81264" group-title="英国频道",CRIME INVESTIGATION
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162377
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: CRIME INVESTIGATION +1 ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7953.jpg?81264" group-title="英国频道",UK: CRIME INVESTIGATION +1
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/402156
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: TRAVEL CHANNEL ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12210.jpg?84721" group-title="英国频道",TRAVEL CHANNEL
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162395
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="UK: FOOD NETWORK ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6168.png?81098" group-title="英国频道",FOOD NETWORK
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162159
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: GOOD FOOD 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6168.png?49908" group-title="英国频道",GOOD FOOD UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162161
+#EXTINF:-1 tvg-id="俄罗斯中文" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="俄国频道",俄罗斯中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="RU: RT HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/rthd.png" group-title="俄国频道",RT HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439634
+#EXTINF:-1 tvg-id="RTDocEnglish.ru" tvg-name="RU: RT DOC" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/rtdoc.png" group-title="俄国频道",RT DOC
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439633
+#EXTINF:-1 tvg-name="RU: EURONEWS" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/euronewsrussia.png" group-title="俄国频道",EURONEWS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439650
+#EXTINF:-1 tvg-name="RU: MOSKVA 24" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/MOSKVA-24.jpg" group-title="俄国频道",MOSKVA 24
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439649
+#EXTINF:-1 tvg-name="RU: ANIMAL PLANET HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/animalplanethdrussian.png" group-title="俄国频道",ANIMAL PLANET HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439480
+#EXTINF:-1 tvg-name="RU: ANIMAL FAMILY HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/ANIMAL-KINGDOM.png" group-title="俄国频道",ANIMAL FAMILY HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439479
+#EXTINF:-1 tvg-id="ZooTV.ru" tvg-name="RU: ZOOPARK" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/ZOOPARK.png" group-title="俄国频道",ZOOPARK
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/43938Ω
+#EXTINF:-1 tvg-id="DiscoveryChannel.ru" tvg-name="RU: DISCOVERY CHANNEL HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/discoverychannelhd.png" group-title="俄国频道",DISCOVERY CHANNEL HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439470
+#EXTINF:-1 tvg-id="DiscoveryScience.ru" tvg-name="RU: DISCOVERY SCIENCE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/discoverysciencehd.png" group-title="俄国频道",DISCOVERY SCIENCE HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439468
+#EXTINF:-1 tvg-name="RU: DISCOVERY SHOWCASE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/discoveryshowcasehd.png" group-title="俄国频道",DISCOVERY SHOWCASE HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439467
+#EXTINF:-1 tvg-name="RU: DISCOVERY DTX" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/DISCOVERY-DTX.png" group-title国频道",DISCOVERY DTX
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439466
+#EXTINF:-1 tvg-name="RU: DISCOVERY ID XTRA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/DISCOVERY-ID-XTRA-HD.png" group-title="俄国频道",DISCOVERY ID XTRA HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439465
+#EXTINF:-1 tvg-id="FashionTV.ru" tvg-name="RU: FASHION TELEVISION" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/fashiontelevision.png" group-title="俄国频道",FASHION TELEVISION
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439460
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-name="RU: HISTORY HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/HISTORY-HD.jpg" group-title="俄国频道",HISTORY HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439452
+#EXTINF:-1 tvg-name="RU: ID INVESTIGATION DISCOVERY" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/INVESTIGATION-DISCOVERY.png" group-title="俄国频道",INVESTIGATION DISCOVERY
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439449
+#EXTINF:-1 tvg-id="NatGeoWild.ru" tvg-name="RU: NAT GEO WILD HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/natgeowildhd.png" group-title="俄国频道",NAT GEO WILD HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439438
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="RU: NATIONAL GEOGRAPHIC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/nationalgeographichd.png" group-title="俄国频道",NATIONAL GEOGRAPHIC HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439436
+#EXTINF:-1 tvg-id="TravelAndAdventure.ru" tvg-name="RU: TRAVEL+ADVENTURE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/TRAVEL-+-ADVENTURE.jpeg" group-title="俄国频道",TRAVEL+ADVENTURE HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439408
+#EXTINF:-1 tvg-id="TravelChannel.ru" tvg-name="RU: TRAVEL HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/travelhd.png" group-title="俄国频道",TRAVEL HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439406
+#EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="RU: FOOD NETWORK" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/foodnetwork.png" group-title="俄国频道",FOOD NETWORK
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439364
+#EXTINF:-1 tvg-id="А1.ru" tvg-name="RU: A1" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/A1.jpg" group-title="俄国频道",A1
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439488
+#EXTINF:-1 tvg-id="А2.ru" tvg-name="RU: A2" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/A2.jpg" group-title="俄国频道",A2
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439487
+#EXTINF:-1 tvg-name="RU: AMC" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/amc.png" group-title="俄国频道",AMC
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439486
+#EXTINF:-1 tvg-name="RU: CHANNEL ONE" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/channelonerussia.png" group-title="俄国频道",CHANNEL ONE
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439651
+#EXTINF:-1 tvg-name="RU: NICKELODEON" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/nickelodeon.png" group-title="俄国频道",NICKELODEON
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439561
+#EXTINF:-1 tvg-name="RU: NICKELODEON HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/nickelodeonhd.png" group-title="俄国频道",NICKELODEON HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439560
+#EXTINF:-1 tvg-name="RU: NICK JUNIOR" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/nickjunior.png" group-title="俄国频道",NICK JUNIOR
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439559
+#EXTINF:-1 tvg-id="CartoonNetwork.ru" tvg-name="RU: CARTOON NETWORK" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/cartoonnetwork.png" group-title="俄国频道",CARTOON NETWORK
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439558
+#EXTINF:-1 tvg-id="DisneyChannel.ru" tvg-name="RU: DISNEY CHANNEL" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/disneychannel.png" group-title="俄国频道",DISNEY CHANNEL
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439557
+#EXTINF:-1 tvg-id="Boomerang.ru" tvg-name="RU: BOOMERANG TV" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/boomerangtv.png" group-title="俄国频道",BOOMERANG TV
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439556
+#EXTINF:-1 tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="国际新闻",CNN HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324928
+#EXTINF:-1 tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="国际新闻",CNN 4K
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324963
+#EXTINF:-1 tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="国际新闻",CNN MAX HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621803
+#EXTINF:-1 tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="国际新闻",BBC WORLD NEWS HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325846
+#EXTINF:-1 tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="国际新闻",NHK WORLD JAPAN HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/628432
+#EXTINF:-1 tvg-name="KBSWORLD" tvg-logo="https://epg.112114.xyz/logo/KBS World.png" group-title="国际新闻",KBS WORLD HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/440528
+#EXTINF:-1 tvg-name="ABCAustralia" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="国际新闻",ABC NEWS HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324915
+#EXTINF:-1 tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="国际新闻",BLOOMBERG HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162145
+#EXTINF:-1 tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="国际新闻",BLOOMBERG+ UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484449
+#EXTINF:-1 tvg-name="CBSNEWS" tvg-logo="https://epg.112114.xyz/logo/CBSN.png" group-title="国际新闻",CBS NEWS HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324930
+#EXTINF:-1 tvg-name="CHANNELNEWSASIA" tvg-logo="https://epg.112114.xyz/logo/CNA-NEWS.png" group-title="国际新闻",CNA NEWS
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-name="CHANNELNEWSASIA" tvg-logo="https://epg.112114.xyz/logo/CNA-NEWS.png" group-title="国际新闻",CNA NEWS HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494896
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" group-title="国际新闻",EURONEWS HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/436117
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FOXNEWS.png" group-title="国际新闻",FOX NEWS HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324923
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FOXNEWS.png" group-title="国际新闻",FOX NEWS UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/429593
+#EXTINF:-1 tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="国际新闻",FRANCE24 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="国际新闻",SKY NEWS
+http://likea8bitboss.xyz:80/Amy1234/6350412987/761301
+#EXTINF:-1 tvg-name="Aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="国际新闻",Al JAZEERA HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325829
+#EXTINF:-1 tvg-name"Aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="国际新闻",Al JAZEERA ARABIC
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
+#EXTINF:-1 tvg-name="CCTV4AME" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" group-title="国际新闻",CCTV AMERICA
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 tvg-name="russia today" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="国际新闻",RT NEWS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325903
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DWDEUTSCH.png" group-title="国际新闻",DW NEWS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/483652
+#EXTINF:-1 tvg-name="SPORTS: HK NOW PREMIER SPORTS 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="国际体育",NOW PREMIER SPORTS 1 HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444700
-#EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="体育频道",NOW SPORTS 2 HD
+#EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="国际体育",NOW SPORTS 2 HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444706
-#EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="体育频道",NOW SPORTS 3 HD
+#EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="国际体育",NOW SPORTS 3 HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444705
-#EXTINF:-1 tvg-name="4K: NOW SPORTS ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?ver=9156" group-title="体育频道",NOW SPORTS  UHD
+#EXTINF:-1 tvg-name="4K: NOW SPORTS ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?ver=9156" group-title="国际体育",NOW SPORTS  UHD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484471
-#EXTINF:-1 tvg-name="4K: SG HUBPREMIER 2 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1900.jpg?30855" group-title="体育频道",SG HUBPREMIER UHD
+#EXTINF:-1 tvg-name="4K: SG HUBPREMIER 2 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1900.jpg?30855" group-title="国际体育",SG HUBPREMIER UHD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484466
-#EXTINF:-1 tvg-id="beINSports4K.qa" tvg-name="4K: beIN ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13490.png?ver=65901" group-title="体育频道",BeIN UHD
+#EXTINF:-1 tvg-id="beINSports4K.qa" tvg-name="4K: beIN ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13490.png?ver=65901" group-title="国际体育",BeIN UHD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/483975
-#EXTINF:-1 tvg-id="VSportUltraHD.no" tvg-name="4K: V SPORT ULTRA ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12976.jpg?20070" group-title="体育频道",V SPORT ULTRA UHD
+#EXTINF:-1 tvg-id="VSportUltraHD.no" tvg-name="4K: V SPORT ULTRA ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12976.jpg?20070" group-title="国际体育",V SPORT ULTRA UHD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/483974
-#EXTINF:-1 tvg-id="ElevenSports1NL.be" tvg-name="4K: ELEVEN SPORTS 1 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11211.png?9223" group-title="体育频道",ELEVEN SPORTS 1 UHD
+#EXTINF:-1 tvg-id="ElevenSports1NL.be" tvg-name="4K: ELEVEN SPORTS 1 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11211.png?9223" group-title="国际体育",ELEVEN SPORTS 1 UHD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/483973
-#EXTINF:-1 tvg-name="4K: YES SPORT 5 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12426.png?39125" group-title="体育频道",YES SPORT 5 UHD
+#EXTINF:-1 tvg-name="4K: YES SPORT 5 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12426.png?39125" group-title="国际体育",YES SPORT 5 UHD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/483972
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="4K: CANAL+ ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3173.jpg?75309" group-title="体育频道",CANAL+ UHD
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="4K: CANAL+ ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3173.jpg?75309" group-title="国际体育",CANAL+ UHD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484473
-#EXTINF:-1 tvg-name="4K: CANAL+ EVENEMENT ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3173.jpg?75309" group-title="体育频道",CANAL+ EVENEMENT UHD
+#EXTINF:-1 tvg-name="4K: CANAL+ EVENEMENT ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3173.jpg?75309" group-title="国际体育",CANAL+ EVENEMENT UHD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484475
-#EXTINF:-1 tvg-name="4K: CANAL+ LDC ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3173.jpg?75309" group-title="体育频道",CANAL+ LDC UHD
+#EXTINF:-1 tvg-name="4K: CANAL+ LDC ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3173.jpg?75309" group-title="国际体育",CANAL+ LDC UHD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484474
-#EXTINF:-1 tvg-name="4K: SKY SPORT BUNDESLIGA ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6417.jpg?40776" group-title="体育频道",SKY SPORT BUNDESLIGA UHD
+#EXTINF:-1 tvg-name="4K: SKY SPORT BUNDESLIGA ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6417.jpg?40776" group-title="国际体育",SKY SPORT BUNDESLIGA UHD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/486169
-#EXTINF:-1 tvg-name="4K: SKY SPORT ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6421.jpg?90126" group-title="体育频道",SKY SPORT UHD
+#EXTINF:-1 tvg-name="4K: SKY SPORT ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6421.jpg?90126" group-title="国际体育",SKY SPORT UHD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/486168
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="体育频道",Sky Sports Football
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="体育频道",Sky Sports Football HD
-http://likea8bitboss.xyz:80/Amy1234/6350412987/761346
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="体育频道",Sky Sports Premier League
-http://likea8bitboss.xyz:80/Amy1234/6350412987/761351
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="体育频道",Sky Sports F1
-http://likea8bitboss.xyz:80/Amy1234/6350412987/761345
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="体育频道",Sky Sports News
-http://likea8bitboss.xyz:80/Amy1234/6350412987/761350
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SKYSPORT.png" group-title="体育频道",Sky Sports Main Event
-http://likea8bitboss.xyz:80/Amy1234/6350412987/761348
-#EXTINF:-1 tvg-name=“ESPN” tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="体育频道",ESPN
-http://likea8bitboss.xyz:80/Amy1234/6350412987/5930
-#EXTINF:-1 tvg-name=“ESPN2” tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="体育频道",ESPN2
-http://likea8bitboss.xyz:80/Amy1234/6350412987/5931
-#EXTINF:-1 tvg-name=“ESPN3” tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="体育频道",ESPN3
-http://likea8bitboss.xyz:80/Amy1234/6350412987/742621
-#EXTINF:-1 tvg-name=“ESPNU” tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="体育频道",ESPN U
-http://likea8bitboss.xyz:80/Amy1234/6350412987/5934
-#EXTINF:-1 tvg-name=“ESPND” tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="体育频道",ESPN DEPORTES
-http://likea8bitboss.xyz:80/Amy1234/6350412987/5935
-#EXTINF:-1 tvg-name=“ESPNNEWS” tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="体育频道",ESPN NEWS
-http://likea8bitboss.xyz:80/Amy1234/6350412987/5937
-#EXTINF:-1 tvg-name=“ESPNNETWORK” tvg-logo="https://epg.112114.xyz/logo/ESPN.png" group-title="体育频道",ESPN SEC NETWORK
-http://likea8bitboss.xyz:80/Amy1234/6350412987/743074
-#EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="体育频道",EUROSPORT1
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
-#EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="体育频道",EUROSPORT2
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
-#EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="体育频道",EUROSPORT1 HD
-http://likea8bitboss.xyz:80/Amy1234/6350412987/761335
-#EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="体育频道",EUROSPORT2 HD
-http://likea8bitboss.xyz:80/Amy1234/6350412987/761334
-#EXTINF:-1 tvg-id="FOXSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="体育频道",FOX Sport
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="体育频道",FOX SPORTS1
-http://likea8bitboss.xyz:80/Amy1234/6350412987/743847
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="体育频道",FOX SPORTS2
-http://likea8bitboss.xyz:80/Amy1234/6350412987/743848
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="体育频道",FOX SOCCER PLUS
-http://likea8bitboss.xyz:80/Amy1234/6350412987/743846
-#EXTINF:-1 tvg-id="11144" tvg-name="BeIN Sports 1" tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524223919778843_75.png" group-title="体育频道",BeIN Sports1
-https://epg.pw/stream/f075247115f9fd5c28e21226ead8b2e4e92b3ac45f34d146f2c30bf3eee8db96.m3u8
-#EXTINF:-1 tvg-id="4146" tvg-name="BeIN Sports 2" tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524224225388422_19.png" group-title="体育频道",BeIN Sports2
-https://epg.pw/stream/073409ccfe1baca569fa72db270633db48476e456e007c7ad4d1cafca102c9f5.m3u8
-#EXTINF:-1 tvg-id="3118" tvg-name="BeIN Sports 3" tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524224541817352_82.png" group-title="体育频道",BeIN Sports3
-https://epg.pw/stream/b950b582e929cdf2f012c4f96d8822c3fc31db5f94f14ce3de186a21cc22efce.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524223919778843_75.png" group-title="体育频道",BeIN Sports HD
-http://likea8bitboss.xyz:80/Amy1234/6350412987/743826
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/05/24/large/20230524223919778843_75.png" group-title="体育频道",BeIN Sports Xtra
-http://likea8bitboss.xyz:80/Amy1234/6350412987/743833
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NBA.png" group-title="体育频道",NBA TV
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK: SKY SPORTS NEWS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12268.jpg?36647" group-title="国际体育",SKY SPORTS NEWS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/588037
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SKYGO: SKY SPORTS MAIN EVENT 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12232.jpg?45590" group-title="国际体育",SKY SPORTS MAIN EVENT
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494228
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="SKYGO: SKY SPORTS PREMIER LEAGUE 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12261.png?82015" group-title="国际体育",SKY SPORTS PREMIER LEAGUE
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494226
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKYGO: SKY SPORTS FOOTBALL 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11978.png?36330" group-title="国际体育",SKY SPORTS FOOTBALL
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494224
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="SKYGO: SKY SPORTS MIX 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12262.jpg?72914" group-title="国际体育",SKY SPORTS MIX
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494222
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="SKYGO: SKY SPORTS ARENA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12258.png?37205" group-title="国际体育",SKY SPORTS ARENA
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494220
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="SKYGO: SKY SPORTS RACING 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12265.jpg?92502" group-title="国际体育",SKY SPORTS RACING
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494217
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="SKYGO: SKY SPORTS GOLF 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12243.jpg?43300" group-title="国际体育",SKY SPORTS GOLF
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494215
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SKYGO: SKY SPORTS F1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11977.jpg?3522" group-title="国际体育",SKY SPORTS F1
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494213
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="SKYGO: SKY SPORTS CRICKET 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11981.jpg?60061" group-title="国际体育",SKY SPORTS CRICKET
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494211
+#EXTINF:-1 tvg-name="SKYGO: SKY SPORTS NFL 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6425.jpg?37550" group-title="国际体育",SKY SPORTS NFL
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494210
+#EXTINF:-1 tvg-id="PremierSports1.ph" tvg-name="SKYGO: PREMIER SPORTS 1 4K 50 FPS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12272.jpg?46362" group-title="国际体育",PREMIER SPORTS 1
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494209
+#EXTINF:-1 tvg-id="PremierSports2.ph" tvg-name="SKYGO: PREMIER SPORTS 2 4K 50 FPS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12273.jpg?6702" group-title="国际体育",PREMIER SPORTS 2
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494207
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="SKYGO: EUROSPORT 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/615.jpg?37956" group-title="国际体育",EUROSPORT 1
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494199
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="SKYGO: EUROSPORT 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1423.png?55167" group-title="国际体育",EUROSPORT 2
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494198
+#EXTINF:-1 tvg-name="UK: TNT SPORT ULTIMATE ᵁᴴᴰ 2160P (PPV ONLY)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1070.png?39337" group-title="国际体育",TNT SPORT ULTIMATE
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/632426
+#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="UK: TNT SPORTS 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1070.png?26350" group-title="国际体育",TNT SPORTS 1
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/588012
+#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="UK: TNT SPORTS 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6400.jpg?56165" group-title="国际体育",TNT SPORTS 2
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/588011
+#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="UK: TNT SPORTS 3 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6123.png?60852" group-title="国际体育",TNT SPORTS 3
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/588010
+#EXTINF:-1 tvg-id="TNTSport4.uk" tvg-name="UK: TNT SPORTS 4 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6398.png?48832" group-title="国际体育",TNT SPORTS 4
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/588009
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="US: ESPN HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8258.jpg?ver=35784" group-title="国际体育",ESPN HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325020
+#EXTINF:-1 tvg-name="US: ESPN 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8263.jpg?37574" group-title="国际体育",ESPN 2 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325021
+#EXTINF:-1 tvg-name="US: ESPN 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8258.jpg?21514" group-title="国际体育",ESPN 3 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/434360
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="US: ESPN U" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8258.jpg?ver=35784" group-title="国际体育",ESPN U
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325035
+#EXTINF:-1 tvg-name="US: ESPN CLASSICS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9736.png?74667" group-title="国际体育",ESPN CLASSICS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325050
+#EXTINF:-1 tvg-name="US: ESPN USA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8258.jpg?7255" group-title="国际体育",ESPN USA HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/437219
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="US: ESPN NEWS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8260.png?68747" group-title="国际体育",ESPN NEWS HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325019
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US: BEIN SPORTS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/565.png?36581" group-title="国际体育",BEIN SPORTS HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325025
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="US: BEIN SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/532.png?36369" group-title="国际体育",BEIN SPORTS 2 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325031
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="US: BEIN SPORTS 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/540.png?31425" group-title="国际体育",BEIN SPORTS 4 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325030
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="US: BEIN SPORTS 5 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/542.png?78938" group-title="国际体育",BEIN SPORTS 5 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325029
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="US: BEIN SPORTS 6 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/536.png?19345" group-title="国际体育",BEIN SPORTS 6 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325028
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="US: BEIN SPORTS 7 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/537.png?72164" group-title="国际体育",BEIN SPORTS 7 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325027
+#EXTINF:-1 tvg-name="US: BEIN SPORTS 8 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/543.png?84818" group-title="国际体育",BEIN SPORTS 8 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325026
+#EXTINF:-1 tvg-name="US: ELEVEN SPORTS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11211.png?ver=11571" group-title="国际体育",ELEVEN SPORTS HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325022
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US: FOX SPORTS 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/750.jpg?ver=56209" group-title="国际体育",FOX SPORTS 1 UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/429590
+#EXTINF:-1 tvg-name="US: FOX SPORTS 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/750.jpg?ver=56209" group-title="国际体育",US: FOX SPORTS 2 UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/429589
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US: FOX SPORTS 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/750.jpg?ver=56209" group-title="国际体育",FOX SPORTS 1 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/429588
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US: FOX SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/750.jpg?ver=56209" group-title="国际体育",FOX SPORTS 2 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/429587
+tp://icon-tmdb.me/stalker_portal/misc/logos/320/750.jpg?ver=56209" group-title="国际体育",FOX SPORTS PRIME TICKET HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/429574
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="US: FOX SOCCER PLUS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8249.jpg?77346" group-title="国际体育",FOX SOCCER PLUS HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325018
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="US: FUBO SPORTS 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7646.png?98529" group-title="国际体育",FUBO SPORTS 1 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325090
+#EXTINF:-1 tvg-name="US: FUBO SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7646.png?98529" group-title="国际体育",FUBO SPORTS 2 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325089
+#EXTINF:-1 tvg-name="US: FUBO SPORTS 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/120/7646.png?98529" group-title="国际体育",FUBO SPORTS 3 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325088
+#EXTINF:-1 tvg-name="US: FUBO SPORTS 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7646.png?98529" group-title="国际体育",FUBO SPORTS 4 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325087
+#EXTINF:-1 tvg-name="US: FUBO SPORTS 5 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7646.png?98529" group-title="国际体育",FUBO SPORTS 5 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325086
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-name="US: FUBO SPORTS NETWORK HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7646.png?59755" group-title="国际体育",FUBO SPORTS NETWORK HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325046
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US: CBS SPORTS NETWORK HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8282.jpg?46491" group-title="国际体育",CBS SPORTS NETWORK HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325023
+#EXTINF:-1 tvg-name="NBA: NBA TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="国际体育",NBA TV HD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/607602
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/WWENETWORK.png" group-title="体育频道",WWE NETWORK
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659253
-#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育频道",纬来体育
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="US: TENNIS CHANNEL" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12430.jpg?ver=69335" group-title="国际体育",TENNIS CHANNEL
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325092
+#EXTINF:-1 tvg-name="US: RED BULL TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12074.jpg?46020" group-title="国际体育",RED BULL TV HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325921
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="US: MLB NETWORK" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8211.png?85503" group-title="国际体育",MLB NETWORK HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325002
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US: NFL NETWORK HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8191.jpg?3819" group-title="国际体育",NFL NETWORK HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/395713
+#EXTINF:-1 tvg-name="US: SEC NETWORK HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8132.jpg?18046" group-title="国际体育",SEC NETWORK HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/549252
+#EXTINF:-1 tvg-name="US: FIGHT NETWORK HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3942.png?2711" group-title="国际体育",FIGHT NETWORK HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325048
+#EXTINF:-1 tvg-name="US: UFC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13445.png?15243" group-title="国际体育",UFC HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325059
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="US: WWE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8088.jpg?91127" group-title="国际体育",WWE HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324992
+#EXTINF:-1 tvg-name="SPORTS: HK NOW PREMIER SPORTS 1 HD" tag-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="亚洲体育",HK NOW PREMIER SPORTS 1 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444700
+#EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="亚洲体育: HK NOW SPORTS 2 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444706
+#EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="亚洲体育",HK NOW SPORTS 3 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444705
+#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 1 HD [SP]" tvg-logo="http://logo.protv.cc/picons/logos/supersport1.png" group-title="亚洲体育",ASTRO SUPERSPORTS 1 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659305
+#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 2 HD [SP]" tvg-logo="http://logo.protv.cc/picons/logos/supersport2.png" group-title="亚洲体育",ASTRO SUPERSPORTS 2 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659308
+#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 3 HD [SP]" tvg-logo="http://logo.protv.cc/picons/logos/supersport3.png" group-title="亚洲体育",ASTRO SUPERSPORTS 3 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659307
+#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 4 HD [SP]" tvg-logo="http://logo.protv.cc/picons/logos/supersport4.png" group-title="亚洲体育",ASTRO SUPERSPORTS 4 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659306
+#EXTINF:-1 tvg-name="SPORTS: HUB SPORTS 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11571.jpg?94789" group-title="亚洲体育",HUB SPORTS 1 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444699
+#EXTINF:-1 tvg-name="SPORTS: HUB SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11571.jpg?94789" group-title="亚洲体育",HUB SPORTS 2 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444698
+#EXTINF:-1 tvg-name="SPORTS: HUB SPORTS 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11571.jpg?94789" group-title="亚洲体育",HUB SPORTS 3 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444697
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="亚洲体育",纬来体育
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=videoland-sport
-#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="体育频道",纬来体育HD
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="亚洲体育",纬来体育HD
 https://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1 tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="体育频道",爱尔达体育1
+#EXTINF:-1 tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="亚洲体育",爱尔达体育1
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=elta-sport1
-#EXTINF:-1 tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="体育频道",爱尔达体育2
+#EXTINF:-1 tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="亚洲体育",爱尔达体育2
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=elta-sport2
-#EXTINF:-1 tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="体育频道",爱尔达体育3
+#EXTINF:-1 tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="亚洲体育",爱尔达体育3
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=elta-sport3
-#EXTINF:-1 tvg-name="ELEVEN体育一台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS1.png" group-title="体育频道",ELEVEN体育1
+#EXTINF:-1 tvg-name="ELEVEN体育一台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS1.png" group-title="亚洲体育",ELEVEN体育1
 http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
-#EXTINF:-1 tvg-name="ELEVEN体育二台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS2.png" group-title="体育频道",ELEVEN体育2
+#EXTINF:-1 tvg-name="ELEVEN体育二台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS2.png" group-title="亚洲体育",ELEVEN体育2
 https://epg.pw/stream/5d72f17fbafcb20f44d1e2a68d514058df12e0e56686b8f5d98bf78cf897d046.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net.png" tvg-id="6174" tvg-name="博斯运动一台" group-title="体育频道",博斯运动1台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net.png" tvg-id="6174" tvg-name="博斯运动一台" group-title="亚洲体育",博斯运动1台
 http://198.16.100.90:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" tvg-id="6174" tvg-name="博斯运动二台" group-title="体育频道",博斯运动2台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" tvg-id="6174" tvg-name="博斯运动二台" group-title="亚洲体育",博斯运动2台
 http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" tvg-id="6175" tvg-name="博斯网球台" group-title="体育频道",博斯网球台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" tvg-id="6175" tvg-name="博斯网球台" group-title="亚洲体育",博斯网球台
 http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" tvg-id="6179" tvg-name="博斯魅力网" group-title="体育频道",博斯魅力
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" tvg-id="6179" tvg-name="博斯魅力网" group-title="亚洲体育",博斯魅力
 http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png" tvg-id="6177" tvg-name="博斯高球1台" group-title="体育频道",博斯高球1台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png" tvg-id="6177" tvg-name="博斯高球1台" group-title="亚洲体育",博斯高球1台
 http://50.7.238.114:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" tvg-id="6178" tvg-name="博斯高球2台" group-title="体育频道",博斯高球2台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" tvg-id="6178" tvg-name="博斯高球2台" group-title="亚洲体育",博斯高球2台
 http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
-#EXTINF:-1 tvg-id="10761" tvg-name="J SPORTS 1" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165726980841_51.jpg" group-title="体育频道",J Sprots1
+#EXTINF:-1 tvg-id="10761" tvg-name="J SPORTS 1" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165726980841_51.jpg" group-title="亚洲体育",J Sprots1
 https://epg.pw/stream/c02d25b31667e5e5e63261258612e3818688ef65926d25dabc9f56f4e11e2b3b.m3u8
-#EXTINF:-1 tvg-id="10768" tvg-name="J SPORTS 2" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162826971601_87.jpg" group-title="体育频道",J Sprots2
+#EXTINF:-1 tvg-id="10768" tvg-name="J SPORTS 2" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162826971601_87.jpg" group-title="亚洲体育",J Sprots2
 https://epg.pw/stream/6e98b01b223383c282b8afd75a1ecbd7fca2b6ec1a1b6263762304d8571f0f90.m3u8
-#EXTINF:-1 tvg-id="10822" tvg-name="j sports 3" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162738908092_15.jpg" group-title="体育频道",J Sprots3
+#EXTINF:-1 tvg-id="10822" tvg-name="j sports 3" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162738908092_15.jpg" group-title="亚洲体育",J Sprots3
 https://epg.pw/stream/6ac26d2e889a4dfe0b5f4a6807b556e21dbcb2deef764c4835a67de96253a617.m3u8
-#EXTINF:-1 tvg-id="10829" tvg-name="J SPORTS 4" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162616728241_88.jpg" group-title="体育频道",J Sprots4
+#EXTINF:-1 tvg-id="10829" tvg-name="J SPORTS 4" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162616728241_88.jpg" group-title="亚洲体育",J Sprots4
 https://epg.pw/stream/3692c40f884349c5fbd21b64fa3bae93d9c12e94704637704360dcf809274ed3.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/National Geographic.png" group-title="人文频道",国家地理
-https://ktpremium.com:443/MohdRahizan/3107296/870687
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NatGeoWild.png" group-title="人文频道",国家地理野生
-http://likea8bitboss.xyz:80/Amy1234/6350412987/362
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="人文频道",探索发现
-https://ktpremium.com:443/MohdRahizan/3107296/870683
-#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="人文频道",探索发现HD
-http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" group-title="人文频道",探索发现英文
-http://likea8bitboss.xyz:80/Amy1234/6350412987/317
-#EXTINF:-1 tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="人文频道",探索发现亚洲
-http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
-#EXTINF:-1 tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="人文频道",探索发现亚洲HD
-https://ktpremium.com:443/MohdRahizan/3107296/698399
-#EXTINF:-1 tvg-name="Discovery科学" tvg-logo="https://epg.112114.xyz/logo/DISCOVERYSCIENCE.png" group-title="人文频道",探索科学
-https://ktpremium.com:443/MohdRahizan/3107296/698400
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DISCOVERYSCIENCE.png" group-title="人文频道",探索科学英文
-http://likea8bitboss.xyz:80/Amy1234/6350412987/649291
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="人文频道",BBC Earth
-http://likea8bitboss.xyz:80/Amy1234/6350412987/761361
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="人文频道",BBC Lifesytle
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="人文频道",BBC EARTH
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/441183
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="人文频道",BBC LIFESTYLE
 https://ktpremium.com:443/MohdRahizan/3107296/870684
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HISTORY HD.png" group-title="人文频道",History
-http://likea8bitboss.xyz:80/Amy1234/6350412987/343
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/MTVASIA.png" group-title="人文频道",MTV
-http://likea8bitboss.xyz:80/Amy1234/6350412987/358
-#EXTINF:-1 tvg-name="bbc travel" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9841.png?46830" group-title="人文频道",Travel XP
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484453
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NASA.png" group-title="人文频道",NASA TV
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="US: DISCOVERY HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/617.jpg?7048" group-title="人文频道",DISCOVERY HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325775
+#EXTINF:-1 tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="人文频道",DISCOVERY ASIA
+http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+#EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="US: DISCOVERY FAMILY HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6308.jpg?18025" group-title="人文频道",DISCOVERY FAMILY HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325776
+#EXTINF:-1 tvg-id="DiscoveryLife.us" tvg-name="US: DISCOVERY LIFE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/618.jpg?12232" group-title="人文频道",DISCOVERY LIFE HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/326358
+#EXTINF:-1 tvg-name="US: DISCOVERY SCIENCE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/620.jpg?1168" group-title="人文频道",DISCOVERY SCIENCE HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325774
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="ENGLISH: DISCOVERY TURBO" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/discoveryturbo.png" group-title="人文频道",DISCOVERY TURBO
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/441178
+#EXTINF:-1 tvg-name="ENGLISH: DISCOVERY WORLD HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/discoveryworld.png" group-title="人文频道",DISCOVERY WORLD HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/441177
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="US: HISTORY HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/621.jpg?7885" group-title="人文频道",HISTORY HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325777
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="US: NAT GEO HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6151.png?10667" group-title="人文频道",NAT GEO HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325786
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="US: NAT GEO WILD HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1395.png?40753" group-title="人文频道",NAT GEO WILD HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325785
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="US: MTV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/656.png?11783" group-title="人文频道",MTV HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325793
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="US: MTV 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/656.png?84666" group-title="人文频道",MTV 2 HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325837
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="人文频道",Animal Planet HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325780
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="4K: LOVE NATURE ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6088.jpg?73434" group-title="人文频道",LOVE NATURE UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484468
+#EXTINF:-1 tvg-id="Museum.fr" tvg-name="4K: MUSEUM ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12638.jpg?68681" group-title="人文频道",MUSEUM UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484467
+#EXTINF:-1 tvg-id="NASATV.us" tvg-name="4K: NASA TV ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3821.jpg?60588" group-title="人文频道",NASA TV UHD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484459
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NASA.png" group-title="人文频道",NASA TV2
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="人文频道",DISNEY
-http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=disney
-#EXTINF:-1 tvg-name="Disney" tvg-logo="https://epg.112114.xyz/logo/DISNEY.png" group-title="人文频道",DISNEY HD 
-http://likea8bitboss.xyz:80/Amy1234/6350412987/321
-#EXTINF:-1 tvg-name="DisneyJR" tvg-logo="https://epg.112114.xyz/logo/DISNEYJR.png" group-title="人文频道",DISNEY JR
-http://likea8bitboss.xyz:80/Amy1234/6350412987/322
-#EXTINF:-1 tvg-name="DisneyXD" tvg-logo="https://epg.112114.xyz/logo/DISNEY" group-title="人文频道",DISNEY XD
-#EXTINF:-1 tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="人文频道",小尼克频道
-http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=nick-jr
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="人文频道",尼克儿童频道
-https://epg.pw/stream/3f9e0cbf40dd4828d593f974c80730357e4fdc12f11b239ef6f6542e21e781a4.m3u8
+#EXTINF:-1 tvg-name="4K: TRAVELXP ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/9841.png?46830" group-title="人文频道",TRAVELXP UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484453
+#EXTINF:-1 tvg-id="WorldFashionChannel.ru" tvg-name="4K: FASHION & STYLE ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/5999.jpg?52400" group-title="人文频道",FASHION & STYLE UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484465
+#EXTINF:-1 tvg-id="WorldFashionChannel.ru" tvg-name="4K: FASHION TV ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/5999.jpg?52400" group-title="人文频道",FASHION TV UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484464
 #EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="人文频道",亚洲旅游
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=asia-travel
 #EXTINF:-1 tvg-name="EYE旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="人文频道",EYETV旅游
 http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
-#EXTINF:-1 tvg-name="动物星球" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="人文频道",动物星球
-https://ktpremium.com:443/MohdRahizan/3107296/870689
 #EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="人文频道",动物星球 HD
 http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-#EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="人文频道",Animal Planet
-http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
-#EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="人文频道",Animal Planet HD
-http://likea8bitboss.xyz:80/Amy1234/6350412987/753777
-#EXTINF:-1 tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="人文频道",美食星球
-http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=food-planet
 #EXTINF:-1 tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="人文频道",美食星球HD
 http://198.16.100.90:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+#EXTINF:-1 tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="儿童频道",DISNEY
+http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=disney
+#EXTINF:-1 tvg-name="Disney" tvg-logo="https://epg.112114.xyz/logo/DISNEY.png" group-title="儿童频道",DISNEY HD 
+http://likea8bitboss.xyz:80/Amy1234/6350412987/321
+#EXTINF:-1 tvg-name="DisneyJR" tvg-logo="https://epg.112114.xyz/logo/DISNEYJR.png" group-title="儿童频道",DISNEY JR
+http://likea8bitboss.xyz:80/Amy1234/6350412987/322
+#EXTINF:-1 tvg-name="DisneyXD" tvg-logo="https://epg.112114.xyz/logo/DISNEY" group-title="儿童频道",DISNEY XD
+#EXTINF:-1 tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="儿童频道",小尼克频道
+http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=nick-jr
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="儿童频道",尼克儿童频道
+https://epg.pw/stream/3f9e0cbf40dd4828d593f974c80730357e4fdc12f11b239ef6f6542e21e781a4.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="US: CARTOON NETWORK HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/633.png?51995" group-title="儿童频道",CARTOON NETWORK HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/7236
+#EXTINF:-1 tvg-name="US: DISNEY CHANNEL HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/628.jpg?71294" group-title="儿童频道",DISNEY CHANNEL HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/7258
+#EXTINF:-1 tvg-name="US: DISNEY JR HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6637.png?40423" group-title="儿童频道",DISNEY JR HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/7259
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="US: DISNEY XD HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/759.png?78317" group-title="儿童频道",DISNEY XD HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/7260
+#EXTINF:-1 tvg-name="US: Nick JR HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/624.png?34530" group-title="儿童频道",Nick JR HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/7334
+#EXTINF:-1 tvg-name="US: TEEN NICK" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13346.jpg?68674" group-title="儿童频道",TEEN NICK
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325879
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="US: NICK TOONS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8186.png?31726" group-title="儿童频道",NICK TOONS HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/7335
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="US: NICKELODEON HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/743.png?12640" group-title="儿童频道",NICKELODEON HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/7336
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="US: BOOMERANG HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6163.png?1197" group-title="儿童频道",BOOMERANG HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/7234
+#EXTINF:-1 tvg-name="US: BABY TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/438.jpg?24017" group-title="儿童频道",BABY TV HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324980
+#EXTINF:-1 tvg-id="AdultSwim.us" tvg-name="US: ADULT SWIM HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3837.jpg?8033" group-title="儿童频道",ADULT SWIM HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325915
+#EXTINF:-1 tvg-id="UniversalKids.us" tvg-name="US: UNIVERSAL KIDS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12108.png?54161" group-title="儿童频道",UNIVERSAL KIDS HD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324969
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/24.7.png" group-title="轮播频道",漫威影院
 http://epg.112114.xyz/douyu/6140589
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/24.7.png" group-title="轮播频道",霍格沃茨影片
@@ -1054,7 +1252,7 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/485213
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/485195
 #EXTINF:-1 tvg-name="US: 24/7 HARRY POTTER" tvg-logo="http://logo.protv.cc/picons/logos/24.7.png" group-title="轮播频道",哈利波特
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/485191
-#EXTINF:-1 tvg-name="US: 24/7 SOUTH PARK" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/123.jpg" group-title="轮播频道",南方公园
+#EXTINF:-1 tvg-name="US: 24/7 SOUTH PARK" tvg-logo="http://logo.protv.cc/picons/logos/24.7.png" group-title="轮播频道",南方公园
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/485175
 #EXTINF:-1 tvg-name="US: 24/7 PEPPA PIG" tvg-logo="http://logo.protv.cc/picons/logos/24.7.png" group-title="轮播频道",小猪佩奇
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/485159

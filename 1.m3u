@@ -447,7 +447,7 @@ https://fantomtv.GQ/F66252/9172822/918588
 https://fantomtv.GQ/F66252/9172822/918591
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" tvg-id="7145" tvg-name="民视综艺台" group-title="台湾频道",民视综艺
 https://fantomtv.GQ/F66252/9172822/918590
-#EXTINF:-1 tvg-id="民视旅游" tvg-name="民视旅游" tvg-logo="https://epg.112114.xyz/logo/MSLY.png" group-title="➰️ 4GTV",民视旅游台
+#EXTINF:-1 tvg-id="民视旅游" tvg-name="民视旅游" tvg-logo="https://epg.112114.xyz/logo/MSLY.png" group-title="台湾频道",民视旅游台
 http://www.51romzj.xyz/diyroms/4gzb232.php?id=litv-ftv07
 #EXTINF:-1 tvg-name="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/TAISHI.png" group-title="台湾频道",台视
 https://fantomtv.GQ/F66252/9172822/515021
@@ -706,16 +706,6 @@ https://fantomtv.GQ/F66252/9172822/15410
 https://fantomtv.GQ/F66252/9172822/15412
 #EXTINF:-1 tvg-id="948859" tvg-name="[JP] NHK教育" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-general-tv-jp.png" group-title="日韩频道",NHK教育
 https://fantomtv.GQ/F66252/9172822/948859
-#EXTINF:-1 tvg-name="NTV NEWS 24" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154632979433_35.jpg" group-title="日韩频道",NTV NEWS 24
-https://epg.pw/stream/293259a13176bce43dc1ebe4fa6c1edbf5967ab22130996ea34a151030c4cc32.m3u8
-#EXTINF:-1 tvg-name="WOWOW ライブ" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021025562201_95.png" group-title="日韩频道",WOWOWライブ
-https://epg.pw/stream/eb6ab4fd9224fcef306b61e71e37ebb197bc6c5a80e334ff53f7ee864c2d56ba.m3u8
-#EXTINF:-1 tvg-name="WOWOW プライム" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021027248094_19.png" group-title="日韩频道",WOWOWプライム
-https://epg.pw/stream/0c4b041cc14461ee375860e338092ff394ea852ffe540354b63d2cb38c9e5ca2.m3u8
-#EXTINF:-1 tvg-name="animetv" tvg-logo="https://epg.pw/media/images/channel/2021/09/21/large/20210921173123170712_22.png" group-title="日韩频道",ANIMETV
-https://epg.pw/stream/ccfd14419763f0813d46582fd5d6007a3c1e3501cb2d108e50b5a8ea62791e5e.m3u8
-#EXTINF:-1 tvg-name="aniplus" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506232851310211_58.jpg" group-title="日韩频道",ANIPLUS
-https://epg.pw/stream/41ca91e711a2c5e9994ff6785028af59ab808a7e85f8eeeefd91c60ba0f9e93a.m3u8
 #EXTINF:-1 tvg-name="テレビ朝日" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021021780762_53.png" group-title="日韩频道",テレビ朝日
 https://epg.pw/stream/27e90d1618e586dcdbcede8f32e3c1f3bbaf5de578f4352f9395ce7c4b30a37c.m3u8
 #EXTINF:-1 tvg-name="BS日テレ" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154330300975_32.jpg" group-title="日韩频道",BS日テレ

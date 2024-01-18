@@ -356,6 +356,14 @@ https://fantomtv.GQ/F66252/9172822/910935
 https://fantomtv.GQ/F66252/9172822/945571
 #EXTINF:-1 tvg-id="945572" tvg-name="[HK]粤剧片台" tvg-logo="https://web.three.com.hk/mytvsuper/images/myTV_SUPER_logo.png" group-title="港澳频道",粤剧片台
 https://fantomtv.GQ/F66252/9172822/945572
+#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://epg.112114.xyz/logo/NOWXWT.png" group-title="港澳频道",NOW新闻台
+http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=now-news
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NOWZBT.png" group-title="港澳频道",NOW直播台
+http://www.51romzj.shop:666/xingxing.php?id=now-direct
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NOWBGT.png" group-title="港澳频道",NOW爆谷台
+http://www.51romzj.shop:666/xingxing.php?id=baogu-movies
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NOWXYT.png" group-title="港澳频道",NOW星影台
+http://www.51romzj.shop:666/xingxing.php?id=now-baogu-superstars
 #EXTINF:-1 tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/youxianxinwen.png" group-title="港澳频道",有线新闻台
 http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.112114.xyz/logo/AOYA.png" group-title="港澳频道",澳亚卫视
@@ -368,8 +376,6 @@ http://203.80.165.14/stream/channelid/1998962087?profile=pass
 https://fantomtv.GQ/F66252/9172822/492391
 #EXTINF:-1 tvg-name="HOYTV资讯台" tvg-logo="https://epg.112114.xyz/logo/HOYTV.png" group-title="港澳频道",HOYTV资讯台
 https://fantomtv.GQ/F66252/9172822/492403
-#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://epg.112114.xyz/logo/NOWNEW.png" group-title="港澳频道",NOW新闻台
-http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=now-news
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://epg.112114.xyz/logo/hk/rhk31.png" group-title="港澳频道",RTHK31
 https://fantomtv.GQ/F66252/9172822/492401
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://epg.112114.xyz/logo/hk/rhk32.png" group-title="港澳频道",RTHK32
@@ -438,6 +444,8 @@ https://fantomtv.GQ/F66252/9172822/515019
 https://fantomtv.GQ/F66252/9172822/515206
 #EXTINF:-1 tvg-name="中视经典" tvg-name="中视经典" tvg-logo="https://epg.112114.xyz/logo/ZHONGSHI.png" group-title="台湾频道",中视经典
 http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+#EXTINF:-1 tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://epg.112114.xyz/logo/ZSJCT.png" group-title="台湾频道",中视菁采台
+http://www.51romzj.shop:666/xingxing.php?id=bravo
 #EXTINF:-1 tvg-name="华视" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾频道",华视
 https://fantomtv.GQ/F66252/9172822/515017
 #EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://epg.112114.xyz/logo/huashinew.png" group-title="台湾频道",华视新闻
@@ -464,14 +472,16 @@ https://fantomtv.GQ/F66252/9172822/515021
 https://fantomtv.GQ/F66252/9172822/515200
 #EXTINF:-1 tvg-name="公视" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="台湾频道",公视
 http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
-#EXTINF:-1 tvg-name="公视新闻" tvg-name="公视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="台湾频道",公视新闻
-http://livetv.skycf.eu.org/live.m3u8?c=8
+#EXTINF:-1 tvg-name="公视新闻" tvg-name="公视新闻" tvg-logo="https://epg.112114.xyz/logo/GSXW.png" group-title="台湾频道",公视新闻
+http://www.51romzj.shop:666/ytb123.php?id=gongshixw
 #EXTINF:-1 tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="https://epg.112114.xyz/logo/GSXJ.png" group-title="台湾频道",公视戏剧
 https://fantomtv.GQ/F66252/9172822/515023
 #EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾频道",三立新闻
 https://fantomtv.GQ/F66252/9172822/515185
-#EXTINF:-1 tvg-id="515184" tvg-name="[TW] 三立iNEWS新闻台" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/set_tw_i_news.png" group-title="台湾频道",三立iNEWS
+#EXTINF:-1 tvg-id="515184" tvg-name="[TW] 三立iNEWS新闻台" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/set_tw_i_news.png" group-title="台湾频道",三立INEWS
 https://fantomtv.GQ/F66252/9172822/515184
+#EXTINF:-1 tvg-id="515184" tvg-name="[TW] 三立iNEWS新闻台" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/set_tw_i_news.png" group-title="台湾频道",三立NEWS+
+http://www.51romzj.shop:666/ytb123.php?id=slnews
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" tvg-id="6239" tvg-name="三立综合台" group-title="台湾频道",三立综合
 https://fantomtv.GQ/F66252/9172822/877054
 #EXTINF:-1 tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="台湾频道",三立台湾
@@ -560,6 +570,10 @@ https://fantomtv.GQ/F66252/9172822/912202
 https://fantomtv.GQ/F66252/9172822/918610
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_unlimited.png" tvg-id="6176" tvg-name="博斯无限台" group-title="台湾频道",博斯无限
 https://fantomtv.GQ/F66252/9172822/889396
+#EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://epg.112114.xyz/logo/ZLTYT.png" group-title="台湾频道",智林体育台
+http://www.51romzj.shop:666/xingxing.php?id=zl-sports
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv014_mobile.png" group-title="台湾频道",时尚运动X
+http://www.51romzj.shop:666/xingxing.php?id=ssydx
 #EXTINF:-1 tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台湾频道",壹电视新闻台
 https://fantomtv.GQ/F66252/9172822/903164
 #EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://epg.112114.xyz/logo/JINGNEWS.png" group-title="台湾频道",镜新闻
@@ -600,6 +614,12 @@ https://fantomtv.GQ/F66252/9172822/900866
 https://fantomtv.GQ/F66252/9172822/870561 
 #EXTINF:-1 tvg-name="靖洋戏剧台" tvg-logo="https://epg.112114.xyz/logo/JYXJ.png" group-title="台湾频道",靖洋戏剧
 https://fantomtv.GQ/F66252/9172822/900861
+#EXTINF:-1 tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="https://epg.112114.xyz/logo/CCYJT.png" group-title="台湾频道",采昌影剧台
+http://www.51romzj.shop:666/xingxing.php?id=caichang
+#EXTINF:-1 tvg-id="影迷数位纪实台" tvg-name="影迷数位纪实台" tvg-logo="https://epg.112114.xyz/logo/SWYMJST.png" group-title="台湾频道",影迷数位纪实台
+http://www.51romzj.shop:666/xingxing.php?id=ymswjst
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" tvg-id="6161" tvg-name="韩国娱乐台KMTV" group-title="港澳及国外",韩国娱乐台
+http://www.51romzj.shop:666/xingxing.php?id=kmtv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" tvg-id="708" tvg-name="BabyTV" group-title="台湾频道",BABY TV
 https://fantomtv.GQ/F66252/9172822/694339
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/633.png?51995" tvg-name="CN卡通频道" group-title="台湾频道",CN卡通频道
@@ -610,6 +630,8 @@ https://fantomtv.GQ/F66252/9172822/515120
 http://www.51romzj.xyz/diyroms/4gzb232.php?id=litv-ftv15
 #EXTINF:-1 tvg-id="900863" tvg-name="[TW] ELTV英語學習頻道" tvg-logo="https://store.liveabc.com/img/logo_live.5efa3f21.png" group-title="台湾频道",ELTV英语学习
 https://fantomtv.GQ/F66252/9172822/900863
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LIVEABC.png" group-title="台湾频道",LIVEABC互动英语
+http://www.51romzj.shop:666/xingxing.php?id=liveabc
 #EXTINF:-1 tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="台湾频道",动物星球
 https://fantomtv.GQ/F66252/9172822/870689
 #EXTINF:-1 tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="台湾频道",美食星球
@@ -626,12 +648,16 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325774
 https://fantomtv.GQ/F66252/9172822/870687
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/crimeinvest.png" group-title="台湾频道",CI罪案侦缉
 http://50.7.238.114:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/davinci.png" tvg-id="6186" tvg-name="达文西频道" group-title="台湾频道",达文西频道
+http://www.51romzj.shop:666/xingxing.php?id=da-vinci
 #EXTINF:-1 tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="台湾频道",大爱一台
 https://fantomtv.GQ/F66252/9172822/515172
 #EXTINF:-1 tvg-name="大爱二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="台湾频道",大爱二台
 https://fantomtv.GQ/F66252/9172822/515173
 #EXTINF:-1 tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="台湾频道",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://epg.112114.xyz/logo/KJDST.png" group-title="台湾频道",客家电视台
+http://www.51romzj.shop:666/xingxing.php?id=hakkatv
 #EXTINF:-1 tvg-id="番薯台" tvg-name="番薯台" tvg-logo="https://epg.112114.xyz/logo/FANSHUTAI.png" group-title="台湾频道",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="台湾频道",人间卫视
@@ -1188,8 +1214,8 @@ http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=cts-news
 https://fantomtv.GQ/F66252/9172822/515191
 #EXTINF:-1 tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/TAISHINEW.png" group-title="亚洲新闻",台视新闻
 https://fantomtv.GQ/F66252/9172822/515200
-#EXTINF:-1 tvg-name="公视新闻" tvg-name="公视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="亚洲新闻",公视新闻
-http://livetv.skycf.eu.org/live.m3u8?c=8
+#EXTINF:-1 tvg-name="公视新闻" tvg-name="公视新闻" tvg-logo="https://epg.112114.xyz/logo/GSXW.png" group-title="亚洲新闻",公视新闻
+http://www.51romzj.shop:666/ytb123.php?id=gongshixw
 #EXTINF:-1 tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="亚洲新闻",三立新闻
 https://fantomtv.GQ/F66252/9172822/515185
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/zhongtiannew.png" group-title="亚洲新闻",中天新闻
@@ -1518,7 +1544,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 #EXTINF:-1 tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="亚洲体育",纬来体育
 https://fantomtv.GQ/F66252/9172822/877061
 #EXTINF:-1 tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="亚洲体育",爱尔达体育一台
-https://fantomtv.GQ/F66252/9172822/879250
+http://www.51romzj.xyz/diyroms/dll/ysp/yes.php?id=ELTA1
 #EXTINF:-1 tvg-name="爱尔达体育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="亚洲体育",爱尔达体育二台
 https://fantomtv.GQ/F66252/9172822/879251
 #EXTINF:-1 tvg-name="爱尔达体育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="亚洲体育",爱尔达体育三台
@@ -1541,6 +1567,8 @@ https://fantomtv.GQ/F66252/9172822/912202
 https://fantomtv.GQ/F66252/9172822/918610
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_unlimited.png" tvg-id="6176" tvg-name="博斯无限台" group-title="亚洲体育",博斯无限
 https://fantomtv.GQ/F66252/9172822/889396
+#EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://epg.112114.xyz/logo/ZLTYT.png" group-title="亚洲体育",智林体育台
+http://www.51romzj.shop:666/xingxing.php?id=zl-sports
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="人文频道",BBC EARTH
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/441183
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="人文频道",BBC LIFESTYLE

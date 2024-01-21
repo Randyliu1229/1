@@ -352,8 +352,6 @@ https://fake-stream.livednow.com/tvb/A?token=9cab24677720fe47e134e07a4947882c&us
 https://fantomtv.GQ/F66252/9172822/918425
 #EXTINF:-1 tvg-id="无线经典" tvg-name="无线经典" tvg-logo="https://epg.112114.xyz/logo/TVBCLASSIC.png" group-title="港澳频道",无线经典台
 https://fantomtv.GQ/F66252/9172822/945569
-#EXTINF:-1 tvg-id="TVBClassic" tvg-name="TVB千禧經典台" tvg-logo="http://content.stream-link.org/tv_logo/tvb_classic.png" group-title="港澳频道",千禧经典台
-https://sc2024.stream-link.org/live/46232121132.php?id=h98zr
 #EXTINF:-1 tvg-id="945568" tvg-name="[HK] SUPER FREE" tvg-logo="https://web.three.com.hk/mytvsuper/images/myTV_SUPER_logo.png" group-title="港澳频道",SUPER FREE
 https://fantomtv.GQ/F66252/9172822/945568
 #EXTINF:-1 tvg-id="945570" tvg-name="[HK] 亚洲剧台" tvg-logo="https://web.three.com.hk/mytvsuper/images/myTV_SUPER_logo.png" group-title="港澳频道",亚洲剧台
@@ -365,7 +363,7 @@ https://fantomtv.GQ/F66252/9172822/945571
 #EXTINF:-1 tvg-id="945572" tvg-name="[HK]粤剧片台" tvg-logo="https://web.three.com.hk/mytvsuper/images/myTV_SUPER_logo.png" group-title="港澳频道",粤剧片台
 https://fantomtv.GQ/F66252/9172822/945572
 #EXTINF:-1 tvg-id="nowNews" tvg-name="Now新聞台" tvg-logo="http://content.stream-link.org/tv_logo/now_332.png" group-title="港澳频道",NOW新闻台
-https://sc2024.stream-link.org/live/46232121132.php?id=h48pu
+http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=now-news
 #EXTINF:-1 tvg-id="nowBusinessNewsChannel" tvg-name="Now財經台" tvg-logo="http://content.stream-link.org/tv_logo/now_333.png" group-title="港澳频道",NOW财经台
 https://sc2024.stream-link.org/live/46232121132.php?id=h04zu
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NOWZBT.png" group-title="港澳频道",NOW直播台
@@ -374,15 +372,13 @@ http://www.51romzj.shop:666/xingxing.php?id=now-direct
 http://www.51romzj.shop:666/xingxing.php?id=baogu-movies
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NOWXYT.png" group-title="港澳频道",NOW星影台
 http://www.51romzj.shop:666/xingxing.php?id=now-baogu-superstars
-#EXTINF:-1 tvg-name="SPORTS: HK NOW PREMIER SPORTS 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="亚洲体育",NOW SPORTS 1
+#EXTINF:-1 tvg-name="SPORTS: HK NOW PREMIER SPORTS 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="港澳频道",NOW SPORTS 1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444700
-#EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="亚洲体育",NOW SPORTS 2
+#EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="港澳频道",NOW SPORTS 2
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444706
-#EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="亚洲体育",NOW SPORTS 3
+#EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="港澳频道",NOW SPORTS 3
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444705
-#EXTINF:-1 tvg-id="nowSportsPrime" tvg-name="Now精選體育" tvg-logo="http://content.stream-link.org/tv_logo/now_630.png" group-title="亚洲体育",NOW SPORTS PRIME
-https://sc2024.stream-link.org/live/46232121132.php?id=s99ta
-#EXTINF:-1 tvg-name="4K: NOW SPORTS ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?ver=9156" group-title="亚洲体育",NOW SPORTS UHD
+#EXTINF:-1 tvg-name="4K: NOW SPORTS ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?ver=9156" group-title="港澳频道",NOW SPORTS UHD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484471
 #EXTINF:-1 tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/youxianxinwen.png" group-title="港澳频道",有线新闻台
 http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -597,7 +593,7 @@ https://fantomtv.GQ/F66252/9172822/910889
 #EXTINF:-1 tvg-name="ELEVEN体育二台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS2.png" group-title="台湾频道",ELEVEN体育二台
 https://fantomtv.GQ/F66252/9172822/910890
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" tvg-id="6174" tvg-name="博斯运动一台" group-title="台湾频道",博斯运动1台
-https://sc2024.stream-link.org/live/46232121132.php?id=s20ea
+https://fake-stream.livednow.com/4gtv/50?token=611c08985e6eb335bc0132ec502d70e8&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" tvg-id="6174" tvg-name="博斯运动二台" group-title="台湾频道",博斯运动2台
 https://fantomtv.GQ/F66252/9172822/515137
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png" tvg-id="6177" tvg-name="博斯高球1台" group-title="台湾频道",博斯高球1台
@@ -655,15 +651,15 @@ http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHXJ.png" tvg-id="7127" tvg-name="龙华戏剧" group-title="台湾频道",龙华戏剧
 https://fantomtv.GQ/F66252/9172822/515083
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHJD.png" tvg-id="7132" tvg-name="龙华经典" group-title="台湾频道",龙华经典
-https://sc2024.stream-link.org/live/46232121132.php?id=t29mc
+https://fake-stream.livednow.com/ofiii/litv-longturn21?token=097065d67cee38189c035b68a102ed12&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHOX.png" tvg-id="7132" tvg-name="龙华偶像" group-title="台湾频道",龙华偶像
 https://fantomtv.GQ/F66252/9172822/515091
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHDY.png" tvg-id="7203" tvg-name="龙华电影" group-title="台湾频道",龙华电影
-https://sc2024.stream-link.org/live/46232121132.php?id=t36vz
+https://fake-stream.livednow.com/4gtv/litv-longturn03?token=5fc1547ad0885b7487465cfc93c408ac&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LHYP.png" tvg-id="7132" tvg-name="龙华洋片" group-title="台湾频道",龙华洋片
 https://fantomtv.GQ/F66252/9172822/515085
 #EXTINF:-1 tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="https://epg.112114.xyz/logo/LHRH.png" group-title="台湾频道",龙华日韩
-https://sc2024.stream-link.org/live/46232121132.php?id=t26pp
+https://fake-stream.livednow.com/4gtv/litv-longturn11?token=74540094d802181407acb91aec2b7864&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
 #EXTINF:-1 tvg-name="靖洋戏剧台" tvg-logo="https://epg.112114.xyz/logo/JYXJ.png" group-title="台湾频道",靖洋戏剧
 https://fantomtv.GQ/F66252/9172822/900861
 #EXTINF:-1 tvg-id="10897" tvg-name="靖洋卡通 Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="台湾频道",靖洋卡通
@@ -836,12 +832,12 @@ https://fake-stream.livednow.com/4gtv/244?token=d3a992fd734e63a35e470307d84f942e
 https://fake-stream.livednow.com/4gtv/278?token=1aa0cdddd38dbf17af17e2d108c568f6&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
 #EXTINF:-1 tvg-id="-1" tvg-name="花系列 經典劇場" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live016_mobile.png" group-title="台湾频道",花系列 经典剧场
 https://fake-stream.livednow.com/4gtv/279?token=82d255c14150dc2ea467d9f140c95c6a&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
-#EXTINF:-1 tvg-id="9999" tvg-name="天才衝衝衝" tvg-logo="http://content.stream-link.org/tv_logo/cts_entertainment.png" group-title="台湾频道",天才衝衝衝
-https://sc2024.stream-link.org/live/46232121132.php?id=t51ed
 #EXTINF:-1 tvg-id="-1" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="台湾频道",猪哥亮歌厅秀
 https://fake-stream.livednow.com/4gtv/113?token=40c3b2f84b5e53e764ac65ff7e9fc231&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
 #EXTINF:-1 tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="日韩频道",ARIRANG
 https://fantomtv.GQ/F66252/9172822/877514
+#EXTINF:-1 tvg-name="KBSWORLD" tvg-logo="https://epg.112114.xyz/logo/KBS World.png" group-title="日韩频道",KBS WORLD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/440528
 #EXTINF:-1 tvg-id="KBSNewsD.kr" tvg-logo="https://i.imgur.com/4qKgvHN.png" group-title="日韩频道",KBS NEWS
 https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
 #EXTINF:-1 tvg-id="HLKADTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="日韩频道",KBS1
@@ -870,18 +866,12 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="877531" tvg-name="[KR] EBS Plus 2" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="日韩频道",EBS PLUS 2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="GEM" tvg-name="Sony GEM" tvg-logo="http://content.stream-link.org/tv_logo/gem.png" group-title="日韩频道",GEM
-https://sc2024.stream-link.org/live/46232121132.php?id=e47ag
-#EXTINF:-1 tvg-id="KBCChannel" tvg-name="KBC" tvg-logo="http://content.stream-link.org/tv_logo/kr_kbc.png" group-title="日韩频道",KBC
-https://sc2024.stream-link.org/live/46232121132.php?id=e48fw
 #EXTINF:-1 tvg-id="901263" tvg-name="[KR]JTBC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtbc_kr.png" group-title="日韩频道",JTBC
 https://fantomtv.GQ/F66252/9172822/901263
 #EXTINF:-1 tvg-id="900985" tvg-name="[KR] MBC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mbc-kr.png" group-title="日韩频道",MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCEvery1.kr" tvg-logo="https://i.imgur.com/cnawqOu.png" group-title="日韩频道",MBC EVERY 1
 https://ythls.armelin.one/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
-#EXTINF:-1 tvg-id="PLAYY" tvg-name="PLAYY電影" tvg-logo="http://content.stream-link.org/tv_logo/playy_1.png" group-title="日韩频道",PLAYY电影台
-https://sc2024.stream-link.org/live/46232121132.php?id=e59cs
 #EXTINF:-1 tvg-name="SBS" tvg-logo="https://epg.pw/media/images/channel/2017/02/26/large/20170226224927742122_12.jpg" group-title="日韩频道",SBS
 https://fantomtv.GQ/F66252/9172822/901232
 #EXTINF:-1 tvg-id="SBSNews.kr" tvg-logo="https://i.imgur.com/VY6uEE9.png" group-title="日韩频道",SBS NEWS
@@ -892,7 +882,7 @@ http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 tvg-id="HLDFDTV.kr" tvg-logo="https://i.imgur.com/grr8BlV.png" group-title="日韩频道",SBS TJB
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 tvg-id="877554" tvg-name="[KR] YTN Korean" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="日韩频道",YTN
+#EXTINF:-1 tvg-id="877554" tvg-name="[KR] YTN Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="日韩频道",YTN
 https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 #EXTINF:-1 tvg-id="YTNDMB.kr" tvg-logo="https://i.imgur.com/50VQSBk.png" group-title="日韩频道",YTN DMB
 https://ythls.armelin.one/channel/UC38IlqMxZ_YtFg3eSGmmJnQ.m3u8
@@ -900,18 +890,16 @@ https://ythls.armelin.one/channel/UC38IlqMxZ_YtFg3eSGmmJnQ.m3u8
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/KCTV.png" group-title="日韩频道",KCTV朝鲜中央台
 https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 tvg-id="YonhapNewsTV" tvg-name="韓聯社新聞" tvg-logo="http://content.stream-link.org/tv_logo/kr_yonhap_news_tv.jpg" group-title="日韩频道",韩联社新闻
-https://sc2024.stream-link.org/live/46232121132.php?id=e15ah
-#EXTINF:-1 tvg-name="NHK BS1" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513155023988525_66.jpg" group-title="日韩频道",NHK BS1
-https://fantomtv.GQ/F66252/9172822/895603
+#EXTINF:-1 tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="日韩频道",NHK WORLD JAPAN
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/628432
 #EXTINF:-1 tvg-id="15410" tvg-name="[JP] NHK 华语视界" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0a/NHK_Huayu_Shijie_Logo.jpg/512px-NHK_Huayu_Shijie_Logo.jpg" group-title="日韩频道",NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-name="NHK BS1" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513155023988525_66.jpg" group-title="日韩频道",NHK BS1
+https://fantomtv.GQ/F66252/9172822/895603
 #EXTINF:-1 tvg-id="15412" tvg-name="[JP] NHK総合" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-general-tv-jp.png" group-title="日韩频道",NHK総合
 https://fantomtv.GQ/F66252/9172822/15412
 #EXTINF:-1 tvg-id="948859" tvg-name="[JP] NHK教育" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-general-tv-jp.png" group-title="日韩频道",NHK教育
 https://fantomtv.GQ/F66252/9172822/948859
-#EXTINF:-1 tvg-id="9999" tvg-name="ANN News" tvg-logo="http://content.stream-link.org/tv_logo/ann_news.png" group-title="日本频道",ANN NEWS
-https://sc2024.stream-link.org/live/46232121132.php?id=e72cc
 #EXTINF:-1 tvg-name="テレビ朝日" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021021780762_53.png" group-title="日韩频道",テレビ朝日
 https://fantomtv.GQ/F66252/9172822/948848
 #EXTINF:-1 tvg-name="BS日テレ" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154330300975_32.jpg" group-title="日韩频道",BS日テレ
@@ -992,11 +980,9 @@ https://fantomtv.GQ/F66252/9172822/948839
 https://fantomtv.GQ/F66252/9172822/948840
 #EXTINF:-1 tvg-id="948841" tvg-name="[JP] J Sports 4" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-132-400x400.png" group-title="日韩频道",J SPORTS 4
 https://fantomtv.GQ/F66252/9172822/948841
-#EXTINF:-1 tvg-id="9999" tvg-name="Japan weather news" tvg-logo="http://content.stream-link.org/tv_logo/jp_wni.png" group-title="日韩频道",JAPAN WEATHER NEWS
-https://sc2024.stream-link.org/live/46232121132.php?id=e06kd
 #EXTINF:-1 tvg-id="895610" tvg-name="[JP] Golf Network" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png" group-title="日韩频道",GOLF NETWORK
 https://fantomtv.GQ/F66252/9172822/895610
-#EXTINF:-1 tvg-id="15413" tvg-name="[JP] Shop Channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/shop_channel_jp.png" group-title="日韩频道",购物频道
+#EXTINF:-1 tvg-id="15413" tvg-name="[JP] Shop Channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/shop_channel_jp.png" group-title="日韩频道",SHOP CHANNEL
 https://fantomtv.GQ/F66252/9172822/15413
 #EXTINF:-1 tvg-name="CHANNELNEWSASIA" tvg-logo="https://epg.112114.xyz/logo/CNA-NEWS.png" group-title="新马频道",CNA
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494896
@@ -1018,23 +1004,13 @@ https://fantomtv.GQ/F66252/9172822/933049
 https://fantomtv.GQ/F66252/9172822/933050
 #EXTINF:-1 tvg-id="933051" tvg-name="[SG] RockEntertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="新马频道",ROCK ENTERTAINMENT
 https://fantomtv.GQ/F66252/9172822/933051
-#EXTINF:-1 tvg-id="25964" tvg-name="[MY] ASTRO PREMIER" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/508_144.png" group-title="新马频道",ASTRO PREMIER
-https://fantomtv.GQ/F66252/9172822/25964
-#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 1 HD [SP]" tvg-logo="http://logo.protv.cc/picons/logos/supersport1.png" group-title="新马频道",ASTRO SUPERSPORTS 1
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484472
-#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 2 HD [SP]" tvg-logo="http://logo.protv.cc/picons/logos/supersport2.png" group-title="新马频道",ASTRO SUPERSPORTS 2
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659308
-#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 3 HD [SP]" tvg-logo="http://logo.protv.cc/picons/logos/supersport3.png" group-title="新马频道",ASTRO SUPERSPORTS 3
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659307
-#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 4 HD [SP]" tvg-logo="http://logo.protv.cc/picons/logos/supersport4.png" group-title="新马频道",ASTRO SUPERSPORTS 4
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659306
-#EXTINF:-1 tvg-id="25968" tvg-name="[MY] AEC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_aec.png" group-title="新马频道",AEC
+#EXTINF:-1 tvg-id="25968" tvg-name="[MY] AEC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_aec.png" group-title="新马频道",ASTRO AEC
 https://fantomtv.GQ/F66252/9172822/25968
-#EXTINF:-1 tvg-name="MY: AOD 351 [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-AOD.jpeg" group-title="新马频道",ASTRO AOD 351
+#EXTINF:-1 tvg-name="MY: AOD 351 [ASTRO]" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="新马频道",ASTRO AOD 351
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659288
 #EXTINF:-1 tvg-id="25991" tvg-name="[MY] AOD 352 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="新马频道",ASTRO AOD 352
 https://fantomtv.GQ/F66252/9172822/25991
-#EXTINF:-1 tvg-name="MY: AOD 353 [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-AOD.jpeg" group-title="新马频道",ASTRO AOD 353
+#EXTINF:-1 tvg-name="MY: AOD 353 [ASTRO]" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="新马频道",ASTRO AOD 353
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659291
 #EXTINF:-1 tvg-id="25993" tvg-name="[MY] AOD 354 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="新马频道",ASTRO AOD 354
 https://fantomtv.GQ/F66252/9172822/25993
@@ -1044,6 +1020,12 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659316
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659303
 #EXTINF:-1 tvg-id="26238" tvg-name="[MY] ASTRO CERIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ceria.png" group-title="新马频道",ASTRO CERIA
 https://fantomtv.GQ/F66252/9172822/26238
+#EXTINF:-1 tvg-name="MY: ASTRO CRICKET HD" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-CRICKET.png" group-title="新马频道",ASRTO CRICKET
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659309
+#EXTINF:-1 tvg-name="MY: OASIS HD [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-OASIS-HD.png" group-title="新马频道",ASTRO OASIS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659299
+#EXTINF:-1 tvg-id="25964" tvg-name="[MY] ASTRO PREMIER" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/508_144.png" group-title="新马频道",ASTRO PREMIER
+https://fantomtv.GQ/F66252/9172822/25964
 #EXTINF:-1 tvg-id="25862" tvg-name="[MY] ASTRO PRIMA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-prima-my.png" group-title="新马频道",ASTRO PRIMA
 https://fantomtv.GQ/F66252/9172822/25862
 #EXTINF:-1 tvg-id="25970" tvg-name="[MY] Astro QJ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="新马频道",ASTRO QJ
@@ -1052,10 +1034,21 @@ https://fantomtv.GQ/F66252/9172822/25970
 https://fantomtv.GQ/F66252/9172822/908356
 #EXTINF:-1 tvg-id="25855" tvg-name="[MY] ASTRO RIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="新马频道",ASTRO RIA HD
 https://fantomtv.GQ/F66252/9172822/25855
+
+#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 1 HD [SP]" tvg-logo="http://logo.protv.cc/picons/logos/supersport1.png" group-title="新马频道",ASTRO SUPERSPORTS 1
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484472
+#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 2 HD [SP]" tvg-logo="http://logo.protv.cc/picons/logos/supersport2.png" group-title="新马频道",ASTRO SUPERSPORTS 2
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659308
+#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 3 HD [SP]" tvg-logo="http://logo.protv.cc/picons/logos/supersport3.png" group-title="新马频道",ASTRO SUPERSPORTS 3
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659307
+#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 4 HD [SP]" tvg-logo="http://logo.protv.cc/picons/logos/supersport4.png" group-title="新马频道",ASTRO SUPERSPORTS 4
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659306
 #EXTINF:-1 tvg-id="25959" tvg-name="[MY] Astro Vaanavil" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" group-title="新马频道",ASTRO VAANAVIL
 https://fantomtv.GQ/F66252/9172822/25959
 #EXTINF:-1 tvg-id="918423" tvg-name="[MY] Astro Vellithirai" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_vellithirai.png" group-title="新马频道",ASTRO VELLITHIRAI
 https://fantomtv.GQ/F66252/9172822/918423
+#EXTINF:-1 tvg-id="916394" tvg-name="[MY] Vinmeen (7pm-1am)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="新马频道",ASTRO VINMEEN
+https://fantomtv.GQ/F66252/9172822/916394
 #EXTINF:-1 tvg-id="25867" tvg-name="[MY] ASTRO WARNA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-warna-my.png" group-title="新马频道",ASTRO WARNA
 https://fantomtv.GQ/F66252/9172822/25867
 #EXTINF:-1 tvg-id="25828" tvg-name="[MY] Awesome tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/awesome-tv-my.png" group-title="新马频道",AWESOME TV
@@ -1066,18 +1059,12 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659285
 https://fantomtv.GQ/F66252/9172822/900904
 #EXTINF:-1 tvg-name="MY: BERNAMA NEWS [H]" tvg-logo="http://logo.protv.cc/picons/logos/BERNAMA-TV.png" group-title="新马频道",BERNAMA NEWS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659322
-#EXTINF:-1 tvg-name="MY: ASTRO CRICKET HD" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-CRICKET.png" group-title="新马频道",CRICKET
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659309
-#EXTINF:-1 tvg-name="MY: OASIS HD [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-OASIS-HD.png" group-title="新马频道",OASIS
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659299
 #EXTINF:-1 tvg-name="MY: Oh!K HD [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-OH!K.jpg" group-title="新马频道",OH!K
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659263
 #EXTINF:-1 tvg-id="656682" tvg-name="[MY] OKEY TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm-okey-my.png" group-title="新马频道",OKEY TV
 https://fantomtv.GQ/F66252/9172822/656682
 #EXTINF:-1 tvg-name="MY: ONE HD [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/onehd.png" group-title="新马频道",ONE
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659262
-#EXTINF:-1 tvg-name="MY: RANIA [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-RANIA.png" group-title="新马频道",RANIA
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659315
 #EXTINF:-1 tvg-name="MY: SUN TV HD APAC [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-SUN-TV-HD.jpg" group-title="新马频道",SUN TV
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659259
 #EXTINF:-1 tvg-id="25934" tvg-name="[MY] Sun Life" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/476_144.png" group-title="新马频道",SUN LIFE
@@ -1102,8 +1089,6 @@ https://fantomtv.GQ/F66252/9172822/25812
 https://fantomtv.GQ/F66252/9172822/25813
 #EXTINF:-1 tvg-name="MY: TVN [H]" tvg-logo="http://logo.protv.cc/picons/logos/TVN.png" group-title="新马频道",TVN
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659317
-#EXTINF:-1 tvg-id="916394" tvg-name="[MY] Vinmeen (7pm-1am)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="新马频道",VINMEEN
-https://fantomtv.GQ/F66252/9172822/916394
 #EXTINF:-1 tvg-name="MY: TVN MOVIES [H]" tvg-logo="http://logo.protv.cc/picons/logos/TVN-MOVIES.png" group-title="新马频道",TVN MOVIES
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659318
 #EXTINF:-1 tvg-id="656643" tvg-name="[MY] TVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="新马频道",TVS
@@ -1523,7 +1508,7 @@ https://fantomtv.GQ/F66252/9172822/492389
 #EXTINF:-1 tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/youxianxinwen.png" group-title="亚洲新闻",有线新闻台
 http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://epg.112114.xyz/logo/NOWNEW.png" group-title="亚洲新闻",NOW新闻台
-https://sc2024.stream-link.org/live/46232121132.php?id=h48pu
+http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=now-news
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="亚洲新闻",CCTV新闻
 http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw259647455_-1559913959/ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8?icpid=3&RTS=1668595054&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-name="Aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="亚洲新闻",半岛新闻
@@ -1536,10 +1521,6 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494896
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/441174
 #EXTINF:-1 tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="亚洲新闻",日本NHK
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/628432
-#EXTINF:-1 tvg-id="9999" tvg-name="ANN News" tvg-logo="http://content.stream-link.org/tv_logo/ann_news.png" group-title="亚洲新闻",日本ANN新闻
-https://sc2024.stream-link.org/live/46232121132.php?id=e72cc
-#EXTINF:-1 tvg-id="YonhapNewsTV" tvg-name="韓聯社新聞" tvg-logo="http://content.stream-link.org/tv_logo/kr_yonhap_news_tv.jpg" group-title="亚洲新闻",韩联社新闻
-https://sc2024.stream-link.org/live/46232121132.php?id=e15ah
 #EXTINF:-1 tvg-name="金砖中文" tvg-logo="https://epg.112114.xyz/logo/BRICS.png" group-title="亚洲新闻",金砖中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="金砖英文" tvg-logo="https://epg.112114.xyz/logo/BRICS.png" group-title="亚洲新闻",金砖英文
@@ -1753,16 +1734,12 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/386616
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/386141
 #EXTINF:-1 tvg-name="ES ORGO: M LALIGATV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13696.png?ver=29798" group-title="欧洲体育",LALIGA TV
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/658386
-#EXTINF:-1 tvg-id="Unbeaten" tvg-name="Unbeaten" tvg-logo="http://content.stream-link.org/tv_logo/unbeaten.png" group-title="欧洲体育",UNBEATEN
-https://sc2024.stream-link.org/live/46232121132.php?id=s14us
 #EXTINF:-1 tvg-name="SPORTS: HK NOW PREMIER SPORTS 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="亚洲体育",NOW SPORTS 1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444700
 #EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="亚洲体育",NOW SPORTS 2
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444706
 #EXTINF:-1 tvg-name="SPORTS: HK NOW SPORTS 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?84192" group-title="亚洲体育",NOW SPORTS 3
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444705
-#EXTINF:-1 tvg-id="nowSportsPrime" tvg-name="Now精選體育" tvg-logo="http://content.stream-link.org/tv_logo/now_630.png" group-title="亚洲体育",NOW SPORTS PRIME
-https://sc2024.stream-link.org/live/46232121132.php?id=s99ta
 #EXTINF:-1 tvg-name="4K: NOW SPORTS ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?ver=9156" group-title="亚洲体育",NOW SPORTS UHD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484471
 #EXTINF:-1 tvg-id="26308" tag-name="[MY] ASTRO ARENA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_arena_my.png" group-title="亚洲体育",ASTRO ARENA
@@ -1860,7 +1837,7 @@ https://fantomtv.GQ/F66252/9172822/910889
 #EXTINF:-1 tvg-name="ELEVEN体育二台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS2.png" group-title="亚洲体育",ELEVEN体育二台
 https://fantomtv.GQ/F66252/9172822/910890
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" tvg-id="6174" tvg-name="博斯运动一台" group-title="亚洲体育",博斯运动1台
-https://sc2024.stream-link.org/live/46232121132.php?id=s20ea
+https://fake-stream.livednow.com/4gtv/50?token=611c08985e6eb335bc0132ec502d70e8&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" tvg-id="6174" tvg-name="博斯运动二台" group-title="亚洲体育",博斯运动2台
 https://fantomtv.GQ/F66252/9172822/515137
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png" tvg-id="6177" tvg-name="博斯高球1台" group-title="亚洲体育",博斯高球1台

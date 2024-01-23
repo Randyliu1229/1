@@ -365,7 +365,7 @@ https://fantomtv.GQ/F66252/9172822/945572
 #EXTINF:-1 tvg-id="nowNews" tvg-name="Now新聞台" tvg-logo="http://content.stream-link.org/tv_logo/now_332.png" group-title="港澳频道",NOW新闻台
 http://www.51romzj.love:666/dll/diyroms/xsj/histar.php?id=now-news
 #EXTINF:-1 tvg-id="nowBusinessNewsChannel" tvg-name="Now財經台" tvg-logo="http://content.stream-link.org/tv_logo/now_333.png" group-title="港澳频道",NOW财经台
-https://sc2024.stream-link.org/live/46232121132.php?id=h04zu
+http://www.51romzj.shop:666/xingxing.php?id=now-finance
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NOWZBT.png" group-title="港澳频道",NOW直播台
 http://www.51romzj.shop:666/xingxing.php?id=now-direct
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NOWBGT.png" group-title="港澳频道",NOW爆谷台
@@ -423,7 +423,7 @@ http://www.51romzj.xyz/diyroms/dll/ysp/yes.php?id=mianbaot
 #EXTINF:-1 tvg-id="香港佛陀" tvg-name="香港佛陀" tvg-logo="https://epg.112114.xyz/logo/XGFT.png" group-title="港澳频道",香港佛陀
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://epg.112114.xyz/logo/lotusmacau.png" group-title="港澳频道",澳门莲花
-http://www.51romzj.xyz/diyroms/dll/ysp/yes.php?id=aomenlianhua
+http://www.51romzj.xyz/diyroms117/dll/ysp/yes.php?id=aomenlianhua
 #EXTINF:-1 tvg-name="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.112114.xyz/logo/AOSHI1.png" group-title="港澳频道",澳视澳门
 https://fantomtv.GQ/F66252/9172822/492408
 #EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://epg.112114.xyz/logo/AOSHI1.png" group-title="港澳频道",澳视卫星
@@ -448,7 +448,7 @@ http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=192
 https://fantomtv.GQ/F66252/9172822/684837
 #EXTINF:-1 tvg-id="105225" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾频道",东森电影
 https://fantomtv.GQ/F66252/9172822/870557
-#EXTINF:-1 tvg-id="105254" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台湾频道",东森洋片
+#EXTINF:-1 tvg-id="105254" tvg-logo="https://epg.112114.xyz/logo/DSYP.png" group-title="台湾频道",东森洋片
 https://fantomtv.GQ/F66252/9172822/870558
 #EXTINF:-1 tvg-id="14038" tvg-name="东森亚洲卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EbcAsiaWeishi.png" group-title="台湾频道",东森亚洲
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/623326
@@ -690,6 +690,8 @@ https://fake-stream.livednow.com/4gtv/4gtv-4gtv013?token=2ce9910369a57e195d367e8
 https://fake-stream.livednow.com/4gtv/39?token=c8997aef1a692f28d0641fea4f76233e&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" tvg-id="6161" tvg-name="韩国娱乐台KMTV" group-title="台湾频道",韩国娱乐台KMTV
 http://www.51romzj.shop:666/xingxing.php?id=kmtv
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" tvg-id="7238" tvg-name="Animax" group-title="台湾频道",ANIMAX卡通
+http://www.51romzj.shop:666/xingxing.php?id=animax-cartoon
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" tvg-id="708" tvg-name="BabyTV" group-title="台湾频道",BABY TV
 https://fantomtv.GQ/F66252/9172822/694339
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="BOOMERANG" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6163.png?1197" group-title="台湾频道",BOOMERANG
@@ -706,6 +708,8 @@ https://fake-stream.livednow.com/4gtv/219?token=3b6f590272bcacda26e73774beb946ad
 https://fantomtv.GQ/F66252/9172822/515120
 #EXTINF:-1 tvg-id="momo1" tvg-name="momo1" tvg-logo="https://epg.112114.xyz/logo/MOMO.png" group-title="台湾频道",MOMO 1台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+#EXTINF:-1 tvg-id="momo2" tvg-name="momo2" tvg-logo="https://epg.112114.xyz/logo/MOMO.png" group-title="台湾频道",MOMO 2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 #EXTINF:-1 tvg-name="ifun动漫台" tvg-logo="https://epg.112114.xyz/logo/IFUN.png" group-title="台湾频道",IFUN动漫台
 https://fake-stream.livednow.com/4gtv/litv-ftv15?token=68bb9c2ce1eb384cb9122020e57b769d&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
 #EXTINF:-1 tvg-id="900863" tvg-name="[TW] ELTV英語學習頻道" tvg-logo="https://store.liveabc.com/img/logo_live.5efa3f21.png" group-title="台湾频道",ELTV生活英语台
@@ -767,6 +771,8 @@ https://fake-stream.livednow.com/4gtv/273?token=7dade3c549d43bee1bbd74e9e199f01b
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SinDaTV.png" tvg-id="6120" tvg-name="信大频道" group-title="台湾频道",信大电视台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SinJiTVHD.png" tvg-id="6100" tvg-name="信吉电视台" group-title="台湾频道",信吉电视台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 #EXTINF:-1 tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="台湾频道",大爱一台
 https://fantomtv.GQ/F66252/9172822/515172
 #EXTINF:-1 tvg-name="大爱二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="台湾频道",大爱二台
@@ -850,9 +856,11 @@ https://fake-stream.livednow.com/4gtv/278?token=1aa0cdddd38dbf17af17e2d108c568f6
 https://fake-stream.livednow.com/4gtv/279?token=82d255c14150dc2ea467d9f140c95c6a&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
 #EXTINF:-1 tvg-id="-1" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="台湾频道",猪哥亮歌厅秀
 https://fake-stream.livednow.com/4gtv/113?token=40c3b2f84b5e53e764ac65ff7e9fc231&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
+#EXTINF:-1 tvg-name="天才冲冲冲" tvg-name="天才冲冲冲" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾频道",天才冲冲冲
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:-1 tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="日韩频道",ARIRANG
 https://fantomtv.GQ/F66252/9172822/877514
-#EXTINF:-1 tvg-name="KBSWORLD" tvg-logo="https://epg.112114.xyz/logo/KBS World.png" group-title="日韩频道",KBS WORLD
+#EXTINF:-1 tvg-name="KBSWORLD" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="日韩频道",KBS WORLD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/440528
 #EXTINF:-1 tvg-id="KBSNewsD.kr" tvg-logo="https://i.imgur.com/4qKgvHN.png" group-title="日韩频道",KBS NEWS
 https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
@@ -1467,7 +1475,7 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/429593
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162150
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://epg.112114.xyz/logo/GB-NEWS.png" group-title="国际新闻",GB NEWS
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-name="KBSWORLD" tvg-logo="https://epg.112114.xyz/logo/KBS World.png" group-title="国际新闻",KBS WORLD
+#EXTINF:-1 tvg-name="KBSWORLD" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="国际新闻",KBS WORLD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/440528
 #EXTINF:-1 tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="国际新闻",NHK WORLD JAPAN
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/628432

@@ -318,13 +318,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/32212282
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/Chunxiang4K.png" group-title="高清频道",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-id="4K修复" tvg-name="4K修复" tvg-logo="https://epg.112114.xyz/logo/Chunxiang4K.png" group-title="高清频道",4K修复
-http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-id="香港8K" tvg-name="香港8K" tvg-logo="https://epg.112114.xyz/logo/8KHD.png" group-title="高清频道",香港8K
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://epg.112114.xyz/logo/BRTV_DOCUMENTARY_8K.png" group-title="高清频道",北京纪实科教8K
 http://www.51romzj.xyz:666/diyroms/dll/ysp/jt.php?id=bjjskj8K
-#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://epg.112114.xyz/logo/LOVENATURE.png" group-title="高清频道",Love Nature 4K「自然」
+#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://epg.112114.xyz/logo/LOVENATURE.png" group-title="高清频道",LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="港澳频道",凤凰中文台
 https://fantomtv.GQ/F66252/9172822/492398
@@ -368,7 +366,7 @@ http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 https://fantomtv.GQ/F66252/9172822/492401
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK32.png" group-title="港澳频道",港台电视32
 https://fantomtv.GQ/F66252/9172822/492402
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png" group-title="港澳频道",ViuTV
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png" group-title="港澳频道",VIUTV
 https://fantomtv.GQ/F66252/9172822/870528
 #EXTINF:-1 tvg-name="VIUTVSIX" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png" group-title="港澳频道",VIUTV6
 https://fantomtv.GQ/F66252/9172822/877042
@@ -460,7 +458,7 @@ https://fantomtv.GQ/F66252/9172822/958146
 https://fantomtv.GQ/F66252/9172822/958147
 #EXTINF:-1 tvg-id="958133" tvg-name="[HK] Now Sports精选" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="港澳频道",NOW SPORTS精选
 https://fantomtv.GQ/F66252/9172822/958133
-#EXTINF:-1 tvg-name="4K: NOW SPORTS ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?ver=9156" group-title="港澳频道",NOW SPORTS 4K
+#EXTINF:-1 tvg-name="4K: NOW SPORTS ᵁᴴᴰ" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="港澳频道",NOW SPORTS 4K
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484471
 #EXTINF:-1 tvg-id="958149" tvg-name="[HK] Now Golf 2" tvg-logo="https://www.nowtv.now.com/media/logo/683-wbg-e.png" group-title="港澳频道",NOW GOLF 2
 https://fantomtv.GQ/F66252/9172822/958149
@@ -692,10 +690,6 @@ https://fantomtv.GQ/F66252/9172822/900839
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 #EXTINF:-1 tvg-id="TaiwanPlus" tvg-name="TaiwanPlus" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TaiwanPlus.png" group-title="台湾频道",TAIWAN PLUS
 https://fake-stream.livednow.com/youtube/dZp87qnWelE?token=3fe805365e491d59c7d3fdde569522cb&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
-#EXTINF:-1 tvg-id="8651" tvg-name="TBS News" tvg-logo="https://article.biliimg.com/bfs/article/b62860a3be04d385b840156173ff89df39829083.png" group-title="台湾频道",TBS NEWS
-https://fake-stream.livednow.com/youtube/ohI356mwBp8?token=b1efcf139ba14a6d72bc04f1b5235bde&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
-#EXTINF:-1 tvg-id="10807" tvg-name="JapaNews24" tvg-logo="https://article.biliimg.com/bfs/article/34372f264330765394cfe9a62c224f5a39829083.png" group-title="台湾频道",JAPANEWS24
-https://fake-stream.livednow.com/youtube/coYw-eVU0Ks?token=f8a041919b57296236d3fcfb1c864481&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/huayi1.png" tvg-id="7147" tvg-name="华艺MBC" group-title="台湾频道",华艺MBC综合台
 https://fantomtv.GQ/F66252/9172822/918594
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EYE1.png" tvg-id="7222" tvg-name="EYE戏剧" group-title="台湾频道",EYETV戏剧
@@ -726,7 +720,7 @@ https://fantomtv.GQ/F66252/9172822/900881
 https://fantomtv.GQ/F66252/9172822/948088
 #EXTINF:-1 tvg-id="影迷数位纪实台" tvg-name="影迷数位纪实台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FANS2.png" group-title="台湾频道",影迷纪实台
 http://www.51romzj.shop:666/xingxing.php?id=ymswjst
-#EXTINF:-1 tvg-id="180695" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ROCKExtreme.png" group-title="台湾频道",ROCK ACTION
+#EXTINF:-1 tvg-id="180695" tvg-name="ROCK Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="台湾频道",ROCK ACTION
 https://fake-stream.livednow.com/4gtv/180?token=0cc7965328c0149c9897c37420e7a4c4&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
 #EXTINF:-1 tvg-id="180695" tvg-name="ROCK Action" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ROCKEntertainment.png" group-title="台湾频道",ROCK ENTERTAINMENT
 http://www.51romzj.shop:666/xingxing.php?id=rock-entertaiment
@@ -974,14 +968,14 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 https://fantomtv.GQ/F66252/9172822/895603
 #EXTINF:-1 tvg-id="15412" tvg-name="[JP] NHK総合" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-general-tv-jp.png" group-title="日韩频道",NHK総合
 https://fantomtv.GQ/F66252/9172822/15412
-#EXTINF:-1 tvg-id="948859" tvg-name="[JP] NHK教育" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-general-tv-jp.png" group-title="日韩频道",NHK教育
+#EXTINF:-1 tvg-id="948859" tvg-name="[JP] NHK教育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png/800px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="日韩频道",NHK教育
 https://fantomtv.GQ/F66252/9172822/948859
+#EXTINF:-1 tvg-id="948856" tvg-name="[JP] BSアニマックス" tvg-logo="https://www.animax.co.jp/assets/img/common/ogp.png" group-title="日韩频道",BSアニマックス
+https://fantomtv.GQ/F66252/9172822/948856
 #EXTINF:-1 tvg-name="テレビ朝日" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021021780762_53.png" group-title="日韩频道",テレビ朝日
 https://fantomtv.GQ/F66252/9172822/948848
 #EXTINF:-1 tvg-name="BS日テレ" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154330300975_32.jpg" group-title="日韩频道",BS日テレ
 https://fantomtv.GQ/F66252/9172822/15421
-#EXTINF:-1 tvg-id="948856" tvg-name="[JP] BSアニマックス" tvg-logo="https://www.animax.co.jp/assets/img/common/ogp.png" group-title="日韩频道",BSアニマックス
-https://fantomtv.GQ/F66252/9172822/948856
 #EXTINF:-1 tvg-name="BSテレビ東京" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021100323506_16.png" group-title="日韩频道",BSテレビ東京
 https://fantomtv.GQ/F66252/9172822/15420
 #EXTINF:-1 tvg-name="BS朝日" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154749296470_94.jpg" group-title="日韩频道",BS朝日
@@ -1076,7 +1070,7 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494895
 https://fantomtv.GQ/F66252/9172822/933048
 #EXTINF:-1 tvg-id="933049" tvg-name="[SG] GEM" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg" group-title="新马频道",GEM
 https://fantomtv.GQ/F66252/9172822/933049
-#EXTINF:-1 tvg-id="933050" tvg-name="[SG] RockAction" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="新马频道",ROCKACTION
+#EXTINF:-1 tvg-id="933050" tvg-name="[SG] RockAction" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="新马频道",ROCK ACTION
 https://fantomtv.GQ/F66252/9172822/933050
 #EXTINF:-1 tvg-id="933051" tvg-name="[SG] RockEntertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="新马频道",ROCK ENTERTAINMENT
 https://fantomtv.GQ/F66252/9172822/933051
@@ -1495,11 +1489,11 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439557
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/439556
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="国际新闻",ABC NEWS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324915
-#EXTINF:-1 tvg-id="26160" tvg-name="ABC AUSTRALIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/521_300.png" group-title="国际新闻",ABC NEWS AUSTRALIA
+#EXTINF:-1 tvg-id="26160" tvg-name="ABC AUSTRALIA" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ABCAustralia.png" group-title="国际新闻",ABC NEWS AUSTRALIA
 https://fantomtv.GQ/F66252/9172822/26160
-#EXTINF:-1 tvg-name="Aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="国际新闻",Al JAZEERA
+#EXTINF:-1 tvg-name="Aljazeera" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AlJazeera.png" group-title="国际新闻",Al JAZEERA
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325829
-#EXTINF:-1 tvg-name"Aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="国际新闻",Al JAZEERA ARABIC
+#EXTINF:-1 tvg-name"Aljazeera" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AlJazeera.png" group-title="国际新闻",Al JAZEERA ARABIC
 https://fantomtv.GQ/F66252/9172822/866075
 #EXTINF:-1 tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="国际新闻",BBC WORLD NEWS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325846
@@ -1511,33 +1505,35 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484449
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324930
 #EXTINF:-1 tvg-name="CCTV4AME" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" group-title="国际新闻",CCTV AMERICA
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/588125
-#EXTINF:-1 tvg-name="CHANNELNEWSASIA" tvg-logo="https://epg.112114.xyz/logo/CNA-NEWS.png" group-title="国际新闻",CNA NEWS
+#EXTINF:-1 tvg-id="12405" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNBCAsia.png" group-title="亚洲新闻",CNBC
+https://fake-stream.livednow.com/4gtv/235?token=9f0a673d77150cd8c2099fe969b39ac7&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
+#EXTINF:-1 tvg-name="CHANNELNEWSASIA" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ChannelAsia.png" group-title="国际新闻",CNA NEWS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494896
-#EXTINF:-1 tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="国际新闻",CNN
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNN.png" group-title="国际新闻",CNN
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324963
-#EXTINF:-1 tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="国际新闻",CNN MAX
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNN.png" group-title="国际新闻",CNN MAX
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621803
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DWDEUTSCH.png" group-title="国际新闻",DW NEWS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/DWChannel.png" group-title="国际新闻",DW NEWS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/483652
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" group-title="国际新闻",EURONEWS
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Euronews.png" group-title="国际新闻",EURONEWS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/436117
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FOXNEWS.png" group-title="国际新闻",FOX NEWS
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/429593
-#EXTINF:-1 tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="国际新闻",FRANCE24
+https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FOX9.png
+#EXTINF:-1 tvg-name="france24" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png" group-title="国际新闻",FRANCE24
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162150
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://epg.112114.xyz/logo/GB-NEWS.png" group-title="国际新闻",GB NEWS
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1 tvg-name="KBSWORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png" group-title="国际新闻",KBS WORLD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/440528
-#EXTINF:-1 tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="国际新闻",NHK WORLD JAPAN
+#EXTINF:-1 tvg-name="NHKWorld" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NHKWorld.png" group-title="国际新闻",NHK WORLD JAPAN
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/628432
 #EXTINF:-1 tvg-name="russia today" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="国际新闻",RT NEWS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325903
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SKYNEWS.png" group-title="国际新闻",SKY NEWS
-ttp://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162155
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SkyNews.png" group-title="国际新闻",SKY NEWS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162155
 #EXTINF:-1 tvg-id="TalkTV.uk" tvg-name="UK: TALK TV 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6275.jpg?29781" group-title="国际新闻",TALK TV
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/351802
-#EXTINF:-1 tvg-id="914554" tvg-name="[USA] VOICE OF AMERICA" tvg-logo="https://epg.112114.xyz/logo/VOA.png" group-title="国际新闻",VOICE OF AMERICA
+#EXTINF:-1 tvg-id="914554" tvg-name="[USA] VOICE OF AMERICA" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/VOATV.png" group-title="国际新闻",VOICE OF AMERICA
 https://fantomtv.GQ/F66252/9172822/914554
 #EXTINF:-1 tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="亚洲新闻",东森新闻
 https://fantomtv.GQ/F66252/9172822/870544
@@ -1571,7 +1567,7 @@ https://fantomtv.GQ/F66252/9172822/877060
 https://fantomtv.GQ/F66252/9172822/857803
 #EXTINF:-1 tvg-id="14306" tvg-name="SBN 全球財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SBNcaijing.png" group-title="亚洲新闻",SBN 全球财经台
 https://fake-stream.livednow.com/4gtv/224?token=55d0979a13ad8e69a2b4194a7148c876&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
-#EXTINF:-1 tvg-id="12405" tvg-name="CNBC Asia 財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNBCAsia.png" group-title="亚洲新闻",CNBC亚洲财经台
+#EXTINF:-1 tvg-id="12405" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNBCAsia.png" group-title="亚洲新闻",CNBC
 https://fake-stream.livednow.com/4gtv/235?token=9f0a673d77150cd8c2099fe969b39ac7&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
 #EXTINF:-1 tvg-id="8651" tvg-name="TBS News" tvg-logo="https://article.biliimg.com/bfs/article/b62860a3be04d385b840156173ff89df39829083.png" group-title="亚洲新闻",TBS NEWS
 https://fake-stream.livednow.com/youtube/ohI356mwBp8?token=b1efcf139ba14a6d72bc04f1b5235bde&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
@@ -1599,6 +1595,10 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494896
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/441174
 #EXTINF:-1 tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="亚洲新闻",日本NHK
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/628432
+#EXTINF:-1 tvg-id="8651" tvg-name="TBS News" tvg-logo="https://article.biliimg.com/bfs/article/b62860a3be04d385b840156173ff89df39829083.png" group-title="亚洲新闻",TBS NEWS
+https://fake-stream.livednow.com/youtube/ohI356mwBp8?token=b1efcf139ba14a6d72bc04f1b5235bde&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
+#EXTINF:-1 tvg-id="10807" tvg-name="JapaNews24" tvg-logo="https://article.biliimg.com/bfs/article/34372f264330765394cfe9a62c224f5a39829083.png" group-title="亚洲新闻",JAPANEWS24
+https://fake-stream.livednow.com/youtube/coYw-eVU0Ks?token=f8a041919b57296236d3fcfb1c864481&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
 #EXTINF:-1 tvg-name="金砖中文" tvg-logo="https://epg.112114.xyz/logo/BRICS.png" group-title="亚洲新闻",金砖中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="金砖英文" tvg-logo="https://epg.112114.xyz/logo/BRICS.png" group-title="亚洲新闻",金砖英文
@@ -1842,7 +1842,7 @@ https://fantomtv.GQ/F66252/9172822/958146
 https://fantomtv.GQ/F66252/9172822/958147
 #EXTINF:-1 tvg-id="958133" tvg-name="[HK] Now Sports精选" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="亚洲体育",NOW SPORTS精选
 https://fantomtv.GQ/F66252/9172822/958133
-#EXTINF:-1 tvg-name="4K: NOW SPORTS ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3352.jpg?ver=9156" group-title="亚洲体育",NOW SPORTS 4K
+#EXTINF:-1 tvg-name="4K: NOW SPORTS ᵁᴴᴰ" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="亚洲体育",NOW SPORTS 4K
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484471
 #EXTINF:-1 tvg-id="958149" tvg-name="[HK] Now Golf 2" tvg-logo="https://www.nowtv.now.com/media/logo/683-wbg-e.png" group-title="亚洲体育",NOW GOLF 2
 https://fantomtv.GQ/F66252/9172822/958149

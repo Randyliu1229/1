@@ -1074,13 +1074,15 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494898
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494900
 #EXTINF:-1 tvg-id="933048" tvg-name="[SG] ANIMAX" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png" group-title="新马频道",ANIMAX
 https://fantomtv.GQ/F66252/9172822/933048
+#EXTINF:-1 tvg-id="933048" tvg-name="[SG] EGG NETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/egg-network-my.png" group-title="新马频道",EGG NETWORK
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494899
 #EXTINF:-1 tvg-id="933049" tvg-name="[SG] GEM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/gem-sg.png" group-title="新马频道",GEM
 https://fantomtv.GQ/F66252/9172822/933049
 #EXTINF:-1 tvg-id="933050" tvg-name="[SG] RockAction" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="新马频道",ROCK ACTION
 https://fantomtv.GQ/F66252/9172822/933050
 #EXTINF:-1 tvg-id="933051" tvg-name="[SG] RockEntertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="新马频道",ROCK ENTERTAINMENT
 https://fantomtv.GQ/F66252/9172822/933051
-#EXTINF:-1 tvg-id="25968" tvg-name="[MY] AEC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_aec.png" group-title="新马频道",ASTRO AEC
+#EXTINF:-1 tvg-id="25968" tvg-name="[MY] AEC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-aec-my.png" group-title="新马频道",ASTRO AEC
 https://fantomtv.GQ/F66252/9172822/25968
 #EXTINF:-1 tvg-name="MY: AOD 351 [ASTRO]" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="新马频道",ASTRO AOD 351
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659288
@@ -1096,28 +1098,20 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659316
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659303
 #EXTINF:-1 tvg-id="26238" tvg-name="[MY] ASTRO CERIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ceria.png" group-title="新马频道",ASTRO CERIA
 https://fantomtv.GQ/F66252/9172822/26238
-#EXTINF:-1 tvg-name="MY: ASTRO CRICKET HD" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-CRICKET.png" group-title="新马频道",ASRTO CRICKET
+#EXTINF:-1 tvg-name="MY: ASTRO CRICKET HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-cricket-my.png" group-title="新马频道",ASRTO CRICKET
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659309
-#EXTINF:-1 tvg-name="MY: OASIS HD [ASTRO]" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-OASIS-HD.png" group-title="新马频道",ASTRO OASIS
+#EXTINF:-1 tvg-name="MY: OASIS HD [ASTRO]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-oasis-my.png" group-title="新马频道",ASTRO OASIS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659299
 #EXTINF:-1 tvg-id="25964" tvg-name="[MY] ASTRO PREMIER" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/508_144.png" group-title="新马频道",ASTRO PREMIER
 https://fantomtv.GQ/F66252/9172822/25964
-#EXTINF:-1 tvg-id="25862" tvg-name="[MY] ASTRO PRIMA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-prima-my.png" group-title="新马频道",ASTRO PRIMA
+#EXTINF:-1 tvg-id="25862" tvg-name="[MY] ASTRO PRIMA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-prima-my.png" group-title="新马频道",ASTRO PRIMA
 https://fantomtv.GQ/F66252/9172822/25862
 #EXTINF:-1 tvg-id="25970" tvg-name="[MY] Astro QJ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="新马频道",ASTRO QJ
 https://fantomtv.GQ/F66252/9172822/25970
 #EXTINF:-1 tvg-id="908356" tvg-name="[MY] Astro Rania HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-rania-my.png" group-title="新马频道",ASTRO RANIA
 https://fantomtv.GQ/F66252/9172822/908356
-#EXTINF:-1 tvg-id="25855" tvg-name="[MY] ASTRO RIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="新马频道",ASTRO RIA HD
+#EXTINF:-1 tvg-id="25855" tvg-name="[MY] ASTRO RIA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-ria-my.png" group-title="新马频道",ASTRO RIA HD
 https://fantomtv.GQ/F66252/9172822/25855
-
-#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 1 HD [SP]" tvg-logo="http://logo.protv.cc/picons/logos/supersport1.png" group-title="新马频道",ASTRO SUPERSPORTS 1
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484472
-#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 2 HD [SP]" tvg-logo="http://logo.protv.cc/picons/logos/supersport2.png" group-title="新马频道",ASTRO SUPERSPORTS 2
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659308
-#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 3 HD [SP]" tvg-logo="http://logo.protv.cc/picons/logos/supersport3.png" group-title="新马频道",ASTRO SUPERSPORTS 3
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659307
-#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 4 HD [SP]" tvg-logo="http://logo.protv.cc/picons/logos/supersport4.png" group-title="新马频道",ASTRO SUPERSPORTS 4
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659306
 #EXTINF:-1 tvg-id="25959" tvg-name="[MY] Astro Vaanavil" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" group-title="新马频道",ASTRO VAANAVIL
 https://fantomtv.GQ/F66252/9172822/25959
@@ -1864,31 +1858,29 @@ https://fantomtv.GQ/F66252/9172822/958128
 https://fantomtv.GQ/F66252/9172822/958129
 #EXTINF:-1 tvg-id="958130" tvg-name="[HK] myTV SUPER直播足球4台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png" group-title="亚洲体育",MYTV SUPER直播足球-4台
 https://fantomtv.GQ/F66252/9172822/958130
-https://fantomtv.GQ/F66252/9172822/958148#EXTINF:-1 tvg-id="26308" tag-name="[MY] ASTRO ARENA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_arena_my.png" group-title="亚洲体育",ASTRO ARENA
+https://fantomtv.GQ/F66252/9172822/958148#EXTINF:-1 tvg-id="26308" tag-name="[MY] ASTRO ARENA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-arena-my.png" group-title="亚洲体育",ASTRO ARENA
 https://fantomtv.GQ/F66252/9172822/26308
-#EXTINF:-1 tvg-id="26306" tvg-name="[MY] Arena 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="亚洲体育",ASTRO ARENA 2
+#EXTINF:-1 tvg-id="26306" tvg-name="[MY] Arena 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-arena-2-my.png" group-title="亚洲体育",ASTRO ARENA 2
 https://fantomtv.GQ/F66252/9172822/26306
 #EXTINF:-1 tvg-id="912889" tvg-name="[MY] Arena Bola 1 (VIP)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="亚洲体育",ARENA BOLA 1
 https://fantomtv.GQ/F66252/9172822/912889
 #EXTINF:-1 tvg-id="912890" tvg-name="[MY] Arena Bola 2  (VIP)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="亚洲体育",ARENA BOLA 2
 https://fantomtv.GQ/F66252/9172822/912890
-#EXTINF:-1 tvg-id="26309" tvg-name="[MY] ASTRO CRICKET" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Astro_Cricket_Logo_2.png" group-title="亚洲体育",ASTRO CRICKET
+#EXTINF:-1 tvg-id="26309" tvg-name="[MY] ASTRO CRICKET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-cricket-my.png" group-title="亚洲体育",ASTRO CRICKET
 https://fantomtv.GQ/F66252/9172822/26309
-#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 1 HD [SP]" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8477.png?ver=3533" group-title="亚洲体育",ASTRO SUPERSPORTS 1
+#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 1 HD [SP]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-supersport-my.png" group-title="亚洲体育",ASTRO SUPERSPORTS 1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484472
-#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 2 HD [SP]" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8477.png?ver=3533" group-title="亚洲体育",ASTRO SUPERSPORTS 2
+#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 2 HD [SP]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-supersport-2-my.png" group-title="亚洲体育",ASTRO SUPERSPORTS 2
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659308
-#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 3 HD [SP]" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8477.png?ver=3533" group-title="亚洲体育",ASTRO SUPERSPORTS 3
+#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 3 HD [SP]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-supersport-3-my.png" group-title="亚洲体育",ASTRO SUPERSPORTS 3
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659307
-#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 4 HD [SP]" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8477.png?ver=3533" group-title="亚洲体育",ASTRO SUPERSPORTS 4
+#EXTINF:-1 tvg-name="MY: ASTRO SUPERSPORTS 4 HD [SP]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-supersport-4-my.png" group-title="亚洲体育",ASTRO SUPERSPORTS 4
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/659306
-#EXTINF:-1 tvg-id="511295" tvg-name="[MY] ASTRO ASSP PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_supersport_my.png" group-title="亚洲体育",ASTRO ASSP PLUS
-https://fantomtv.GQ/F66252/9172822/511295
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: BEIN SPORTS AU 1 HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1366.png?57527" group-title="亚洲体育",BEIN SPORTS 1|AU
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: BEIN SPORTS AU 1 HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" group-title="亚洲体育",BEIN SPORTS 1|AU
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/595835
-#EXTINF:-1 tvg-id="TS" tvg-name="Uk: BEIN SPORTS AU 2 HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1365.png?75763" group-title="亚洲体育",BEIN SPORTS 2|AU
+#EXTINF:-1 tvg-id="TS" tvg-name="Uk: BEIN SPORTS AU 2 HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="亚洲体育",BEIN SPORTS 2|AU
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/595834
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: BEIN SPORTS AU 3 HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1368.png?68271" group-title="亚洲体育",BEIN SPORTS 3|AU
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: BEIN SPORTS AU 3 HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-3-us.png" group-title="亚洲体育",BEIN SPORTS 3|AU
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/595833
 #EXTINF:-1 tvg-id="26321" tvg-name="[MY] beIN Sports 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_my.png" group-title="亚洲体育",BEIN SPORTS 1|MY
 https://fantomtv.GQ/F66252/9172822/26321

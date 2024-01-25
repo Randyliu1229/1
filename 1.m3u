@@ -1054,21 +1054,27 @@ https://fantomtv.GQ/F66252/9172822/948841
 https://fantomtv.GQ/F66252/9172822/895610
 #EXTINF:-1 tvg-id="15413" tvg-name="[JP] Shop Channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/shop_channel_jp.png" group-title="日韩频道",SHOP CHANNEL
 https://fantomtv.GQ/F66252/9172822/15413
-#EXTINF:-1 tvg-name="CHANNELNEWSASIA" tvg-logo="https://epg.112114.xyz/logo/CNA-NEWS.png" group-title="新马频道",CNA
+#EXTINF:-1 tvg-name="CHANNELNEWSASIA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/cna-sg.png" group-title="新马频道",CNA
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494896
-#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://epg.112114.xyz/logo/sg/channel-5.png" group-title="新马频道",CHANNEL 5
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/channel-5-sg.png" group-title="新马频道",CHANNEL 5
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494891
-#EXTINF:-1 tvg-id="11834" tvg-name="Channel 8" tvg-logo="https://epg.112114.xyz/logo/sg/channel-8.png" group-title="新马频道",CHANNEL 8
+#EXTINF:-1 tvg-id="11834" tvg-name="Channel 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/channel-8-sg.png" group-title="新马频道",CHANNEL 8
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494892
-#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://epg.112114.xyz/logo/sg/channel-u.png" group-title="新马频道",CHANNEL U
+#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/channel-u-sg.png" group-title="新马频道",CHANNEL U
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494893
-#EXTINF:-1 tvg-name="Suria" tvg-logo="https://epg.112114.xyz/logo/sg/suria.png" group-title="新马频道",SURIA
+#EXTINF:-1 tvg-name="Suria" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/suria-sg.png" group-title="新马频道",SURIA
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494894
-#EXTINF:-1 tvg-name="Vasantham" tvg-logo="https://epg.112114.xyz/logo/sg/asantham.png" group-title="新马频道",VASANTHAM
+#EXTINF:-1 tvg-name="Vasantham" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/vasantham-sg.png" group-title="新马频道",VASANTHAM
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494895
-#EXTINF:-1 tvg-id="933048" tvg-name="[SG] ANIMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="新马频道",ANIMAX
+#EXTINF:-1 tvg-name="SG: LIVE 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/live-1-sg.png" group-title="新马频道",LIVE 1
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494897
+#EXTINF:-1 tvg-name="SG: LIVE 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/live-2-sg.png" group-title="新马频道",LIVE 2
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494898
+#EXTINF:-1 tvg-name="SG: LIVE+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/live-plus-1-sg.png" group-title="新马频道",LIVE+
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494900
+#EXTINF:-1 tvg-id="933048" tvg-name="[SG] ANIMAX" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png" group-title="新马频道",ANIMAX
 https://fantomtv.GQ/F66252/9172822/933048
-#EXTINF:-1 tvg-id="933049" tvg-name="[SG] GEM" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg" group-title="新马频道",GEM
+#EXTINF:-1 tvg-id="933049" tvg-name="[SG] GEM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/gem-sg.png" group-title="新马频道",GEM
 https://fantomtv.GQ/F66252/9172822/933049
 #EXTINF:-1 tvg-id="933050" tvg-name="[SG] RockAction" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="新马频道",ROCK ACTION
 https://fantomtv.GQ/F66252/9172822/933050
@@ -1890,14 +1896,30 @@ https://fantomtv.GQ/F66252/9172822/26321
 https://fantomtv.GQ/F66252/9172822/912557
 #EXTINF:-1 tvg-id="26322" tvg-name="[MY] beIN Sports 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa.png" group-title="亚洲体育",BEIN SPORTS 3|MY
 https://fantomtv.GQ/F66252/9172822/26322
-#EXTINF:-1 tvg-name="4K: SG HUBPREMIER 2 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1900.jpg?30855" group-title="亚洲体育",HUBPREMIER
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484466
-#EXTINF:-1 tvg-name="SPORTS: HUB SPORTS 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11571.jpg?94789" group-title="亚洲体育",HUB SPORTS 1
+#EXTINF:-1 tvg-name="SPORTS: HUB SPORTS 1 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-1-sg.png" group-title="亚洲体育",HUB SPORTS 1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444699
-#EXTINF:-1 tvg-name="SPORTS: HUB SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11571.jpg?94789" group-title="亚洲体育",HUB SPORTS 2
+#EXTINF:-1 tvg-name="SPORTS: HUB SPORTS 2 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-2-sg.png" group-title="亚洲体育",HUB SPORTS 2
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444698
-#EXTINF:-1 tvg-name="SPORTS: HUB SPORTS 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11571.jpg?94789" group-title="亚洲体育",HUB SPORTS 3
+#EXTINF:-1 tvg-name="SPORTS: HUB SPORTS 3 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-3-sg.png" group-title="亚洲体育",HUB SPORTS 3
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444697
+#EXTINF:-1 tvg-name="HUB PREMIER 1 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png" group-title="亚洲体育",HUB PREMIER 1
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/620786
+#EXTINF:-1 tvg-name="HUB PREMIER 2 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png" group-title="亚洲体育",HUB PREMIER 2
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484466
+#EXTINF:-1 tvg-name="HUB PREMIER 3 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-3-sg.png" group-title="亚洲体育",HUB PREMIER 3
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/620784
+#EXTINF:-1 tvg-name="HUB PREMIER 4 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-4-sg.png" group-title="亚洲体育",HUB PREMIER 4
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/620783
+#EXTINF:-1 tvg-name="HUB PREMIER 5 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-5-sg.png" group-title="亚洲体育",HUB PREMIER 5
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/620782
+#EXTINF:-1 tvg-name="HUB PREMIER 6 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-6-sg.png" group-title="亚洲体育",HUB PREMIER 6
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/620781
+#EXTINF:-1 tvg-name="HUB PREMIER 7 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-7-sg.png" group-title="亚洲体育",HUB PREMIER 7
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/620780
+#EXTINF:-1 tvg-name="HUB PREMIER 8 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-8-sg.png" group-title="亚洲体育",HUB PREMIER 8
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/620779
+#EXTINF:-1 tvg-name="HUB PREMIER 9 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-9-sg.png" group-title="亚洲体育",HUB PREMIER 9
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/620778
 #EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-name="SPO: Dubai Sport 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/576.png?76986" group-title="亚洲体育",DUBAI SPORT 1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/3109
 #EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-name="SPO: Dubai Sport 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/576.png?76986" group-title="亚洲体育",DUBAI SPORT 2

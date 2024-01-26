@@ -1289,98 +1289,92 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325786
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325870
 #EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="US: NAT GEO WILD HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1395.png?40753" group-title="美国频道",NAT GEO WILD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325785
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK: BBC NEWS HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/364.png?20760" group-title="英国频道",BBC NEWS
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK: BBC NEWS HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="英国频道",BBC NEWS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162142
-#EXTINF:-1 tvg-id="BBCOneOxford.uk" tvg-name="UK: BBC ONE LONDON 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11987.jpg?90172" group-title="英国频道",BBC ONE LONDON
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK: BBC 1 HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="英国频道",BBC 1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/497001
-#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="UK: BBC 1 HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12016.jpg?38263" group-title="英国频道",BBC 1
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162096
-#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK: BBC 2 HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12017.jpg?20708" group-title="英国频道",BBC 2
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK: BBC 2 HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" group-title="英国频道",BBC 2
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162098
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: BBC 3 / CBBC HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12033.jpg?67015" group-title="英国频道",BBC 3
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: BBC 3 / CBBC HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png" group-title="英国频道",BBC 3
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162100
-#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="UK: BBC 4 / CBEEBIES HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12018.jpg?74474" group-title="英国频道",BBC 4
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="UK: BBC 4 / CBEEBIES HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" group-title="英国频道",BBC 4
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162102
-#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-name="UK: BBC ALBA ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12039.jpg?31265" group-title="英国频道",BBC ALBA
+#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-name="UK: BBC ALBA ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-alba-uk.png" group-title="英国频道",BBC ALBA
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162175
-#EXTINF:-1 tvg-name="UK: BBC Brit HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/728.png?ver=74237" group-title="英国频道",BBC BRIT
+#EXTINF:-1 tvg-name="UK: BBC Brit HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/bbc-brit-no.png" group-title="英国频道",BBC BRIT
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/414041
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: BBC Earth HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3982.png?33746" group-title="英国频道",BBC EARTH
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: BBC Earth HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/bbc-earth-no.png" group-title="英国频道",BBC EARTH
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/414042
-#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="UK: BBC PARLAMENT ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12068.jpg?6004" group-title="英国频道",BBC PARLAMENT
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="UK: BBC PARLAMENT ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-parliament-uk.png" group-title="英国频道",BBC PARLIAMENT
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/622075
-#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK: CHANNEL 4 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12107.jpg?7219" group-title="英国频道",CHANNEL 4
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK: CHANNEL 4 4K ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png" group-title="英国频道",CHANNEL 4
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162113
-#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK: CHANNEL 5 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12126.jpg?14506" group-title="英国频道",CHANNEL 5
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK: CHANNEL 5 4K ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" group-title="英国频道",CHANNEL 5
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162114
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK: SKY NEWS HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3124.jpg?91022" group-title="英国频道",SKY NEWS
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK: SKY NEWS HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png" group-title="英国频道",SKY NEWS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162155
-#EXTINF:-1 tvg-id="SkyNature.uk" tvg-name="UK: SKY NATURE 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?52263" group-title="英国频道",SKY NATURE
+#EXTINF:-1 tvg-id="SkyNature.uk" tvg-name="UK: SKY NATURE 4K ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-nature-uk.png" group-title="英国频道",SKY NATURE
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162384
-#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="UK: SKY DOCUMENTARIES 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?45779" group-title="英国频道",SKY DOCUMENTARIES
+#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="UK: SKY DOCUMENTARIES 4K ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-documentaries-uk.png" group-title="英国频道",SKY DOCUMENTARIES
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162382
-#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK: SKY ARTS HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12112.jpg?90187" group-title="英国频道",SKY ARTS
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK: SKY ARTS HEVC 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-arts-uk.png" group-title="英国频道",SKY ARTS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/639170
-#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK: SKY WITNESS HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12125.png?48030" group-title="英国频道"SKY WITNESS
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK: SKY WITNESS HEVC 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-witness-uk.png" group-title="英国频道",SKY WITNESS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/639169
-#EXTINF:-1 tvg-name="UK: SKY CINEMA ACTION 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="英国频道",SKY CINEMA ACTION
+#EXTINF:-1 tvg-name="UK: SKY CINEMA ACTION 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-action-uk.png" group-title="英国频道",SKY CINEMA ACTION
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162330
-#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK: SKY CINEMA COMEDY 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="英国频道",SKY CINEMA COMEDY
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="UK: SKY CINEMA COMEDY 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-comedy-uk.png" group-title="英国频道",SKY CINEMA COMEDY
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162332
-#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="UK: SKY CINEMA FAMILY 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="英国频道",SKY CINEMA FAMILY
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="UK: SKY CINEMA FAMILY 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-family-uk.png" group-title="英国频道",SKY CINEMA FAMILY
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162348
-#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK: SKY CINEMA DRAMA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="英国频道",SKY CINEMA DRAMA
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="UK: SKY CINEMA DRAMA 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-drama-uk.png" group-title="英国频道",SKY CINEMA DRAMA
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162336
-#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="UK: SKY CINEMA ANIMATION 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12173.jpg?58266" group-title="英国频道",SKY CINEMA ANIMATION
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="UK: SKY CINEMA ANIMATION 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-animation-uk.png" group-title="英国频道",SKY CINEMA ANIMATION
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/336042
-#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="UK: SKY CINEMA GREATS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="英国频道",SKY CINEMA GREATS
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="UK: SKY CINEMA GREATS 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-greats-uk.png" group-title="英国频道",SKY CINEMA GREATS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162340
-#EXTINF:-1 tvg-name="UK: SKY CINEMA SELECT/OSCARS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="英国频道",SKY CINEMA SELECT/OSCARS
+#EXTINF:-1 tvg-name="UK: SKY CINEMA SELECT/OSCARS 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-select-uk.png" group-title="英国频道",SKY CINEMA SELECT
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162338
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: SKY CINEMA SUPERHEROES HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="英国频道",SKY CINEMA SUPERHEROES
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: SKY CINEMA SUPERHEROES HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-superheroes-uk.png" group-title="英国频道",SKY CINEMA SUPERHEROES
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162341
-#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK: SKY CINEMA HITS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="英国频道",SKY CINEMA HITS
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK: SKY CINEMA HITS 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-hits-uk.png" group-title="英国频道",SKY CINEMA HITS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162342
-#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK: SKY CINEMA PREMIERE 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="英国频道",SKY CINEMA PREMIERE
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="UK: SKY CINEMA PREMIERE 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-premiere-uk.png" group-title="英国频道",SKY CINEMA PREMIERE
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162344
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: SKY CINEMA PREMIERE +1 ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="英国频道",SKY CINEMA PREMIERE +1
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: SKY CINEMA PREMIERE +1 ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-premiere-plus-uk.png" group-title="英国频道",SKY CINEMA PREMIERE +1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/405520
-#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK: SKY CINEMA THRILLER 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="英国频道",SKY CINEMA THRILLER
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK: SKY CINEMA THRILLER 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-thriller-uk.png" group-title="英国频道",SKY CINEMA THRILLER
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162346
-#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK: SKY CINEMA SCI-FI 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="英国频道",SKY CINEMA SCI-FI
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-name="UK: SKY CINEMA SCI-FI 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png" group-title="英国频道",SKY CINEMA SCI-FI HORROR
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162350
-#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK: SKY COMEDY 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6428.png?ver=13910" group-title="英国频道",SKY COMEDY
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK: SKY COMEDY 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-comedy-uk.png" group-title="英国频道",SKY COMEDY
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/304723
-#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="UK: SKY MAX 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3125.jpg?53054" group-title="英国频道",SKY MAX
+#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="UK: SKY MAX 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-max-uk.png" group-title="英国频道",SKY MAX
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/304727
-#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="UK: GB NEWS 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13251.jpg?ver=18254" group-title="英国频道",GB NEWS
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="UK: GB NEWS 4K ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gb-news-uk.png" group-title="英国频道",GB NEWS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/272243
-#EXTINF:-1 tvg-id="AriseNews.uk" tvg-name="UK: ARISE NEWS ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8189.jpg?59478" group-title="英国频道",ARISE NEWS
+#EXTINF:-1 tvg-id="AriseNews.uk" tvg-name="UK: ARISE NEWS ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/arise-news-uk.png" group-title="英国频道",ARISE NEWS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/483651
-#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK: BLOOMBERG EU ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11569.jpg?14373" group-title="英国频道",BLOOMBERG EU
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK: BLOOMBERG EU ◉" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BloombergTV.png" group-title="英国频道",BLOOMBERG EU
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162146
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: RT UK HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8546.png?40890" group-title="英国频道",RT UK
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: RT UK HD ◉" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="英国频道",RT UK
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162154
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: RT AMERICA HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/427.png?94255" group-title="英国频道",RT AMERICA
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162151
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: UNIVERSAL 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2339.jpg?37675" group-title="英国频道",UNIVERSA
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: UNIVERSAL 4K ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/universal-uk.png" group-title="英国频道",UNIVERSAL
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162263
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: PARAMOUNT HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/766.png?53355" group-title="英国频道",PARAMOUNT
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: PARAMOUNT HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/paramount-network-uk.png" group-title="英国频道",PARAMOUNT NETwORK
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162274
-#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK: COMEDY CENTRAL ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/749.png?81881" group-title="英国频道",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK: COMEDY CENTRAL ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/comedy-central-uk.png" group-title="英国频道",COMEDY CENTRAL
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162277
-#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK: COMEDY CENT XTRA+1 ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/749.png?81881" group-title="英国频道",COMEDY CENT XTRA+1
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK: COMEDY CENT XTRA+1 ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/comedy-central-extra-plus-hz-uk.png" group-title="英国频道",COMEDY CENT XTRA+1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162278
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: CRIME INVESTIGATION 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7953.jpg?81264" group-title="英国频道",CRIME INVESTIGATION
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: CRIME INVESTIGATION 4K ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/crime-and-investigation-uk.png" group-title="英国频道",CRIME INVESTIGATION
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162377
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: CRIME INVESTIGATION +1 ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7953.jpg?81264" group-title="英国频道",UK: CRIME INVESTIGATION +1
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: CRIME INVESTIGATION +1 ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/crime-and-investigation-plus-uk.png" group-title="英国频道",UK: CRIME INVESTIGATION +1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/402156
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: TRAVEL CHANNEL ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12210.jpg?84721" group-title="英国频道",TRAVEL CHANNEL
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162395
-#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="UK: FOOD NETWORK ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6168.png?81098" group-title="英国频道",FOOD NETWORK
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="UK: FOOD NETWORK ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-network-uk.png" group-title="英国频道",FOOD NETWORK
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162159
-#EXTINF:-1 tvg-id="TS" tvg-name="UK: GOOD FOOD 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6168.png?49908" group-title="英国频道",GOOD FOOD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162161
+#EXTINF:-1 tvg-id="TS" tvg-name="UK: TRAVEL CHANNEL ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/travel-channel-uk.png" group-title="英国频道",TRAVEL CHANNEL
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162395
 #EXTINF:-1 tvg-id="俄罗斯金砖中文" tvg-logo="https://epg.112114.xyz/logo/BRICS.png" group-title="俄国频道",俄罗斯金砖中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="RU: RT HD" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/rthd.png" group-title="俄国频道",RUSSIA TODAY
@@ -1447,9 +1441,9 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325829
 https://fantomtv.GQ/F66252/9172822/866075
 #EXTINF:-1 tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="国际新闻",BBC WORLD NEWS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325846
-#EXTINF:-1 tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="国际新闻",BLOOMBERG
+#EXTINF:-1 tvg-name="BloombergTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BloombergTV.png" group-title="国际新闻",BLOOMBERG
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162145
-#EXTINF:-1 tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="国际新闻",BLOOMBERG+
+#EXTINF:-1 tvg-name="BloombergTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BloombergTV.png" group-title="国际新闻",BLOOMBERG+
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/484449
 #EXTINF:-1 tvg-name="CBSNEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" group-title="国际新闻",CBS NEWS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324930
@@ -1471,7 +1465,7 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/436117
 https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FOX9.png
 #EXTINF:-1 tvg-name="france24" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png" group-title="国际新闻",FRANCE24
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/162150
-#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://epg.112114.xyz/logo/GB-NEWS.png" group-title="国际新闻",GB NEWS
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gb-news-uk.png" group-title="国际新闻",GB NEWS
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1 tvg-name="KBSWORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png" group-title="国际新闻",KBS WORLD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/440528
@@ -1565,7 +1559,7 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/437219
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325035
 #EXTINF:-1 tvg-name="US: ESPN CLASSICS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-classic-us.png" group-title="美国体育",ESPN CLASSICS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325050
-#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="US: ESPN NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnnews-us.png" group-title="美国体育",ESPN NEWS
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="US: ESPN NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnews-us.png" group-title="美国体育",ESPN NEWS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325019
 #EXTINF:-1 tvg-id="beINSports.us" tvg-name="US: BEIN SPORTS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-1-hz-int.png" group-title="美国体育",BEIN SPORTS 1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325025
@@ -1603,7 +1597,7 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325898
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325889
 #EXTINF:-1 tvg-name="US: BALLY SPORTS PRIME TICKET HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-us.png" group-title="美国体育",BALLY SPORTS PRIME TICKET
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/430354
-#EXTINF:-1 tvg-name="US: BALLY SPORTS SOCAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-social-us.png" group-title="美国体育",BALLY SPORTS SOCAL
+#EXTINF:-1 tvg-name="US: BALLY SPORTS SOCAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-socal-us.png" group-title="美国体育",BALLY SPORTS SOCAL
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/620070
 #EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US: CBS SPORTS NETWORK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-network-us.png" group-title="美国体育",CBS SPORTS NETWORK
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325023

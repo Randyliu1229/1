@@ -377,9 +377,9 @@ http://www.51romzj.shop:666/xingxing.php?id=now-finance
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now3.png" group-title="港澳频道",NOW直播台
 http://www.51romzj.shop:666/xingxing.php?id=now-direct
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now4.png" group-title="港澳频道",NOW爆谷台
-http://www.51romzj.shop:666/xingxing.php?id=baogu-movies
+https://fantomtv.GQ/F66252/9172822/958132
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/now5.png" group-title="港澳频道",NOW星影台
-http://www.51romzj.shop:666/xingxing.php?id=now-baogu-superstars
+https://fantomtv.GQ/F66252/9172822/958131
 #EXTINF:-1 tvg-id="910952" tvg-name="[HK] NowJelli 紫金国际台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/47/NowJelli_logo.png" group-title="港澳频道",NOWJELLI紫金国际台
 https://fantomtv.GQ/F66252/9172822/910952
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Startv.png" group-title="港澳频道",星空卫视
@@ -409,7 +409,7 @@ https://fantomtv.GQ/F66252/9172822/868085
 #EXTINF:-1 tvg-id="870527" tvg-name="[HK] C18跑马" tvg-logo="https://media.karousell.com/media/photos/products/2020/10/30/_mytv_super_18_12app_1604030523_50244168_progressive.jpg" group-title="港澳频道",C18跑马
 https://fantomtv.GQ/F66252/9172822/870527
 #EXTINF:-1 tvg-id="面包台" tvg-name="面包台" tvg-logo="https://epg.112114.xyz/logo/BREADTV.png" group-title="港澳频道",面包台
-http://www.51romzj.xyz/diyroms/dll/ysp/yes.php?id=mianbaot
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="香港佛陀" tvg-name="香港佛陀" tvg-logo="https://epg.112114.xyz/logo/XGFT.png" group-title="港澳频道",香港佛陀
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 #EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Lotus.png" group-title="港澳频道",澳门莲花卫视
@@ -1712,9 +1712,9 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325906
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324992
 #EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="US: YES NETWORK HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13325.jpg?63201" group-title="美国体育",YES NETWORK
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325036
-#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="SKYGO: SKY SPORTS PREMIER LEAGUE 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12261.png?82015" group-title="欧洲体育",SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="SKYGO: SKY SPORTS PREMIER LEAGUE 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-uk.png" group-title="欧洲体育",SKY SPORTS PREMIER LEAGUE
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494226
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKYGO: SKY SPORTS FOOTBALL 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11978.png?36330" group-title="欧洲体育",SKY SPORTS FOOTBALL
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKYGO: SKY SPORTS FOOTBALL 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-hz-uk.png" group-title="欧洲体育",SKY SPORTS FOOTBALL
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494224
 #EXTINF:-1 tvg-name="4K: SKY SPORT ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6421.jpg?90126" group-title="欧洲体育",SKY SPORT UHD
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/486168
@@ -1858,7 +1858,7 @@ https://fantomtv.GQ/F66252/9172822/958128
 https://fantomtv.GQ/F66252/9172822/958129
 #EXTINF:-1 tvg-id="958130" tvg-name="[HK] myTV SUPER直播足球4台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png" group-title="亚洲体育",MYTV SUPER直播足球-4台
 https://fantomtv.GQ/F66252/9172822/958130
-https://fantomtv.GQ/F66252/9172822/958148#EXTINF:-1 tvg-id="26308" tag-name="[MY] ASTRO ARENA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-arena-my.png" group-title="亚洲体育",ASTRO ARENA
+#EXTINF:-1 tvg-id="26308" tag-name="[MY] ASTRO ARENA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-arena-my.png" group-title="亚洲体育",ASTRO ARENA
 https://fantomtv.GQ/F66252/9172822/26308
 #EXTINF:-1 tvg-id="26306" tvg-name="[MY] Arena 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-arena-2-my.png" group-title="亚洲体育",ASTRO ARENA 2
 https://fantomtv.GQ/F66252/9172822/26306
@@ -1882,11 +1882,11 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/595835
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/595834
 #EXTINF:-1 tvg-id="TS" tvg-name="UK: BEIN SPORTS AU 3 HD ◉" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-3-us.png" group-title="亚洲体育",BEIN SPORTS 3|AU
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/595833
-#EXTINF:-1 tvg-id="26321" tvg-name="[MY] beIN Sports 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_my.png" group-title="亚洲体育",BEIN SPORTS 1|MY
+#EXTINF:-1 tvg-id="26321" tvg-name="[MY] beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" group-title="亚洲体育",BEIN SPORTS 1|MY
 https://fantomtv.GQ/F66252/9172822/26321
-#EXTINF:-1 tvg-id="912557" tvg-name="[MY] beIN Sports 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa.png" group-title="亚洲体育",BEIN SPORTS 2|MY
+#EXTINF:-1 tvg-id="912557" tvg-name="[MY] beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-2-hz-int.png" group-title="亚洲体育",BEIN SPORTS 2|MY
 https://fantomtv.GQ/F66252/9172822/912557
-#EXTINF:-1 tvg-id="26322" tvg-name="[MY] beIN Sports 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa.png" group-title="亚洲体育",BEIN SPORTS 3|MY
+#EXTINF:-1 tvg-id="26322" tvg-name="[MY] beIN Sports 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-3-us.png" group-title="亚洲体育",BEIN SPORTS 3|MY
 https://fantomtv.GQ/F66252/9172822/26322
 #EXTINF:-1 tvg-name="SPORTS: HUB SPORTS 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/hub-sports-1-sg.png" group-title="亚洲体育",HUB SPORTS 1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/444699

@@ -398,9 +398,9 @@ https://fantomtv.GQ/F66252/9172822/492416
 https://fantomtv.GQ/F66252/9172822/910937
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tyjdpd.png" group-title="港澳频道",天映经典频道
 https://fantomtv.GQ/F66252/9172822/945567
-#EXTINF:-1 tvg-id="945566" tvg-name="[HK] Thrill" tvg-logo="https://epg.112114.xyz/logo/Thrill.png" group-title="港澳频道",Thrill
+#EXTINF:-1 tvg-id="945566" tvg-name="[HK] Thrill" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/thrill.png" group-title="港澳频道",Thrill
 https://fantomtv.GQ/F66252/9172822/945566
-#EXTINF:-1 tvg-id="910940" tvg-name="[HK] KIX" tvg-logo="https://epg.112114.xyz/logo/KIX.png" group-title="港澳频道",KIX
+#EXTINF:-1 tvg-id="910940" tvg-name="[HK] KIX" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/KixTV.png" group-title="港澳频道",KIX
 https://fantomtv.GQ/F66252/9172822/910940
 #EXTINF:-1 tvg-id="930001" tvg-name="[HK] 美亚电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/meiyady.png" group-title="港澳频道",美亚电影
 https://fantomtv.GQ/F66252/9172822/930001
@@ -1631,7 +1631,7 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325028
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325027
 #EXTINF:-1 tvg-name="US: BEIN SPORTS 8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-8-hz-int.png" group-title="美国体育",BEIN SPORTS 8
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325026
-#EXTINF:-1 tvg-id="913836" tvg-name="[USA] BEIN SPORTS XTRA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-xtrab-hz-int.png" group-title="美国体育",BEIN SPORTS XTRA
+#EXTINF:-1 tvg-id="913836" tvg-name="[USA] BEIN SPORTS XTRA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-sports-xtra-hz-int.png" group-title="美国体育",BEIN SPORTS XTRA
 https://fantomtv.GQ/F66252/9172822/913836
 #EXTINF:-1 tvg-name="US: TSN SPORT 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7869.jpg?22314" group-title="美国体育",TSN SPORT 1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/498812
@@ -1712,12 +1712,12 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325906
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/324992
 #EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="US: YES NETWORK HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13325.jpg?63201" group-title="美国体育",YES NETWORK
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/325036
+#EXTINF:-1 tvg-name="4K: SKY SPORT ᵁᴴᴰ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png" group-title="欧洲体育",SKY SPORT UHD
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/486168
 #EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="SKYGO: SKY SPORTS PREMIER LEAGUE 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-uk.png" group-title="欧洲体育",SKY SPORTS PREMIER LEAGUE
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494226
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKYGO: SKY SPORTS FOOTBALL 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png" group-title="欧洲体育",SKY SPORTS FOOTBALL
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494224
-#EXTINF:-1 tvg-name="4K: SKY SPORT ᵁᴴᴰ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png" group-title="欧洲体育",SKY SPORT UHD
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/486168
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK: SKY SPORTS NEWS 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="欧洲体育",SKY SPORTS NEWS
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/588037
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="SKYGO: SKY SPORTS ARENA 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-arena-uk.png" group-title="欧洲体育",SKY SPORTS ARENA
@@ -1726,7 +1726,7 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494220
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494211
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SKYGO: SKY SPORTS F1 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="欧洲体育",SKY SPORTS F1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494213
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="SKYGO: SKY SPORTS GOLF 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12243.jpg?43300" group-title="欧洲体育",SKY SPORTS GOLF
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="SKYGO: SKY SPORTS GOLF 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="欧洲体育",SKY SPORTS GOLF
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494215
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SKYGO: SKY SPORTS MAIN EVENT 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png" group-title="欧洲体育",SKY SPORTS MAIN EVENT
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494228
@@ -1742,37 +1742,37 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/588048
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/588047
 #EXTINF:-1 tvg-id="beINSports4K.qa" tvg-name="4K: beIN ᵁᴴᴰ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/beinsports/old/horizontal/bein-4k-hz-int.png" group-title="欧洲体育",BEIN SPORTS 4K
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/483975
-#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="SKYGO: EUROSPORT 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/615.jpg?37956" group-title="欧洲体育",EUROSPORT 1
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="SKYGO: EUROSPORT 1 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" group-title="欧洲体育",EUROSPORT 1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494199
-#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="SKYGO: EUROSPORT 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1423.png?55167" group-title="欧洲体育",EUROSPORT 2
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="SKYGO: EUROSPORT 2 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" group-title="欧洲体育",EUROSPORT 2
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494198
-#EXTINF:-1 tvg-id="PremierSports1.ph" tvg-name="SKYGO: PREMIER SPORTS 1 4K 50 FPS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12272.jpg?46362" group-title="欧洲体育",PREMIER SPORTS 1
+#EXTINF:-1 tvg-id="PremierSports1.ph" tvg-name="SKYGO: PREMIER SPORTS 1 4K 50 FPS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/premier-sports-1-hd-uk.png" group-title="欧洲体育",PREMIER SPORTS 1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494209
-#EXTINF:-1 tvg-id="PremierSports2.ph" tvg-name="SKYGO: PREMIER SPORTS 2 4K 50 FPS" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12273.jpg?6702" group-title="欧洲体育",PREMIER SPORTS 2
+#EXTINF:-1 tvg-id="PremierSports2.ph" tvg-name="SKYGO: PREMIER SPORTS 2 4K 50 FPS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/premier-sports-2-hd-uk.png" group-title="欧洲体育",PREMIER SPORTS 2
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494207
-#EXTINF:-1 tvg-name="4K: PROSIEBENSAT.1 4KWORLD OF ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6506.jpg?10816" group-title="欧洲体育",PROSIEBENSAT 1
+#EXTINF:-1 tvg-name="4K: PROSIEBENSAT.1 4KWORLD OF ᵁᴴᴰ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hd/prosiebensat1-uhd-de.png" group-title="欧洲体育",PROSIEBENSAT 1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/486173
-#EXTINF:-1 tvg-name="UK: TNT SPORT ULTIMATE ᵁᴴᴰ 2160P (PPV ONLY)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1070.png?39337" group-title="欧洲体育",TNT SPORT ULTIMATE
+#EXTINF:-1 tvg-name="UK: TNT SPORT ULTIMATE ᵁᴴᴰ 2160P (PPV ONLY)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" group-title="欧洲体育",TNT SPORT ULTIMATE
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/632426
-#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="UK: TNT SPORTS 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1070.png?26350" group-title="欧洲体育",TNT SPORTS 1
+#EXTINF:-1 tvg-id="TNTSport1.uk" tvg-name="UK: TNT SPORTS 1 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="欧洲体育",TNT SPORTS 1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/588012
-#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="UK: TNT SPORTS 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6400.jpg?56165" group-title="欧洲体育",TNT SPORTS 2
+#EXTINF:-1 tvg-id="TNTSport2.uk" tvg-name="UK: TNT SPORTS 2 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="欧洲体育",TNT SPORTS 2
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/588011
-#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="UK: TNT SPORTS 3 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6123.png?60852" group-title="欧洲体育",TNT SPORTS 3
+#EXTINF:-1 tvg-id="TNTSport3.uk" tvg-name="UK: TNT SPORTS 3 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="欧洲体育",TNT SPORTS 3
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/588010
-#EXTINF:-1 tvg-id="TNTSport4.uk" tvg-name="UK: TNT SPORTS 4 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6398.png?48832" group-title="欧洲体育",TNT SPORTS 4
+#EXTINF:-1 tvg-id="TNTSport4.uk" tvg-name="UK: TNT SPORTS 4 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="欧洲体育",TNT SPORTS 4
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/588009
-#EXTINF:-1 tvg-id="932578" tvg-name="[DSTV] SUPERSPORT FOOTBALL " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="欧洲体育",SUPERSPORT FOOTBALL 
+#EXTINF:-1 tvg-id="932578" tvg-name="[DSTV] SUPERSPORT FOOTBALL " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/supersport-football-za.png" group-title="欧洲体育",SUPERSPORT FOOTBALL 
 https://fantomtv.GQ/F66252/9172822/932578
-#EXTINF:-1 tvg-id="932584" tvg-name="[DSTV] SUPERSPORT PREMIER LEAGUE " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="欧洲体育",SUPERSPORT PREMIER LEAGUE 
+#EXTINF:-1 tvg-id="932584" tvg-name="[DSTV] SUPERSPORT PREMIER LEAGUE " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/supersport-premier-league-za.png" group-title="欧洲体育",SUPERSPORT PREMIER LEAGUE 
 https://fantomtv.GQ/F66252/9172822/932584
-#EXTINF:-1 tvg-id="932581" tvg-name="[DSTV] SUPERSPORT LALIGA " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="欧洲体育",SUPERSPORT LALIGA 
+#EXTINF:-1 tvg-id="932581" tvg-name="[DSTV] SUPERSPORT LALIGA " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/supersport-laliga-za.png" group-title="欧洲体育",SUPERSPORT LALIGA 
 https://fantomtv.GQ/F66252/9172822/932581
-#EXTINF:-1 tvg-id="VSportUltraHD.no" tvg-name="4K: V SPORT ULTRA ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12976.jpg?20070" group-title="欧洲体育",V SPORT ULTRA
+#EXTINF:-1 tvg-id="VSportUltraHD.no" tvg-name="4K: V SPORT ULTRA ᵁᴴᴰ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/v-sport-ultrahd-se.png" group-title="欧洲体育",V SPORT ULTRA
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/483974
-#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK: VIAPLAY 1 HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12878.png?50188" group-title="欧洲体育",VIAPLAY 1
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK: VIAPLAY 1 HEVC 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-sports-1-hz-uk.png" group-title="欧洲体育",VIAPLAY 1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621624
-#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK: VIAPLAY 2 HEVC 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12878.png?50188" group-title="欧洲体育",VIAPLAY 2
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK: VIAPLAY 2 HEVC 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-sports-2-hz-uk.png" group-title="欧洲体育",VIAPLAY 2
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621623
 #EXTINF:-1 tvg-name="4K: YES SPORT 5 ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12426.png?39125" group-title="欧洲体育",YES SPORT 5
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/483972

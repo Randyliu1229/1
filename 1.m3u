@@ -922,9 +922,9 @@ https://fantomtv.GQ/F66252/9172822/15412
 https://fantomtv.GQ/F66252/9172822/948859
 #EXTINF:-1 tvg-id="948856" tvg-name="[JP] BSアニマックス" tvg-logo="https://raw.githubusercontent.com/wanglindl/logo/main/img/Animax.png" group-title="日韩频道",BSアニマックス
 https://fantomtv.GQ/F66252/9172822/948856
-#EXTINF:-1 tvg-name="BS日テレ" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/bs-nippon-tv.png" group-title="日韩频道",BS日テレ
+#EXTINF:-1 tvg-name="BS日テレ" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/logo/main/img/bs-nippon-tv.png" group-title="日韩频道",BS日テレ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
-#EXTINF:-1 tvg-name="BSテレビ東京" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/bs-tv-tokyo.png" group-title="日韩频道",BSテレビ東京
+#EXTINF:-1 tvg-name="BSテレビ東京" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/logo/main/img/bs-tv-tokyo.png" group-title="日韩频道",BSテレビ東京
 https://fantomtv.GQ/F66252/9172822/15420
 #EXTINF:-1 tvg-id="895606" tvg-name="[JP] BS Asahi" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/logo/main/img/bs-asahi.png" group-title="日韩频道",BS朝日
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
@@ -934,7 +934,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
 #EXTINF:-1 tvg-name="bs tv tokyo" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513161218702110_33.jpg" group-title="日韩频道",TV TOKYO
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-#EXTINF:-1 tvg-name="テレビ朝日" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/tv-asahi.png" group-title="日韩频道",TV ASAHI
+#EXTINF:-1 tvg-name="テレビ朝日" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/logo/main/img/tv-asahi.png" group-title="日韩频道",TV ASAHI
 https://fantomtv.GQ/F66252/9172822/948848
 #EXTINF:-1 tvg-id="948858" tvg-name="[JP] LaLaTV" tvg-logo="https://www.lala.tv/assets/images/common/ogp.jpg" group-title="日韩频道",LALATV
 https://fantomtv.GQ/F66252/9172822/948858

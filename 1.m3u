@@ -616,7 +616,7 @@ http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1071.ts
 http://www.51romzj.shop:666/xingxing.php?id=zl-sports
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ssydX.png" group-title="台湾频道",时尚运动X
 https://fantomtv.GQ/F66252/9172822/948089
-#EXTINF:-1 tvg-id="-1" tvg-name="Line Today NBA" tvg-logo="https://media.suara.com/pictures/653x366/2021/09/03/23832-line-today.jpg" group-title="台湾频道",LINE TODAY NBA
+#EXTINF:-1 tvg-id="-1" tvg-name="Line Today NBA" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/line-today.png" group-title="台湾频道",LINE TODAY NBA
 https://fake-stream.livednow.com/line_today/videolandsports?token=fe44a6f50b373603e7ade66f751d2a37&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
 #EXTINF:-1 tvg-id="14085" tvg-name="TraceSports" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="台湾频道",TRACE SPORT STARS
 https://fake-stream.livednow.com/4gtv/57?token=b3f41f4e89cfcabb62311ea3b7851e8c&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
@@ -794,9 +794,9 @@ https://fake-stream.livednow.com/4gtv/213?token=c430feb88a943497c542aaeb2c983b13
 https://fake-stream.livednow.com/4gtv/181?token=8a739a33a5446128e2e2ce2cdfb32e99&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
 #EXTINF:-1 tvg-id="11158" tvg-name="TV5MONDE STYLE HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TV5MondeStyle.png" group-title="台湾频道",TV5MONDE STYLE
 https://fake-stream.livednow.com/4gtv/178?token=831209a83263863fbb6d0d00598abf8f&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
-#EXTINF:-1 tvg-id="10915" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="台湾频道",国会频道1
+#EXTINF:-1 tvg-id="10915" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="台湾频道",国会频道-1
 https://fake-stream.livednow.com/4gtv/170?token=a5844edec415c58731d6cc04f3dff3b8&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
-#EXTINF:-1 tvg-id="10919" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="台湾频道",国会频道2
+#EXTINF:-1 tvg-id="10919" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="台湾频道",国会频道-2
 https://fake-stream.livednow.com/4gtv/171?token=05865b7d67807cf0ac292e13bf8e78ef&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
 #EXTINF:-1 tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="台湾频道",大爱-1
 https://fantomtv.GQ/F66252/9172822/515172
@@ -886,15 +886,15 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="877531" tvg-name="[KR] EBS Plus 2" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="日韩频道",EBS PLUS 2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="901263" tvg-name="[KR]JTBC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtbc_kr.png" group-title="日韩频道",JTBC
+#EXTINF:-1 tvg-id="901263" tvg-name="[KR]JTBC" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/jtbc.png" group-title="日韩频道",JTBC
 https://fantomtv.GQ/F66252/9172822/901263
-#EXTINF:-1 tvg-id="900985" tvg-name="[KR] MBC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mbc-kr.png" group-title="日韩频道",MBC
+#EXTINF:-1 tvg-id="900985" tvg-name="[KR] MBC" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/mbc-kr.png" group-title="日韩频道",MBC
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCEvery1.kr" tvg-logo="https://i.imgur.com/cnawqOu.png" group-title="日韩频道",MBC EVERY 1
 https://ythls.armelin.one/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
-#EXTINF:-1 tvg-name="SBS" tvg-logo="https://epg.pw/media/images/channel/2017/02/26/large/20170226224927742122_12.jpg" group-title="日韩频道",SBS
+#EXTINF:-1 tvg-name="SBS" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/sbs-kr.png" group-title="日韩频道",SBS
 https://fantomtv.GQ/F66252/9172822/901232
-#EXTINF:-1 tvg-id="SBSNews.kr" tvg-logo="https://i.imgur.com/VY6uEE9.png" group-title="日韩频道",SBS NEWS
+#EXTINF:-1 tvg-id="SBSNews.kr" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/sbs-news.png" group-title="日韩频道",SBS NEWS
 https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
 #EXTINF:-1 tvg-id="HLDHDTV.kr" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="日韩频道",SBS KBC
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
@@ -908,49 +908,43 @@ https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 https://ythls.armelin.one/channel/UC38IlqMxZ_YtFg3eSGmmJnQ.m3u8
 #EXTINF:-1 tvg-id="KTV.kr" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="日韩频道",KOREA TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/KCTV.png" group-title="日韩频道",KCTV朝鲜中央台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/KCTV.png" group-title="日韩频道",KCTV朝鲜中央台
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="日韩频道",NHK WORLD JAPAN
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/628432
 #EXTINF:-1 tvg-id="15410" tvg-name="[JP] NHK 华语视界" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0a/NHK_Huayu_Shijie_Logo.jpg/512px-NHK_Huayu_Shijie_Logo.jpg" group-title="日韩频道",NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-name="NHK BS1" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513155023988525_66.jpg" group-title="日韩频道",NHK BS1
+#EXTINF:-1 tvg-name="NHK BS1" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/nhk-bs1.png" group-title="日韩频道",NHK BS1
 https://fantomtv.GQ/F66252/9172822/895603
-#EXTINF:-1 tvg-id="15412" tvg-name="[JP] NHK総合" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhk-general-tv-jp.png" group-title="日韩频道",NHK総合
+#EXTINF:-1 tvg-id="15412" tvg-name="[JP] NHK総合" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/nhk-g.png" group-title="日韩频道",NHK総合
 https://fantomtv.GQ/F66252/9172822/15412
-#EXTINF:-1 tvg-id="948859" tvg-name="[JP] NHK教育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png/800px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="日韩频道",NHK教育
+#EXTINF:-1 tvg-id="948859" tvg-name="[JP] NHK教育" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/nhk-e.png" group-title="日韩频道",NHK教育
 https://fantomtv.GQ/F66252/9172822/948859
-#EXTINF:-1 tvg-id="948856" tvg-name="[JP] BSアニマックス" tvg-logo="https://www.animax.co.jp/assets/img/common/ogp.png" group-title="日韩频道",BSアニマックス
+#EXTINF:-1 tvg-id="948856" tvg-name="[JP] BSアニマックス" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png" group-title="日韩频道",BSアニマックス
 https://fantomtv.GQ/F66252/9172822/948856
-#EXTINF:-1 tvg-name="テレビ朝日" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021021780762_53.png" group-title="日韩频道",テレビ朝日
-https://fantomtv.GQ/F66252/9172822/948848
-#EXTINF:-1 tvg-name="BS日テレ" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154330300975_32.jpg" group-title="日韩频道",BS日テレ
-https://fantomtv.GQ/F66252/9172822/15421
-#EXTINF:-1 tvg-name="BSテレビ東京" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021100323506_16.png" group-title="日韩频道",BSテレビ東京
-https://fantomtv.GQ/F66252/9172822/15420
-#EXTINF:-1 tvg-name="BS朝日" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154749296470_94.jpg" group-title="日韩频道",BS朝日
-https://epg.pw/stream/ef54ab9bb6cc2b57d918c7caec5a0d7b24b2dba3461290b5261ea5dc82783287.m3u8
-#EXTINF:-1 tvg-name="Nippon TV" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513160826666905_86.jpg" group-title="日韩频道",BS NIPPON TV
+#EXTINF:-1 tvg-name="BS日テレ" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/bs-nippon-tv.png" group-title="日韩频道",BS日テレ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
-#EXTINF:-1 tvg-name="bs tv tokyo" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513161218702110_33.jpg" group-title="日韩频道",BS TOKYO
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-#EXTINF:-1 tvg-id="895606" tvg-name="[JP] BS Asahi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs_asahi.png" group-title="日韩频道",BS ASAHI
+#EXTINF:-1 tvg-name="BSテレビ東京" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/bs-tv-tokyo.png" group-title="日韩频道",BSテレビ東京
+https://fantomtv.GQ/F66252/9172822/15420
+#EXTINF:-1 tvg-id="895606" tvg-name="[JP] BS Asahi" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/bs-asahi.png" group-title="日韩频道",BS朝日
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
 #EXTINF:-1 tvg-name="FUJI TV" tvg-logo="https://epg.pw/media/images/channel/2023/05/25/large/20230525152207961164_64.png" group-title="日韩频道",BS FUJI
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
-#EXTINF:-1 tvg-id="895607" tvg-name="[JP] BS-TBS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tbs-jp.png" group-title="日韩频道",BS TBS
+#EXTINF:-1 tvg-id="895607" tvg-name="[JP] BS-TBS" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/bs-tbs.png" group-title="日韩频道",BS TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
-#EXTINF:-1 tvg-id="948857" tvg-name="[JP] GAORA" tvg-logo="https://www.gaora.co.jp/common/img/thumb_fb.png" group-title="日韩频道",GAORA
-https://fantomtv.GQ/F66252/9172822/948857
+#EXTINF:-1 tvg-name="bs tv tokyo" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513161218702110_33.jpg" group-title="日韩频道",TV TOKYO
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+#EXTINF:-1 tvg-name="テレビ朝日" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/tv-asahi.png" group-title="日韩频道",TV ASAHI
+https://fantomtv.GQ/F66252/9172822/948848
 #EXTINF:-1 tvg-id="948858" tvg-name="[JP] LaLaTV" tvg-logo="https://www.lala.tv/assets/images/common/ogp.jpg" group-title="日韩频道",LALATV
 https://fantomtv.GQ/F66252/9172822/948858
-#EXTINF:-1 tvg-id="227390" tvg-name="[JP]wowo1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png" group-title="日韩频道",WOWO 1
+#EXTINF:-1 tvg-id="227390" tvg-name="[JP]wowo1" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/wowow.png" group-title="日韩频道",WOWO 1
 https://fantomtv.GQ/F66252/9172822/227390
-#EXTINF:-1 tvg-id="948860" tvg-name="[JP] WOWOWシネマ" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png" group-title="日韩频道",WOWOWシネマ
+#EXTINF:-1 tvg-id="948860" tvg-name="[JP] WOWOWシネマ" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/wowow.png" group-title="日韩频道",WOWOWシネマ
 https://fantomtv.GQ/F66252/9172822/948860
-#EXTINF:-1 tvg-id="948861" tvg-name="[JP] WOWOWプライム" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png" group-title="日韩频道",WOWOWプライム
+#EXTINF:-1 tvg-id="948861" tvg-name="[JP] WOWOWプライム" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/wowow.png" group-title="日韩频道",WOWOWプライム
 https://fantomtv.GQ/F66252/9172822/948861
-#EXTINF:-1 tvg-id="948863" tvg-name="[JP] WOWOWライブ" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_live.png" group-title="日韩频道",WOWOWライブ
+#EXTINF:-1 tvg-id="948863" tvg-name="[JP] WOWOWライブ" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/wowow.png" group-title="日韩频道",WOWOWライブ
 https://fantomtv.GQ/F66252/9172822/948863
 #EXTINF:-1 tvg-id="948864" tvg-name="[JP] キッズステーション" tvg-logo="https://pbs.twimg.com/profile_images/1265192455973961729/hjdD6xbL_400x400.jpg" group-title="日韩频道",キッズステーション
 https://fantomtv.GQ/F66252/9172822/948864
@@ -992,13 +986,15 @@ https://fantomtv.GQ/F66252/9172822/948868
 https://fantomtv.GQ/F66252/9172822/948869
 #EXTINF:-1 tvg-id="948870" tvg-name="[JP] スターチャンネル3" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-202-400x400.png" group-title="日韩频道",スターチャンネル3
 https://fantomtv.GQ/F66252/9172822/948870
-#EXTINF:-1 tvg-id="948838" tvg-name="[JP] J Sports 1" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/757.png" group-title="日韩频道",J SPORTS 1
+#EXTINF:-1 tvg-id="948857" tvg-name="[JP] GAORA" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/gaora-sports.png" group-title="日韩频道",GAORA SPORTS
+https://fantomtv.GQ/F66252/9172822/948857
+#EXTINF:-1 tvg-id="948838" tvg-name="[JP] J Sports 1" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/j-sports.png" group-title="日韩频道",J SPORTS 1
 https://fantomtv.GQ/F66252/9172822/948838
-#EXTINF:-1 tvg-id="948839" tvg-name="[JP] J Sports 2" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/758.png" group-title="日韩频道",J SPORTS 2
+#EXTINF:-1 tvg-id="948839" tvg-name="[JP] J Sports 2" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/j-sports.png" group-title="日韩频道",J SPORTS 2
 https://fantomtv.GQ/F66252/9172822/948839
-#EXTINF:-1 tvg-id="948840" tvg-name="[JP] J Sports 3" tvg-logo="https://www.ccn-catv.co.jp/service/tv/img/logo/jsports-3.png" group-title="日韩频道",J SPORTS 3
+#EXTINF:-1 tvg-id="948840" tvg-name="[JP] J Sports 3" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/j-sports.png" group-title="日韩频道",J SPORTS 3
 https://fantomtv.GQ/F66252/9172822/948840
-#EXTINF:-1 tvg-id="948841" tvg-name="[JP] J Sports 4" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-132-400x400.png" group-title="日韩频道",J SPORTS 4
+#EXTINF:-1 tvg-id="948841" tvg-name="[JP] J Sports 4" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/j-sports.png" group-title="日韩频道",J SPORTS 4
 https://fantomtv.GQ/F66252/9172822/948841
 #EXTINF:-1 tvg-id="895610" tvg-name="[JP] Golf Network" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png" group-title="日韩频道",GOLF NETWORK
 https://fantomtv.GQ/F66252/9172822/895610
@@ -1020,7 +1016,7 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494895
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494897
 #EXTINF:-1 tvg-name="SG: LIVE 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/live-2-sg.png" group-title="新马频道",LIVE 2
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494898
-#EXTINF:-1 tvg-name="SG: LIVE+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/live-plus-1-sg.png" group-title="新马频道",LIVE+
+#EXTINF:-1 tvg-name="SG: LIVE+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/live-plus-1-sg.png" group-title="新马频道",LIVE +
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/494900
 #EXTINF:-1 tvg-id="933048" tvg-name="[SG] ANIMAX" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png" group-title="新马频道",ANIMAX
 https://fantomtv.GQ/F66252/9172822/933048
@@ -1873,7 +1869,7 @@ https://fantomtv.GQ/F66252/9172822/910889
 https://fantomtv.GQ/F66252/9172822/910890
 #EXTINF:-1 tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="亚洲体育",智林体育台
 http://www.51romzj.shop:666/xingxing.php?id=zl-sports
-#EXTINF:-1 tvg-id="-1" tvg-name="Line Today NBA" tvg-logo="https://media.suara.com/pictures/653x366/2021/09/03/23832-line-today.jpg" group-title="亚洲体育",LINE TODAY NBA
+#EXTINF:-1 tvg-id="-1" tvg-name="Line Today NBA" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/TVlogo/main/img/line-today.png" group-title="亚洲体育",LINE TODAY NBA
 https://fake-stream.livednow.com/line_today/videolandsports?token=fe44a6f50b373603e7ade66f751d2a37&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",漫威影院
 http://epg.112114.xyz/douyu/6140589

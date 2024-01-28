@@ -982,7 +982,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 https://fantomtv.GQ/F66252/9172822/948856
 #EXTINF:-1 tvg-id="CartoonNetwork.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="日韩频道",CARTOON NETWORK JAPAN
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-logo="https://i.imgur.com/VSq7b5E.jpg" group-title="日韩频道",DISNEY JAPAN
+#EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Disney.png" group-title="日韩频道",DISNEY JAPAN
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://i.imgur.com/pb94kIk.png" group-title="日韩频道",KIDS STATION
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
@@ -1882,12 +1882,16 @@ http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/620780
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/620779
 #EXTINF:-1 tvg-name="HUB PREMIER 9 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/hub-premier-9-sg.png" group-title="亚洲体育",HUB PREMIER 9
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/620778
-#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-name="SPO: Dubai Sport 1 4K" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/logo/main/img/dubai-sports.png" group-title="亚洲体育",DUBAI SPORT 1
+#EXTINF:-1 tvg-name="HUB PREMIER 10 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/hub-premier-10-sg.png" group-title="亚洲体育",HUB PREMIER 10 4K
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/620777
+#EXTINF:-1 tvg-name="HUB PREMIER 11 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/singapore/hub-premier-11-sg.png" group-title="亚洲体育",HUB PREMIER 11 4K
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/620776
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-name="SPO: Dubai Sport 1 4K" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="亚洲体育",DUBAI SPORT 1
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/3109
-#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-name="SPO: Dubai Sport 2 4K" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/logo/main/img/dubai-sports.png" group-title="亚洲体育",DUBAI SPORT 2
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/4187
-#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-name="SPO: Dubai Sport 3" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/logo/main/img/dubai-sports.png" group-title="亚洲体育",DUBAI SPORT 3
-http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/8263
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-name="SPO: Dubai Sport 2 4K" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="亚洲体育",DUBAI SPORT 2
+https://fantomtv.GQ/F66252/9172822/623472
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-name="SPO: Dubai Sport 3" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="亚洲体育",DUBAI SPORT 3
+https://fantomtv.GQ/F66252/9172822/623473
 #EXTINF:-1 tvg-id="JSPORTS1.jp" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="亚洲体育",J SPORTS 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 #EXTINF:-1 tvg-id="JSPORTS2.jp" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="亚洲体育",J SPORTS 2
@@ -1926,6 +1930,126 @@ https://fantomtv.GQ/F66252/9172822/910890
 http://www.51romzj.shop:666/xingxing.php?id=zl-sports
 #EXTINF:-1 tvg-id="-1" tvg-name="Line Today NBA" tvg-logo="https://raw.githubusercontent.com/Randyliu1229/logo/main/img/line-today.png" group-title="亚洲体育",LINE TODAY NBA
 https://fake-stream.livednow.com/line_today/videolandsports?token=fe44a6f50b373603e7ade66f751d2a37&user_id=5743172889&user_token=f6c89810c1ab66480dc494dc886a9ea1
+#EXTINF:-1 tvg-name="NBA: LEAGUE PASS 1 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: LEAGUE PASS 1
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633387
+#EXTINF:-1 tvg-name="NBA: LEAGUE PASS 2 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: LEAGUE PASS 2
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633386
+#EXTINF:-1 tvg-name="NBA: LEAGUE PASS 3 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: LEAGUE PASS 3
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633385
+#EXTINF:-1 tvg-name="NBA: LEAGUE PASS 4 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: LEAGUE PASS 4
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633384
+#EXTINF:-1 tvg-name="NBA: LEAGUE PASS 5 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: LEAGUE PASS 5
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633383
+#EXTINF:-1 tvg-name="NBA: LEAGUE PASS 6 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: LEAGUE PASS 6
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633382
+#EXTINF:-1 tvg-name="NBA: LEAGUE PASS 7 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: LEAGUE PASS 7
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633381
+#EXTINF:-1 tvg-name="NBA: LEAGUE PASS 8 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: LEAGUE PASS 8
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633380
+#EXTINF:-1 tvg-name="NBA: LEAGUE PASS 9 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: LEAGUE PASS 9
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633379
+#EXTINF:-1 tvg-name="NBA: LEAGUE PASS 10 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: LEAGUE PASS 10
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633378
+#EXTINF:-1 tvg-name="NBA: ATLANTA HAWKS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: ATLANTA HAWKS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633411
+#EXTINF:-1 tvg-name="NBA: BOSTON CELTICS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: BOSTON CELTICS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633409
+#EXTINF:-1 tvg-name="NBA: BROOKLYN NETS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: BROOKLYN NETS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633407
+#EXTINF:-1 tvg-name="NBA: CHARLOTTE HORNETS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: CHARLOTTE HORNETS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633405
+#EXTINF:-1 tvg-name="NBA: CHICAGO BULLS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: CHICAGO BULLS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633403
+#EXTINF:-1 tvg-name="NBA: CLEVELAND CAVALIERS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: CLEVELAND CAVALIERS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633401
+#EXTINF:-1 tvg-name="NBA: DALLAS MAVERICKS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: DALLAS MAVERICKS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633399
+#EXTINF:-1 tvg-name="NBA: DENVER NUGGETS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: DENVER NUGGETS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633397
+#EXTINF:-1 tvg-name="NBA: DETROIT PISTONS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: DETROIT PISTONS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633395
+#EXTINF:-1 tvg-name="NBA: GOLDEN STATE WARRIORS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: GOLDEN STATE WARRIORS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633393
+#EXTINF:-1 tvg-name="NBA: HOUSTON ROCKETS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: HOUSTON ROCKETS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633391
+#EXTINF:-1 tvg-name="NBA: INDIANA PACERS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: INDIANA PACERS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633389
+#EXTINF:-1 tvg-name="NBA: LOS ANGELES CLIPPERS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: LOS ANGELES CLIPPERS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633377
+#EXTINF:-1 tvg-name="NBA: LOS ANGELES LAKERS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: LOS ANGELES LAKERS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633375
+#EXTINF:-1 tvg-name="NBA: MEMPHIS GRIZZLIES ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: MEMPHIS GRIZZLIES
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633373
+#EXTINF:-1 tvg-name="NBA: MIAMI HEAT ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: MIAMI HEAT
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633371
+#EXTINF:-1 tvg-name="NBA: MILWAUKEE BUCKS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: MILWAUKEE BUCKS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633369
+#EXTINF:-1 tvg-name="NBA: MINNESOTA TIMBERWOLVES ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: MINNESOTA TIMBERWOLVES
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633367
+#EXTINF:-1 tvg-name="NBA: NEW ORLEANS PELICANS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: NEW ORLEANS PELICANS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633365
+#EXTINF:-1 tvg-name="NBA: NEW YORK KNICKS (NYK) ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: NEW YORK KNICKS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633363
+#EXTINF:-1 tvg-name="NBA: OKLAHOMA CITY THUNDER ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: OKLAHOMA CITY THUNDER
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633361
+#EXTINF:-1 tvg-name="NBA: ORLANDO MAGIC ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: ORLANDO MAGIC
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633359
+#EXTINF:-1 tvg-name="NBA: PHILADELPHIA 76ERS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: PHILADELPHIA 76ERS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633357
+#EXTINF:-1 tvg-name="NBA: PHOENIX SUNS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: PHOENIX SUNS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633355
+#EXTINF:-1 tvg-name="NBA: PORTLAND TRAIL BLAZERS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: PORTLAND TRAIL BLAZERS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633353
+#EXTINF:-1 tvg-name="NBA: SACRAMENTO KINGS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: SACRAMENTO KINGS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633351
+#EXTINF:-1 tvg-name="NBA: SAN ANTONIO SPURS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: SAN ANTONIO SPURS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633349
+#EXTINF:-1 tvg-name="NBA: TORONTO RAPTORS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: TORONTO RAPTORS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633347
+#EXTINF:-1 tvg-name="NBA: UTAH JAZZ ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: UTAH JAZZ
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633345
+#EXTINF:-1 tvg-name="NBA: WASHINGTON WIZARDS ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13734.png?ver=55075" group-title="篮球直播",NBA: WASHINGTON WIZARDS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/633343
+#EXTINF:-1 tvg-name="UK: SERIE A - JUVENTUS 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - JUVENTUS
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621428
+#EXTINF:-1 tvg-name="UK: SERIE A - INTER MILAN 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - INTER MILAN
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621427
+#EXTINF:-1 tvg-name="UK: SERIE A - AC MILAN 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - AC MILAN
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621426
+#EXTINF:-1 tvg-name="UK: SERIE A - ROMA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - ROMA
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621425
+#EXTINF:-1 tvg-name="UK: SERIE A - NAPOLI 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - NAPOLI
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621424
+#EXTINF:-1 tvg-name="UK: SERIE A - ATALANTA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - ATALANTA
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621423
+#EXTINF:-1 tvg-name="UK: SERIE A - VERONA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - VERONA
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621422
+#EXTINF:-1 tvg-name="UK: SERIE A - UDINESE 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - UDINESE
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621421
+#EXTINF:-1 tvg-name="UK: SERIE A - TORINO 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - TORINO
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621420
+#EXTINF:-1 tvg-name="UK: SERIE A - SALERNITANA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - SALERNITANA
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621419
+#EXTINF:-1 tvg-name="UK: SERIE A - SASSUOLO 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - SASSUOLO
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621418
+#EXTINF:-1 tvg-name="UK: SERIE A - MONZA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - MONZA
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621417
+#EXTINF:-1 tvg-name="UK: SERIE A - LECCE 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - LECCE
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621416
+#EXTINF:-1 tvg-name="UK: SERIE A - LAZIO 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - LAZIO
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621415
+#EXTINF:-1 tvg-name="UK: SERIE A - GENOA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - GENOA
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621414
+#EXTINF:-1 tvg-name="UK: SERIE A - FROSINONE 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - FROSINONE
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621413
+#EXTINF:-1 tvg-name="UK: SERIE A - FIORENTINA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - FIORENTINA
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621412
+#EXTINF:-1 tvg-name="UK: SERIE A - EMPOLI 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - EMPOLI
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621411
+#EXTINF:-1 tvg-name="UK: SERIE A - CAGLIARI 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - CAGLIARI
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621410
+#EXTINF:-1 tvg-name="UK: SERIE A - BOLOGNA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13351.png?ver=68006" group-title="意甲直播",SERIE A - BOLOGNA
+http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/621409
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",漫威影院
 http://epg.112114.xyz/douyu/6140589
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K.png" group-title="轮播频道",霍格沃茨影片

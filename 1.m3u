@@ -332,11 +332,11 @@ https://fantomtv.GQ/F66252/9172822/492399
 https://fantomtv.GQ/F66252/9172822/492400
 #EXTINF:-1 tvg-id="凤凰美洲" tvg-name="凤凰美洲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="港澳频道",凤凰美洲台
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/588121
-#EXTINF:-1 tvg-name="126" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",翡翠台
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳频道",翡翠台
 https://fantomtv.GQ/F66252/9172822/492383
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/TVB2.png" group-title="港澳频道",明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/TVB2.png" group-title="港澳频道",明珠台
 https://fantomtv.GQ/F66252/9172822/492386
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳频道",J2
+#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳频道",J2
 https://fantomtv.GQ/F66252/9172822/910934
 #EXTINF:-1 tvg-id="无线星河" tvg-name="无线星河" tvg-logo="https://epg.112114.xyz/logo/TVB6.png" group-title="港澳频道",无线星河台
 https://fantomtv.GQ/F66252/9172822/492384
@@ -430,25 +430,27 @@ https://fantomtv.GQ/F66252/9172822/492412
 https://fantomtv.GQ/F66252/9172822/492413
 #EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi6.png" group-title="港澳频道",澳视MACAU
 https://fantomtv.GQ/F66252/9172822/492410
-#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" group-title="台湾频道",东森新闻
+#EXTINF:-1 tvg-id="东森综合台" tvg-name="东森新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC1.png" group-title="台湾频道",东森综合
+https://fantomtv.GQ/F66252/9172822/870545
+#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" group-title="台湾频道",东森新闻
 https://fantomtv.GQ/F66252/9172822/870544
-#EXTINF:-1 tvg-id="14277" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC7.png" group-title="台湾频道",东森财经新闻
+#EXTINF:-1 tvg-id="东森财经新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC7.png" group-title="台湾频道",东森财经新闻
 https://fantomtv.GQ/F66252/9172822/515196
 #EXTINF:-1 tvg-name="东森卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC9.png" group-title="台湾频道",东森卫视
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/623326
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="台湾频道",东森超视
 http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
-#EXTINF:-1 tvg-id="105301" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC5.png" group-title="台湾频道",东森戏剧
+#EXTINF:-1 tvg-id="东森戏剧台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC5.png" group-title="台湾频道",东森戏剧
 https://fantomtv.GQ/F66252/9172822/684837
-#EXTINF:-1 tvg-id="105225" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC3.png" group-title="台湾频道",东森电影
+#EXTINF:-1 tvg-id="东森电影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC3.png" group-title="台湾频道",东森电影
 https://fantomtv.GQ/F66252/9172822/870557
-#EXTINF:-1 tvg-id="105254" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC4.png" group-title="台湾频道",东森洋片
+#EXTINF:-1 tvg-id="东森洋片台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC4.png" group-title="台湾频道",东森洋片
 https://fantomtv.GQ/F66252/9172822/870558
-#EXTINF:-1 tvg-id="14038" tvg-name="东森亚洲卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC8.png" group-title="台湾频道",东森亚洲
+#EXTINF:-1 tvg-id="东森亚洲卫视" tvg-name="东森亚洲卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC8.png" group-title="台湾频道",东森亚洲
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/623326
-#EXTINF:-1 tvg-name="东森美洲" tvg-logo="https://epg.112114.xyz/logo/DONGSENAMERICA.png" group-title="台湾频道",东森美洲
+#EXTINF:-1 tvg-name="东森美洲台" tvg-logo="https://epg.112114.xyz/logo/DONGSENAMERICA.png" group-title="台湾频道",东森美洲
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/623325
-#EXTINF:-1 tvg-id="105059" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC10.png" group-title="台湾频道",东森幼幼
+#EXTINF:-1 tvg-id="东森幼幼台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC10.png" group-title="台湾频道",东森幼幼
 http://cases77451.cdngold.me:80/cc0b6bfb8d/e751a0ef65/623317
 #EXTINF:-1 tvg-id="东森购物1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC11.png" group-title="台湾频道",东森购物-1台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8

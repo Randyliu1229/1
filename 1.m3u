@@ -211,21 +211,9 @@ http://192.168.124.211:4022/udp/225.1.1.128:5002
 http://192.168.124.211:4022/udp/225.1.1.122:5002
 #EXTINF:-1 tvg-id="天津科教" tvg-name="天津教育" tvg-logo="https://epg.112114.xyz/logo/TIANJIN6.png" group-title="天津IPTV",天津科教
 http://192.168.124.211:4022/udp/225.1.1.129:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/HEDONGQU.jpg" group-title="天津IPTV",河东有线
-http://192.168.124.211:4022/udp/225.1.2.2:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/HEXIQU.jpg" group-title="天津IPTV",河西有线
-http://192.168.124.211:4022/udp/225.1.2.4:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/JINGHAI.jpg" group-title="天津IPTV",静海有线
-http://192.168.124.211:4022/udp/225.1.1.110:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/BAODI.jpg" group-title="天津IPTV",宝坻有线
-http://192.168.124.211:4022/udp/225.1.1.83:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/JIZHOU.png" group-title="天津IPTV",蓟州有线
-http://192.168.124.211:4022/udp/225.1.1.82:5002
-#EXTINF:-1 tvg-logo="http://iptv.im2k.com/logo/DAGANGYOUTIAN.png" group-title="天津IPTV",大港有线
-http://192.168.124.211:4022/udp/225.1.2.14:5002
-#EXTINF:-1 tvg-name="滨海新闻综合" tvg-logo="http://iptv.im2k.com/logo/BINHAI.png" group-title="天津IPTV",滨海有线-1
+#EXTINF:-1 tvg-name="滨海新闻综合" tvg-logo="http://iptv.im2k.com/logo/BINHAI.png" group-title="天津IPTV",滨海-1
 http://192.168.124.211:4022/udp/225.1.2.7:5002
-#EXTINF:-1 tvg-name="滨海综艺频道" tvg-logo="http://iptv.im2k.com/logo/BINHAI.png" group-title="天津IPTV",滨海有线-2
+#EXTINF:-1 tvg-name="滨海综艺频道" tvg-logo="http://iptv.im2k.com/logo/BINHAI.png" group-title="天津IPTV",滨海-2
 http://192.168.124.211:4022/udp/225.1.2.8:5002
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV-1
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
@@ -297,13 +285,13 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CGTNSpainish.cn" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNxbyy.png" group-title="央视频道",CGTN西语
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="央视频道",CETV-1
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV1.png" group-title="央视频道",CETV-1
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="央视频道",CETV-2
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV2.png" group-title="央视频道",CETV-2
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://epg.112114.xyz/logo/CETV3.png" group-title="央视频道",CETV-3
+#EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV3.png" group-title="央视频道",CETV-3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="央视频道",CETV-4
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV4.png" group-title="央视频道",CETV-4
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Tianjin.png" group-title="卫视频道",天津卫视
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000001000009186/index.m3u8?channel-id=wasusyt&Contentid=6000000001000009186&livemode=1&stbId=3
@@ -371,6 +359,14 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/1.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Bingtuan.png" group-title="卫视频道",兵团卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
+#EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Anduo.png" group-title="卫视频道",安多卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Kangba.png" group-title="卫视频道",康巴卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nanfang.png" group-title="卫视频道",南方卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
+#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nonglin.png" group-title="卫视频道",农林卫视
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sansha.png" group-title="卫视频道",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yanbian.png" group-title="卫视频道",延边卫视
@@ -481,10 +477,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/32212282
 http://www.51romzj.xyz/diyroms117/scxg.php?id=emdy4k_8000
 #EXTINF:-1 tvg-id="香港8K" tvg-name="香港8K" tvg-logo="https://epg.112114.xyz/logo/8KHD.png" group-title="高清频道",香港8K
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing9.png" group-title="高清频道",北京纪实科教8K
-http://www.51romzj.xyz:666/diyroms/dll/ysp/jt.php?id=bjjskj8K
-#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://epg.112114.xyz/logo/LOVENATURE.png" group-title="高清频道",LOVE NATURE 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="港澳频道",凤凰中文台
 https://fantomtv.GQ/F66252/9172822/492398
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="港澳频道",凤凰资讯台
